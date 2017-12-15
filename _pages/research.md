@@ -12,19 +12,19 @@ Research at the Hypothetical Materials Lab
 *Overview:* Our group designs *hypothetical* materials to help address energy and environmental challenges. We are interested in creating sophisticated nanostructures; potentially as complex (and useful) as molecular machines found in Nature. Our strategy is to *computationally design* and study new materials and then work work with our experimental collaborators to *synthesize those materials* in the lab.
 We are active software developers, and we build new computational tools to address problems nobody has tackled before.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=n1hcF2kYlC0" frameborder="0" title="The Plastics of the 21st Century" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n1hcF2kYlC0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" title="The Plastics of the 21st Century" allowfullscreen></iframe>
 
 ### The Plastics of the 21st Century
 
 To get a sense our research, this presentation by Prof. Wilmer concisely explains how metal-organic frameworks (MOFs) will revolutionize the way the world stores, separates, and transports gases. MOFs are one of several classes of materials that our research group focuses on.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kOGgnFtXr_Q" frameborder="0" title="New Tools for Materials Discovery" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kOGgnFtXr_Q?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### New Tools for Materials Discovery
 
 Prof. Wilmer discusses our latest venture into designing new tools for modeling large-scale hypothetical molecular systems.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QaKSekjAnqY" frameborder="0" title="High Density Energy Storage Using Self-Assembled Materials" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QaKSekjAnqY?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### High Density Energy Storage Using Self-Assembled Materials
 
