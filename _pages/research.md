@@ -19,7 +19,7 @@ computational_microscopy:
   - image_path: /assets/img/compMicroscope.png
     alt: "Computational Microscopy"
     title: "Computational Microscopy"
-    excerpt: "The "computational microscope" is a metaphor, which refers to the use of computer simulations to help us "see" phenomena at length and time scales that are too small (or too large) for us to see with our naked eyes. Computational microscopes can allow us to see the vibration of atoms in solids, or the complex ways in which proteins fold. They are also similar to "physical" microscopes in that they can take years to build and refine.
+    excerpt: "The *computational microscope* is a metaphor, which refers to the use of computer simulations to help us *see* phenomena at length and time scales that are too small (or too large) for us to see with our naked eyes. Computational microscopes can allow us to see the vibration of atoms in solids, or the complex ways in which proteins fold. They are also similar to *physical* microscopes in that they can take years to build and refine.
     In our research group, we build new computational microscopes to help see physical phenomena that were not possible to see before."
 ---
 
