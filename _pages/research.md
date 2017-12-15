@@ -1,18 +1,25 @@
 ---
-layout: single
+layout: splash
 title:  "Research"
 permalink: /research/
 date:   2017-12-15
 categories: pages
+molecular_nanostructure:
+  - image_path: /assets/img/molecularNanostructure.png
+    alt: "Molecular Nanostructures"
+    title: "Molecular Nanostructures"
+    excerpt: "The precursors to *molecular machines* are static *molecular nanostructures*.
+    Whether by DNA origami, or inorganic supramolecular chemistry, other groups have demonstrated that it is possible to build intricate, atomically precise nanostructures in many different sizes and shapes.
+    These structures can be built as storage vessels, to contain and deliver drugs, or as traps, to capture unwanted pollutants (or even viruses)."
 ---
 
 Research at the Hypothetical Materials Lab
 ==========================================
 
-*Overview:* Our group designs *hypothetical* materials to help address energy and environmental challenges. We are interested in creating sophisticated nanostructures; potentially as complex (and useful) as molecular machines found in Nature. Our strategy is to *computationally design* and study new materials and then work work with our experimental collaborators to *synthesize those materials* in the lab.
+**Overview:** Our group designs **hypothetical** materials to help address energy and environmental challenges. We are interested in creating sophisticated nanostructures; potentially as complex (and useful) as molecular machines found in Nature. Our strategy is to **computationally design** and study new materials and then work work with our experimental collaborators to **synthesize those materials** in the lab.
 We are active software developers, and we build new computational tools to address problems nobody has tackled before.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n1hcF2kYlC0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" title="The Plastics of the 21st Century" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n1hcF2kYlC0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### The Plastics of the 21st Century
 
@@ -29,6 +36,8 @@ Prof. Wilmer discusses our latest venture into designing new tools for modeling 
 ### High Density Energy Storage Using Self-Assembled Materials
 
 This movie, from Prof. Wilmer's research at Northwestern, captures the spirit of the research we do here at Pitt!
+
+{% include feature_row id="molecular_nanostructure" type="left" %}
 
 Molecular Nanostructures
 ------------------------
