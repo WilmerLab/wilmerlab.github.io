@@ -1,7 +1,7 @@
 ---
 layout: splash
-title:  "Research"
-permalink: /research/
+title:  "People"
+permalink: /people/
 date:   2017-12-15
 categories: pages
 chris_wilmer:
