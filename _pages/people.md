@@ -70,6 +70,9 @@ current_members:
 
     **Kutay is interested in molecular architecture and computational materials design.**
     He received his B.S. and M.S. degrees in Chemical and Biological Engineering from Koç University in Istanbul focusing on methane storage in metal-organic frameworks. Currently he is investigating computational design of MOFs and investigating several properties such as drug delivery, adsorption, and thermal transport. He is also working on computational design of artificial molecular machines."
+    url: "https://kbsezginel.github.io/"
+    btn_label: "More"
+    btn_class: "btn--small"
 ---
 Join the Wilmer Lab!
 ====================
