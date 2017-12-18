@@ -5,7 +5,7 @@ permalink: /sponsors/
 date:   2017-12-15
 categories: pages
 sponsors:
-  - image_path: /assets/img/sponsors/sponsors_pit_eng.png
+  - image_path: /assets/img/sponsors/sponsors_pitt_eng.png
     alt: "sponsors_pit_eng"
     title: "University of Pittsburgh"
   - image_path: /assets/img/sponsors/sponsors_ACS_PRF.png
