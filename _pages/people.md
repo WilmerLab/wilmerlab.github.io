@@ -91,3 +91,5 @@ Current Members
 
 Alumni
 ------
+
+{% include feature_row id="alumni" class="full" %}
