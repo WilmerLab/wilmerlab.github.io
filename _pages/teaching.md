@@ -2,13 +2,16 @@
 layout: splash
 title:  "Teaching"
 permalink: /teaching/
-date:   2017-12-17
+date:   2018-01-17
 categories: pages
 che3460:
   - image_path: /assets/img/teaching/molecularNanostructure.png
     alt: "che3460"
-    title: "Advanced Scientific Visual Communication (ChE 3460) Spring 2018"
+    title: "Advanced Scientific Visual Communication ChE (3460) Spring 2018"
     excerpt: "This fast-paced course will train students to produce professional scientific visual work, suitable for publications, presentations, and communicating to the public. Advanced topics, such as 3D modeling & animation, handling and visualizing large datasets, interactive displays, and 3D printing will be covered. The course will emphasize the importance of producing high quality artwork in scientific communication."
+    url: "/sciviscomm/"
+    btn_label: "More"
+    btn_class: "btn--primary"
 che314:
   - image_path: /assets/img/teaching/che314_TOC_graphic.jpg
     alt: "che314"
@@ -24,8 +27,8 @@ che2410:
 Teaching
 ========
 
-{% include feature_row id="che3460" type="left" %}
+{% include feature_row id="che3460" type="right" %}
 
-{% include feature_row id="che314" type="left" %}
+{% include feature_row id="che314" type="right" %}
 
-{% include feature_row id="che2410" type="left" %}
+{% include feature_row id="che2410" type="right" %}
