@@ -11,9 +11,11 @@ main:
     url: /people/
   - title: "Publications"
     url: /publications/
-  - title: "Collaborators"
-    url: /collaborators/
+  - title: "Tutorials"
+    url: /tutorials/
   - title: "Teaching"
     url: /teaching/
+  - title: "Collaborators"
+    url: /collaborators/
   - title: "Contact"
     url: /contact/
