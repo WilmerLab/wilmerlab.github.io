@@ -13,7 +13,8 @@ Tutorials
 ---------------------------------------------------------------------
 A compilation of scripts and tutorials for using several chemistry tools.
 These include Python scripts for conversion between common chemical files, tutorials for using
-molecular simulation software (such as OpenBabel, RASPA, LAMMPS, ...)
+molecular simulation software (such as OpenBabel, RASPA, LAMMPS, ...).
 
 [Visualization](https://kbsezginel.github.io/visualization/)
-Tutorials and examples for different scientific visualizations.
+---------------------------------------------------------------------
+Tutorials and examples (jupyter notebooks) for scientific communication.
