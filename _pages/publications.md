@@ -4,6 +4,11 @@ title:  "Publications"
 permalink: /publications/
 date:   2017-12-15
 categories: pages
+2016_babaei_acsami:
+  - image_path: /assets/img/publications/2016_babaei_acsami.gif
+    alt: "2016_babaei_acsami"
+    title: "Transient Mass and Thermal Transport during Methane Adsorption into the Metal–Organic Framework HKUST-1"
+    excerpt: "[Babaei, Hasan, Alan JH McGaughey, and Christopher E. Wilmer. Transient mass and thermal transport during methane adsorption into the metal-organic framework HKUST-1. *ACS applied materials & interfaces* **(2017)**.](http://pubs.acs.org/doi/abs/10.1021/acsami.7b13605)"
 2017_sezginel_crystengcomm:
   - image_path: /assets/img/publications/2017_sezginel_crystengcomm.png
     alt: "2017_sezginel_crystengcomm"
