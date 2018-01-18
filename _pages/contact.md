@@ -13,8 +13,8 @@ Contact
 
 <br>
 
-<a class="btn btn--large btn--primary" href="mailto:info@wilmerlab.com"><b>@ Write us</b></a>
+{: .text-center}
 
-info@wilmerlab.com
-
+<a class="btn btn--large btn--primary" href="mailto:info@wilmerlab.com"><b>@ Write us</b></a><br>
+info@wilmerlab.com <br><br>
 9th Floor, Benedum Hall, 3700 O'Hara St. Pittsburgh, PA 15261
