@@ -1,6 +1,4 @@
 main:
-  - title: "Current Website"
-    url: http://www.wilmerlab.com
   - title: "News"
     url: /news/
   - title: "Sponsors"
