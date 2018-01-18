@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en"
 title                    : "WilmerLab"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "WilmerLab"
 description              : "The Hypothetical Materials Lab"
 url                      : "https://wilmerlab.github.io"
 baseurl                  : ""
@@ -84,10 +84,10 @@ analytics:
 # Site Author
 author:
   name             : "WilmerLab"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/people/ChrisProfilePic.jpg"
   bio              : "Hypothetical Materials Lab"
   location         : "University of Pittsburgh"
-  email            :
+  email            : "all@wilmerlab.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "wilmerlab"
   gitlab           :
   google_plus      :
   keybase          :
@@ -249,7 +249,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: true
       share: true
       related: true
