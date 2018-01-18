@@ -72,12 +72,43 @@ current_members:
     He received his B.S. and M.S. degrees in Chemical and Biological Engineering from Koç University in Istanbul focusing on methane storage in metal-organic frameworks. Currently he is investigating computational design of MOFs and investigating several properties such as drug delivery, adsorption, and thermal transport. He is also working on computational design of artificial molecular machines."
     url: "https://kbsezginel.github.io/"
     btn_label: "More"
-    btn_class: "btn--small"
+    btn_class: "btm btn--primary"
 alumni:
+  - image_path: /assets/img/people/BlakeProfilePic.jpg
+    alt: "Blake Dube"
+    title: "Blake Dube"
+    excerpt: "*Undergraduate Researcher*​ <br>
+    **Blake is mapping the theoretical limits of oxygen storage.** He is a third-year undergraduate student at the University of Pittsburgh, with a major in Chemical Engineering. Blake was awarded the Brackenridge Fellowship to continue his research with the goal of shedding new light on gas storage."
   - image_path: /assets/img/people/ArashNouriProfilePic.jpg
     alt: "Arash Nouri"
     title: "Arash Nouri"
-    excerpt: "*Graduate Student*​"
+    excerpt: "*Graduate Student*​ <br>
+    He received B.Sc. and M.Sc. in Mechanical Engineering from Sharif University of Technology (SUT). Now, he is getting a PhD in Computational Modeling & Simulation (CMS) where he works on turbulent flow modeling, and a M.Sc. in Chemical Engineering.​"
+  - image_path: /assets/img/people/YechuanProfilePic.jpg
+    alt: "Yechuan Zhang"
+    title: "Yechuan Zhang"
+    excerpt: "*Graduate Student*​ <br>
+    Yechuan is interested in petrochemical industrial applications of MOFs. He received his B.S. degree majoring in Oil and Gas Storage and Transportation Engineering. Now, he is pursuing his M.S. degree in Petroleum Engineering. He believes that there is a significant potential in using MOFs to separate impurities in oil and natural gas."
+  - image_path: /assets/img/people/ConorProfilePic.jpg
+    alt: "Conor Peytom"
+    title: "Conor Peytom"
+    excerpt: "*Undergraduate Researcher*​ <br>
+    Conor is a third year undergraduate student, seeking his B.S. in Chemical Engineering. In addition to his research, Conor is in the midst of a co-op with a Pittsburgh based process engineering firm, Venture Engineering & Construction."
+  - image_path: /assets/img/people/TianyiProfilePic.jpg
+    alt: "Tianyi Feng"
+    title: "Tianyi Feng"
+    excerpt: "*Graduate Student*​ <br>
+    Tianyi received her B.S. degree in Chemical Engineering from Dalian University of Technology in China. Tianyi was twice awarded the National Scholarship as an undergraduate student, and was the leader of a National Undergraduate Training Program for Innovation named *the synthesis and flocculation properties of polymerized silicate containing magnesium sulfate, aluminum sulfate and ferric sulfate (PSMAF)*."
+  - image_path: /assets/img/people/NatalieProfilePic.jpg
+    alt: "Natalie Isenberg"
+    title: "Natalie Isenberg"
+    excerpt: "*Undergraduate Researcher*​ <br>
+    In the WilmerLab, Natalie studied quasicrystals and MOF-sensor arrays using grand canonical Monte Carlo simulations to predict gas adsorption on the sensors."
+  - image_path: /assets/img/people/KatelynProfilePic.jpg
+    alt: "Katelyn Dray"
+    title: "Katelyn Dray"
+    excerpt: "*Undergraduate Researcher*​ <br>
+    In the WilmerLab, Katelyn designed a series of DNA-origami based drug-delivery *tubes* and calculated drug diffusivity in them using molecular simulations."
 ---
 Join the Wilmer Lab!
 ====================
@@ -85,11 +116,11 @@ Join the Wilmer Lab!
 {% include feature_row id="chris_wilmer" type="left" %}
 
 Current Members
----------------
+===============
 
 {% include feature_row id="current_members" class="full" %}
 
 Alumni
-------
+======
 
 {% include feature_row id="alumni" class="full" %}
