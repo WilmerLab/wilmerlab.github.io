@@ -7,6 +7,6 @@ header:
   teaser: /assets/img/posts/news_ACS_PRF.png
 ---
 
-![ACS_PRF](/assets/img/posts/news_ACS_PRF.png)
+![ACS_PRF](/assets/img/posts/news_ACS_PRF.png){: .align-center}
 
 This research will fund our research on thermal transport in MOFs!

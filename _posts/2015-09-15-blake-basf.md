@@ -7,6 +7,6 @@ header:
   teaser: /assets/img/posts/news_BASF.jpg
 ---
 
-![basf](/assets/img/posts/news_BASF.jpg)
+![basf](/assets/img/posts/news_BASF.jpg){: .align-center}
 
 BASF is the largest chemical producer in the world. Congratulations Blake!
