@@ -69,3 +69,12 @@ Assignments
 -   Journal Figure
 -   Cover Art
 -   Movie Project
+
+Speed Figures
+-------------
+
+**Figure Redraw**
+
+<a href="/assets/img/teaching/Class4_FigureRedraw.jpg">
+  <img border="0" src="/assets/img/teaching/Class4_FigureRedraw.jpg">
+</a>
