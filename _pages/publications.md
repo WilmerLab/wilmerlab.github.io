@@ -38,7 +38,7 @@ categories: pages
   - image_path: /assets/img/publications/2016_babaei_prl.jpg
     alt: "2016_babaei_prl"
     title: "Mechanisms of Heat Transfer in Porous Crystals Containing Adsorbed Gases: Applications to Metal-Organic Frameworks"
-    excerpt: "**26.** [Babaei, Hasan, and Christopher E. Wilmer. Mechanisms of heat transfer in porous crystals containing adsorbed gases: Applications to metal-organic frameworks. *Physical Review Letters* 116.2 **(2016)**: 025902.](http://pubs.rsc.org/-/content/articlehtml/2016/sc/c6sc03704f)"
+    excerpt: "**26.** [Babaei, Hasan, and Christopher E. Wilmer. Mechanisms of heat transfer in porous crystals containing adsorbed gases: Applications to metal-organic frameworks. *Physical Review Letters* 116.2 **(2016)**: 025902.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.025902)"
 2014_olga_inorganicchemistry:
   - image_path: /assets/img/publications/2014_olga_inorganicchemistry.jpg
     alt: "2014_olga_inorganicchemistry"
