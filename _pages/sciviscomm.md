@@ -66,12 +66,12 @@ Useful references: ([Surface acoustic wave sensor [Wikipedia]](https://en.wikipe
 Assignments
 -----------
 -   [Textbook Figure (click here)](/assets/files/2018_AdSciVis_Assignment1.pdf){:target="_blank"}
--   Journal Figure
+-   [Journal Figure (click here)](/assets/files/2018_AdSciVis_Assignment2.pdf){:target="_blank"}
+    -   [Proposal 1 data](/assets/files/Assignment2_proposal1_data.xlsx){:target="_blank"}
+    -   [Proposal 2 data](/assets/files/Assignment2_proposal2_data.xlsx){:target="_blank"}
+    -   [Proposal 3 data](/assets/files/Assignment2_proposal3_data.xlsx){:target="_blank"}
 -   Cover Art
 -   Movie Project
-
-Speed Figures
--------------
 
 **Figure Redraw**
 
