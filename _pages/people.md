@@ -19,6 +19,9 @@ chris_wilmer:
 
     **Selected Awards and Honors**<br>
 
+    2017 CoMSEF Young Investigator Award<br>
+    2017 Scialog Fellow<br>
+    2017 Foresight Fellow<br>
     2014 Invited speaker to Google's Solve-for-X annual meeting<br>
     2013 AIChE Computational Molecular Science & Engineering Graduate Student Award<br>
     2012 Named to the Forbes Top 30-Under-30 list in Energy Innovation<br>
