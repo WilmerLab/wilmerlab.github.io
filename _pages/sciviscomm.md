@@ -71,8 +71,7 @@ Assignments
     -   [Proposal 2 data](/assets/files/Assignment2_proposal2_data.xlsx){:target="_blank"}
     -   [Proposal 3 data](/assets/files/Assignment2_proposal3_data.xlsx){:target="_blank"}
 -   [Interactive Plotting with Python](https://kbsezginel.github.io/visualization/sciviscomm#4){:target="_blank"}
--   Cover Art
--   Movie Project
+-   [Cover Art / Movie Project (click here)](/assets/files/2018_AdSciVis_Assignment3.pdf){:target="_blank"}
 
 **Figure Redraw**
 
