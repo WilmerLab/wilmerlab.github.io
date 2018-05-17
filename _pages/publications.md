@@ -4,6 +4,11 @@ title:  "Publications"
 permalink: /publications/
 date:   2017-12-15
 categories: pages
+2018_gustafson_sensactuatorsb:
+  - image_path: /assets/img/publications/2018_gustafson_sensactuatorsb.jpg
+    alt: "2018_gustafson_sensactuatorsb"
+    title: "Optimizing information content in MOF sensor arrays for analyzing methane-air mixtures"
+    excerpt: "**33.** [Gustafson, J. A., Wilmer, C. E. Optimizing information content in MOF sensor arrays for analyzing methane-air mixtures. *Sensors and Actuators B: Chemical* **(2018)**.](http://www.sciencedirect.com/science/article/pii/S0925400518307457)"
 2018_sezginel_chemmater:
   - image_path: /assets/img/publications/2018_sezginel_chemmater.png
     alt: "2018_sezginel_chemmater"
