@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: The Hypothetical Materials Lab
 ---
-![group-photo](/assets/img/people/Oct2015_groupphoto.jpg)
+![group-photo](/assets/img/people/GroupPhoto_May2018.jpg)
 
 **Welcome to the Wilmer Lab!**
 We explore the properties of hypothetical materials using computer simulations.
