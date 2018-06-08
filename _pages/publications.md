@@ -8,47 +8,47 @@ categories: pages
   - image_path: /assets/img/publications/2018_gustafson_sensactuatorsb.jpg
     alt: "2018_gustafson_sensactuatorsb"
     title: "Optimizing information content in MOF sensor arrays for analyzing methane-air mixtures"
-    excerpt: "**33.** [Gustafson, J. A., Wilmer, C. E. Optimizing information content in MOF sensor arrays for analyzing methane-air mixtures. *Sensors and Actuators B: Chemical* **(2018)**.](http://www.sciencedirect.com/science/article/pii/S0925400518307457)"
+    excerpt: "**33.** [J. A. Gustafson and C. E. Wilmer, Optimizing information content in MOF sensor arrays for analyzing methane-air mixtures, *Sensors and Actuators B: Chemical*, 267, 483-493 **(2018)**.](http://www.sciencedirect.com/science/article/pii/S0925400518307457)"
 2018_sezginel_chemmater:
   - image_path: /assets/img/publications/2018_sezginel_chemmater.png
     alt: "2018_sezginel_chemmater"
     title: "Thermal transport in interpenetrated metal-organic frameworks"
-    excerpt: "**32.** [Sezginel, K. B., Asinger, P. A., Babaei, H., & Wilmer, C. E. Thermal transport in interpenetrated metal-organic frameworks. *Chemistry of Materials* **(2018)**.](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b05015)"
+    excerpt: "**32.** [K. B. Sezginel, P. A. Asinger, H. Babaei, and C. E. Wilmer, Thermal transport in interpenetrated metal-organic frameworks, *Chemistry of Materials*, 30, 2281-2286 **(2018)**.](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b05015)"
 2017_babaei_acsami:
   - image_path: /assets/img/publications/2017_babaei_acsami.gif
     alt: "2016_babaei_acsami"
     title: "Transient Mass and Thermal Transport during Methane Adsorption into the Metal–Organic Framework HKUST-1"
-    excerpt: "**31.** [Babaei, Hasan, Alan JH McGaughey, and Christopher E. Wilmer. Transient mass and thermal transport during methane adsorption into the metal-organic framework HKUST-1. *ACS applied materials & interfaces* **(2017)**.](http://pubs.acs.org/doi/abs/10.1021/acsami.7b13605)"
+    excerpt: "**31.** [H. Babaei, A. J. H. McGaughey, and C. E. Wilmer. Transient mass and thermal transport during methane adsorption into the metal-organic framework HKUST-1, *ACS applied materials & interfaces*, 10, 2400-2406 **(2017)**.](http://pubs.acs.org/doi/abs/10.1021/acsami.7b13605)"
 2017_sezginel_crystengcomm:
   - image_path: /assets/img/publications/2017_sezginel_crystengcomm.png
     alt: "2017_sezginel_crystengcomm"
     title: "Discovery of hypothetical hetero-interpenetrated MOFs with arbitrarily dissimilar topologies and unit cell shapes"
-    excerpt: "**30.** [Sezginel, K. B., T. Feng, and C. E. Wilmer. Discovery of hypothetical hetero-interpenetrated MOFs with arbitrarily dissimilar topologies and unit cell shapes. *CrystEngComm* 19.31 **(2017)**: 4497-4504.](http://pubs.rsc.org/en/content/articlelanding/2017/ce/c7ce00290d)"
+    excerpt: "**30.** [Sezginel, K. B., T. Feng, and C. E. Wilmer. Discovery of hypothetical hetero-interpenetrated MOFs with arbitrarily dissimilar topologies and unit cell shapes, *CrystEngComm*, 19, 4497-4504 **(2017)**.](http://pubs.rsc.org/en/content/articlelanding/2017/ce/c7ce00290d)"
 2017_kaija_faraday:
   - image_path: /assets/img/publications/2017_kaija_faraday.png
     alt: "2017_kaija_faraday"
     title: "Efficiently mapping structure–property relationships of gas adsorption in porous materials: application to Xe adsorption"
-    excerpt: "**29.** [Kaija, A. R., and C. E. Wilmer. Efficiently mapping structure–property relationships of gas adsorption in porous materials: application to Xe adsorption. *Faraday discussions* 201 **(2017)**: 221-232.](http://pubs.rsc.org/en/content/articlelanding/fd/2017/c7fd00038c)"
+    excerpt: "**29.** [A. R. Kaija and C. E. Wilmer. Efficiently mapping structure–property relationships of gas adsorption in porous materials: application to Xe adsorption, *Faraday discussions*, 201, 221-232 **(2017)**.](http://pubs.rsc.org/en/content/articlelanding/fd/2017/c7fd00038c)"
 2017_gustafson_jpcc:
   - image_path: /assets/img/publications/2017_gustafson_jpcc.jpg
     alt: "2017_gustafson_jpcc"
     title: "Computational Design of Metal–Organic Framework Arrays for Gas Sensing: Influence of Array Size and Composition on Sensor Performance"
-    excerpt: "**28.** [Gustafson, Jenna A., and Christopher E. Wilmer. Computational Design of Metal–Organic Framework Arrays for Gas Sensing: Influence of Array Size and Composition on Sensor Performance. *The Journal of Physical Chemistry C* 121.11 **(2017)**: 6033-6038.](http://pubs.rsc.org/en/content/articlelanding/fd/2017/c7fd00038c)"
+    excerpt: "**28.** [J. A. Gustafson and C. E. Wilmer. Computational Design of Metal–Organic Framework Arrays for Gas Sensing: Influence of Array Size and Composition on Sensor Performance, *The Journal of Physical Chemistry C*, 121, 6033-6038 **(2017)**.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b09740)"
 2016_babaei_chemsci:
   - image_path: /assets/img/publications/2016_babaei_chemsci.jpg
     alt: "2016_babaei_chemsci"
     title: "Effect of pore size and shape on the thermal conductivity of metal-organic frameworks"
-    excerpt: "**27.** [Babaei, Hasan, Alan JH McGaughey, and Christopher E. Wilmer. Effect of pore size and shape on the thermal conductivity of metal-organic frameworks. *Chemical Science* 8.1 **(2017)**: 583-589.](http://pubs.rsc.org/-/content/articlehtml/2016/sc/c6sc03704f)"
+    excerpt: "**27.** [H. Babaei, A. J. H. McGaughey, and C. E. Wilmer. Effect of pore size and shape on the thermal conductivity of metal-organic frameworks, *Chemical Science*, 8, 583-589 **(2017)**.](http://pubs.rsc.org/-/content/articlehtml/2016/sc/c6sc03704f)"
 2016_babaei_prl:
   - image_path: /assets/img/publications/2016_babaei_prl.jpg
     alt: "2016_babaei_prl"
     title: "Mechanisms of Heat Transfer in Porous Crystals Containing Adsorbed Gases: Applications to Metal-Organic Frameworks"
-    excerpt: "**26.** [Babaei, Hasan, and Christopher E. Wilmer. Mechanisms of heat transfer in porous crystals containing adsorbed gases: Applications to metal-organic frameworks. *Physical Review Letters* 116.2 **(2016)**: 025902.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.025902)"
+    excerpt: "**26.** [H. Babaei and C. E. Wilmer. Mechanisms of heat transfer in porous crystals containing adsorbed gases: Applications to metal-organic frameworks, *Physical Review Letters*, 116, 025902 **(2016)**.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.025902)"
 2014_olga_inorganicchemistry:
   - image_path: /assets/img/publications/2014_olga_inorganicchemistry.jpg
     alt: "2014_olga_inorganicchemistry"
     title: "Enhanced gas sorption properties and unique behavior toward liquid water in a pillared-paddlewheel metal–organic framework transmetalated with Ni(II)"
-    excerpt: "**25.** [O. Karagiaridi, W. Bury, D. Fairen-Jimenez, C.E. Wilmer, A.A. Sarjeant, J.T. Hupp, and Omar K. Farha, Enhanced gas sorption properties and unique behavior toward liquid water in a pillared-paddlewheel metal–organic framework transmetalated with Ni(II), *Inorganic Chemistry*, 53, 10432–10436 **(2014)**.](http://pubs.acs.org/doi/abs/10.1021/ic501467w)"
+    excerpt: "**25.** [O. Karagiaridi, W. Bury, D. Fairen-Jimenez, C.E. Wilmer, A.A. Sarjeant, J.T. Hupp, and O. K. Farha, Enhanced gas sorption properties and unique behavior toward liquid water in a pillared-paddlewheel metal–organic framework transmetalated with Ni(II), *Inorganic Chemistry*, 53, 10432–10436 **(2014)**.](http://pubs.acs.org/doi/abs/10.1021/ic501467w)"
 2014_diego_jpcc:
   - image_path: /assets/img/publications/2014_diego_jpcc.jpg
     alt: "2014_diego_jpcc"
