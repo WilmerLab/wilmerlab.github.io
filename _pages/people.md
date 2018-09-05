@@ -76,7 +76,7 @@ current_members:
     url: "https://kbsezginel.github.io/"
     btn_label: "More"
     btn_class: "btm btn--primary"
-  - image_path: /assets/img/people/KutayProfilePic.jpg
+  - image_path: /assets/img/people/BrianProfilePic.jpg
     alt: "Brian Day"
     title: "Brian Day"
     excerpt: "*Graduate Student*<br>
@@ -88,7 +88,7 @@ current_members:
     title: "Michelene Saliba"
     excerpt: "*Undergraduate Researcher*<br>
     
-    **Michelene is designing gas sensors for the detection of lung cancer biomarkers. **
+    **Michelene is designing gas sensors for the detection of lung cancer biomarkers.**
     She is currently working towards a degree in Biology from Carlow University in Pittsburgh."
 
 alumni:
