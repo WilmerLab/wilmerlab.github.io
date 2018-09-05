@@ -82,14 +82,14 @@ current_members:
     excerpt: "*Graduate Student*<br>
     
     **Brian in screening materials for electronic conductivity.**
-    He received his B.S. degree in Chemical Engineering from Lehigh University in 2016. Previosuly he worked on designing nanostrucutred electrodes for lithium metal batteries. Presently he is investigating how to screen MOFs based on electornic conductivity." 
+    He received his B.S. degree in Chemical Engineering from Lehigh University in 2016 where he worked on synthesizing nanoporous films. He also worked on designing nanostructured electrodes for lithium metal batteries. Presently, he is investigating how to screen MOFs based on their electronic properties." 
   - image_path: /assets/img/people/MicheleneProfilePic.jpg
     alt: "Michelene Saliba"
     title: "Michelene Saliba"
     excerpt: "*Undergraduate Researcher*<br>
     
     **Michelene is designing gas sensors for the detection of lung cancer biomarkers.**
-    She is currently working towards a degree in Biology from Carlow University in Pittsburgh."
+    She is currently working towards a degree in Biology from Carlow University in Pittsburgh, PA."
 
 alumni:
   - image_path: /assets/img/people/GenesisProfilePic.jpg
@@ -97,7 +97,7 @@ alumni:
     title: "Genesis Ruiz"
     excerpt: "*Undergraduate Researcher*<br>
     **Genesis is studying how the partial charges in MOFs may affect the diffusion of gases.**
-    She will have earned her degree in Chemical engineering at the University of Puerto Rico, Mayaguez Campus, in 2019. She has researched in different areas such as Environmental Chemistry, Pharmaceutical and Bio-Medical Engineering. The latter at Washington State University, where she studies techniques for the isolation and purification of potential biomakrers for early diagnostics in cancerous diseases."
+    She will have earned her degree in Chemical Engineering at the University of Puerto Rico, Mayaguez Campus, in 2019. She has researched in different areas such as Environmental Chemistry, Pharmaceutical and Bio-Medical Engineering. The latter at Washington State University, where she studied techniques for the isolation and purification of potential biomarkers for early diagnostics in cancerous diseases."
   - image_path: /assets/img/people/BlakeProfilePic.jpg
     alt: "Blake Dube"
     title: "Blake Dube"
