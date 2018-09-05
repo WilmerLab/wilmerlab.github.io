@@ -76,7 +76,7 @@ current_members:
     url: "https://kbsezginel.github.io/"
     btn_label: "More"
     btn_class: "btm btn--primary"
-  - image_path: /assets/img/people/KutayProfilePic.jpg
+  - image_path: /assets/img/people/BrianProfilePic.jpg
     alt: "Brian Day"
     title: "Brian Day"
     excerpt: "*Graduate Student*<br>
@@ -88,14 +88,14 @@ current_members:
     title: "Michelene Saliba"
     excerpt: "*Undergraduate Researcher*<br>
     
-    **Michelene is designing gas sensors for the detection of lung cancer biomarkers. **
+    **Michelene is designing gas sensors for the detection of lung cancer biomarkers.**
     She is currently working towards a degree in Biology from Carlow University in Pittsburgh."
 
 alumni:
   - image_path: /assets/img/people/GenesisProfilePic.jpg
     alt: "Genesis Ruiz"
     title: "Genesis Ruiz"
-    excerpt: "*Undergraduate Researcher*<br>
+    excerpt: "*Undergraduate Researcher*​ <br>
     **Genesis is studying how the partial charges in MOFs may affect the diffusion of gases.**
     She will have earned her degree in Chemical engineering at the University of Puerto Rico, Mayaguez Campus, in 2019. She has researched in different areas such as Environmental Chemistry, Pharmaceutical and Bio-Medical Engineering. The latter at Washington State University, where she studies techniques for the isolation and purification of potential biomakrers for early diagnostics in cancerous diseases."
   - image_path: /assets/img/people/BlakeProfilePic.jpg
