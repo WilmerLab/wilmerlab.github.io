@@ -2,7 +2,7 @@
 layout: splash
 title:  "Teaching"
 permalink: /teaching/
-date:   2018-01-17
+date:   2018-09-05
 categories: pages
 che3460:
   - image_path: /assets/img/teaching/molecularNanostructure.png
@@ -23,6 +23,7 @@ che2410:
     title: "Mathematical Methods in Chemical Engineering (ChE 2410) Fall 2016"
     excerpt: "The objective of this course is to learn mathematical methods used in chemical engineering -- primarily those dealing with solving differential equations. By the end of the course students should be able to apply these methods to tackle the kinds of problems that appear in chemical engineering research."
 ---
+<p> </p>
 
 Teaching
 ========

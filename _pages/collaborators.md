@@ -2,7 +2,7 @@
 layout: splash
 title:  "Collaborators"
 permalink: /collaborators/
-date:   2017-12-15
+date:   2018-09-05
 categories: pages
 collaborators:
   - image_path: /assets/img/collaborators/collabOmarPic.jpg
@@ -136,6 +136,7 @@ collaborators:
     excerpt: "Northwestern University <br> Chemistry <br>
     **Keywords:** Experimental, interdisciplinary, physical, inorganic, materials and organic chemistry, materials for alternative energy applications and other environmental issues."
 ---
+<p> </p>
 
 Collaborators
 =============

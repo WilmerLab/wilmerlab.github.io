@@ -1,13 +1,12 @@
 ---
-layout: splash
+layout: single
+author_profile: true
 title:  "Tutorials"
 permalink: /tutorials/
-date:   2018-01-17
+date:   2018-09-05
 categories: pages
 ---
 
-Tutorials
-=========
 
 [Chemistry tools](https://kbsezginel.github.io/chem-tools-tutorials/)
 ---------------------------------------------------------------------

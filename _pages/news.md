@@ -2,8 +2,8 @@
 layout: archive
 title:  "News"
 permalink: /news/
-author_profile: false
-date:   2017-12-15
+author_profile: true
+date:   2018-09-05
 categories: pages
 read_time: false
 ---

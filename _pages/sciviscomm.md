@@ -2,7 +2,7 @@
 layout: splash
 title:  "Advanced Scientific Visual Communication"
 permalink: /sciviscomm/
-date:   2018-01-17
+date:   2018-09-05
 categories: pages
 sciviscomm_examples:
   - image_path: /assets/img/teaching/naturecover_400x300.jpg
@@ -12,6 +12,7 @@ sciviscomm_examples:
   - image_path: /assets/img/teaching/cell_400x300.jpg
     alt: "cell"
 ---
+<p> </p>
 
 Advanced Scientific Visual Communication (ChE 3460) Spring 2018
 ===============================================================

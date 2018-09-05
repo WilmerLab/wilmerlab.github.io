@@ -2,7 +2,7 @@
 layout: splash
 title:  "Research"
 permalink: /research/
-date:   2017-12-15
+date:   2018-09-05
 categories: pages
 molecular_nanostructure:
   - image_path: /assets/img/research/molecularNanostructure.png
@@ -22,9 +22,11 @@ computational_microscopy:
     excerpt: "The *computational microscope* is a metaphor, which refers to the use of computer simulations to help us *see* phenomena at length and time scales that are too small (or too large) for us to see with our naked eyes. Computational microscopes can allow us to see the vibration of atoms in solids, or the complex ways in which proteins fold. They are also similar to *physical* microscopes in that they can take years to build and refine.
     In our research group, we build new computational microscopes to help see physical phenomena that were not possible to see before."
 ---
+<p> </p>
 
 Research at the Hypothetical Materials Lab
-==========================================
+=================================================
+
 
 **Overview:** Our group designs **hypothetical** materials to help address energy and environmental challenges. We are interested in creating sophisticated nanostructures; potentially as complex (and useful) as molecular machines found in Nature. Our strategy is to **computationally design** and study new materials and then work work with our experimental collaborators to **synthesize those materials** in the lab.
 We are active software developers, and we build new computational tools to address problems nobody has tackled before.

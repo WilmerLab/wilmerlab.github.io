@@ -1,8 +1,9 @@
 ---
-layout: splash
-title:  "Sponsors"
+layout: single
+title:  "Sponsor our research!"
+author_profile: true
 permalink: /sponsors/
-date:   2017-12-15
+date:   2018-09-05
 categories: pages
 sponsors:
   - image_path: /assets/img/sponsors/sponsors_pitt_eng.png
@@ -15,9 +16,6 @@ sponsors:
     alt: "sponsors_nsf"
     title: "National Science Foundation"
 ---
-
-Sponsor our research!
-=====================
 
 Your name, company, institution or funding agency will be listed here for all to see, along with links to all of the publications and work your contribution made possible.
 

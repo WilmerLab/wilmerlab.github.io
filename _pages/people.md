@@ -80,14 +80,14 @@ current_members:
     alt: "Brian Day"
     title: "Brian Day"
     excerpt: "*Graduate Student*<br>
-    
+
     **Brian in screening materials for electronic conductivity.**
-    He received his B.S. degree in Chemical Engineering from Lehigh University in 2016 where he worked on synthesizing nanoporous films. He also worked on designing nanostructured electrodes for lithium metal batteries. Presently, he is investigating how to screen MOFs based on their electronic properties." 
+    He received his B.S. degree in Chemical Engineering from Lehigh University in 2016 where he worked on synthesizing nanoporous films. He also worked on designing nanostructured electrodes for lithium metal batteries. Presently, he is investigating how to screen MOFs based on their electronic properties."
   - image_path: /assets/img/people/MicheleneProfilePic.jpg
     alt: "Michelene Saliba"
     title: "Michelene Saliba"
     excerpt: "*Undergraduate Researcher*<br>
-    
+
     **Michelene is designing gas sensors for the detection of lung cancer biomarkers.**
     She is currently working towards a degree in Biology from Carlow University in Pittsburgh, PA."
 
@@ -134,6 +134,8 @@ alumni:
     excerpt: "*Undergraduate Researcher*​ <br>
     In the WilmerLab, Katelyn designed a series of DNA-origami based drug-delivery *tubes* and calculated drug diffusivity in them using molecular simulations."
 ---
+<p> </p>
+
 Join the Wilmer Lab!
 ====================
 

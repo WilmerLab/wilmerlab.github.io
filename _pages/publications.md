@@ -2,7 +2,7 @@
 layout: splash
 title:  "Publications"
 permalink: /publications/
-date:   2017-12-15
+date:   2018-09-05
 categories: pages
 2018_gustafson_sensactuatorsb:
   - image_path: /assets/img/publications/2018_gustafson_sensactuatorsb.png
@@ -175,6 +175,7 @@ categories: pages
     title: "Self-assembly: from crystals to cells"
     excerpt: "**1.** [Grzybowski, Bartosz A., et al. Self-assembly: from crystals to cells. *Soft Matter* 5.6 **(2009)**: 1110-1128.](http://pubs.rsc.org/en/content/articlehtml/2009/sm/b819321p)"
 ---
+<p> </p>
 
 Publications
 ============
