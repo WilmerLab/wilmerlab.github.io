@@ -56,8 +56,8 @@ current_members:
     title: "Alec Kaija"
     excerpt: "*Graduate Student*<br>
 
-    **Alec is determining the theoretical performance limits of MOFs.**
-    Previously, he studied Chemical Engineering and Spanish as an undergraduate in the International Engineering Program at the University of Rhode Island. While living in Spain he spent time working at a biopharmaceutical CMO and, upon return, completed a design project for mapping the neutron flux profile of the nuclear research reactor at RINSC."
+    **Alec is investigating structure-property relationships for porous materials.**
+    He received a B.Sc. in Chemical Engineering and a B.A. in Spanish with a minor in Nuclear Engineering from the University of Rhode Island in 2014. Currently he is investigating structure-property relationships of porous materials for applications including high-pressure methane storage and carbon capture. He is also a co-founder and Technical Adviser of [Aeronics, Inc](https://www.aeronicsinc.com/)."
   - image_path: /assets/img/people/JennaProfilePic.jpg
     alt: "Jenna Gustafson"
     title: "Jenna Gustafson"
