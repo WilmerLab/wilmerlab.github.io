@@ -14,8 +14,8 @@ chris_wilmer:
     B.A.Sc. Engineering Science, University of Toronto, 2007<br>
     Ph.D. Chemical Engineering, Northwestern University, 2013<br>
     Postdoctoral Fellow, Chemistry, Harvard University, 2014<br>
-    Co-founder and Technical Advisor, NuMat Technologies<br>
-
+    Co-founder and Technical Advisor, [NuMat Technologies](https://www.numat-tech.com/)<br>
+    Co-founder and Technical Adviser, [Aeronics, Inc.](https://www.aeronicsinc.com/)<br>
 
     **Selected Awards and Honors**<br>
 
