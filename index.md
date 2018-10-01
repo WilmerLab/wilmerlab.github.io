@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 title: The Hypothetical Materials Lab
+num_posts: 8
 ---
 ![group-photo](/assets/img/people/GroupPhoto_May2018.jpg)
 
@@ -15,7 +16,7 @@ Please contact Prof. Wilmer for details.
 <div class="grid__wrapper">
   {% assign num_posts = 0 %}
   {% for post in site.posts %}
-    {% if num_posts < 4 %}
+    {% if num_posts < page.num_posts %}
       {% include archive-single-date.html type="grid" %}
     {% endif %}
     {% assign num_posts = num_posts | plus: 1 %}
