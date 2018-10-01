@@ -17,3 +17,6 @@ molecular simulation software (such as OpenBabel, RASPA, LAMMPS, ...).
 [Visualization](https://kbsezginel.github.io/visualization/)
 ---------------------------------------------------------------------
 Tutorials and examples (jupyter notebooks) for scientific communication.
+
+[Editing WilmerLab Website](/contributing)
+------------------------------------------
