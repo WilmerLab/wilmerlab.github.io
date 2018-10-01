@@ -5,7 +5,7 @@ permalink: /publications/
 date:   2018-09-05
 categories: pages
 2018_kaija_jpcl:
-  - image_path: /assets/img/publications/2018_kaija_jpcl.gif
+  - image_path: /assets/img/publications/2018_kaija_jpcl.png
     alt: "2018_kaija_jpcl"
     title: "High-Pressure Methane Adsorption in Porous Lennard-Jones Crystals"
     excerpt: "**35.** [A. R. Kaija and C. E. Wilmer, High-Pressure Methane Adsorption in Porous Lennard-Jones Crystals, *Journal of Physical Chemistry Letters*, 9 (15), 4275-4281 **(2018)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01421)"
@@ -60,7 +60,7 @@ categories: pages
     title: "Enhanced gas sorption properties and unique behavior toward liquid water in a pillared-paddlewheel metal–organic framework transmetalated with Ni(II)"
     excerpt: "**25.** [O. Karagiaridi, W. Bury, D. Fairen-Jimenez, C.E. Wilmer, A.A. Sarjeant, J.T. Hupp, and O. K. Farha, Enhanced gas sorption properties and unique behavior toward liquid water in a pillared-paddlewheel metal–organic framework transmetalated with Ni(II), *Inorganic Chemistry*, 53, 10432–10436 **(2014)**.](http://pubs.acs.org/doi/abs/10.1021/ic501467w)"
 2014_diego_jpcc:
-  - image_path: /assets/img/publications/2014_diego_jpcc.jpg
+  - image_path: /assets/img/publications/2014_diego_jpcc.png
     alt: "2014_diego_jpcc"
     title: "Exploring the limits of methane storage and delivery in nanoporous materials"
     excerpt: "**24.** [D.A. Gomez-Gualdron, C.E. Wilmer, O.K. Farha, J.T. Hupp, and R.Q. Snurr, Exploring the limits of methane storage and delivery in nanoporous materials, *Journal of Physical Chemistry C*, 118, 6941-6951 **(2014)**.](http://pubs.acs.org/doi/abs/10.1021/jp502359q)"
@@ -80,7 +80,7 @@ categories: pages
     title: "The effect of pyridine modification of Ni/DOBDC on CO<sub>2</sub> capture under humid conditions"
     excerpt: "**21.** [Y.-S. Bae, J. Liu, C.E. Wilmer, H. Sun, A.N. Dickey, M.B. Kim, A.I. Benin, R.R. Willis, D. Barpaga, D. Levan, and R.Q. Snurr, The effect of pyridine modification of Ni/DOBDC on CO<sub>2</sub> capture under humid conditions, *Chemical Communications*, 50, 3296-3298 **(2014)**.](http://pubs.rsc.org/EN/content/articlelanding/2014/cc/c3cc44954h)"
 2013_kennedy_chemmat:
-  - image_path: /assets/img/publications/2013_kennedy_chemmat.jpg
+  - image_path: /assets/img/publications/2013_kennedy_chemmat.png
     alt: "2013_kennedy_chemmat"
     title: "Carborane-based metal-organic framework with high methane and hydrogen storage capacities"
     excerpt: "**20.** [R.D Kennedy, V. Krungleviciute, D.J. Clingerman, J.E. Mondloch, Y. Peng, C.E. Wilmer, A.A. Sarjeant, R.Q. Snurr, J.T. Hupp, T. Yildirim, O.K. Farha, and C.A. Mirkin, Carborane-based metal-organic framework with high methane and hydrogen storage capacities, *Chemistry of Materials*, 25, 3539-3543 **(2013)**.](http://pubs.acs.org/doi/abs/10.1021/cm4020942)"
@@ -150,7 +150,7 @@ categories: pages
     title: "Review and analysis of molecular simulations of methane, hydrogen, and acetylene storage in metal-organic frameworks"
     excerpt: "**7.** [R.B. Getman, Y.-S. Bae, C.E. Wilmer and R.Q. Snurr. Review and analysis of molecular simulations of methane, hydrogen, and acetylene storage in metal-organic frameworks. *Chemical Reviews* 112 **(2012)**: 703-723](http://pubs.acs.org/doi/abs/10.1021/cr200217c)"
 2011_wilmer_cej:
-  - image_path: /assets/img/publications/2011_wilmer_cej.jpg
+  - image_path: /assets/img/publications/2011_wilmer_cej.png
     alt: "2011_wilmer_cej"
     title: "Towards rapid computational screening of metal-organic frameworks for carbon dioxide capture: Calculation of framework charges via charge equilibration"
     excerpt: "**6.** [Wilmer, Christopher E., and Randall Q. Snurr. Towards rapid computational screening of metal-organic frameworks for carbon dioxide capture: Calculation of framework charges via charge equilibration. *Chemical engineering journal* 171.3 **(2011)**: 775-781.](http://www.sciencedirect.com/science/article/pii/S1385894710009551)"
