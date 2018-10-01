@@ -4,7 +4,7 @@ title:  "Aeronics releases its first product: Everyday Oxygen"
 date:   2018-08-07
 categories: posts
 header:
-  teaser: assets/img/posts/EveryDayOxygen-Trio.jpg
+  teaser: assets/img/posts/everydayoxygen_teaser.png
 excerpt: "Aeronics launches pre-sales for first product!"
 ---
 *April 25th, 2017*

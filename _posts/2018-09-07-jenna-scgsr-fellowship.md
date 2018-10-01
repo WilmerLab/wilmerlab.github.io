@@ -4,12 +4,13 @@ title:  "Jenna receives U.S. DOE Office of Science Graduate Student Research (SC
 date:   2018-09-07
 categories: posts
 header:
-  teaser: assets/img/posts/netl_logo.jpg
+  teaser: assets/img/posts/netl_logo.png
 excerpt: "The SCGSR award offers Jenna the opportunity to carry out research at the National Energy Technology Laboratory (NETL)."
 ---
+*September 7th, 2018*
+
 The [SCGSR award](https://science.energy.gov/wdts/scgsr/){:target="_blank"} offers Jenna the opportunity to carry out research at the National Energy Technology Laboratory (NETL).
 
-*September 7th, 2018*
 ---------
 ![paper_toc_graphic](/assets/img/posts/netl_logo.jpg){: .align-center}
 

@@ -4,7 +4,7 @@ title:  "Aeronics advances to Phase III of xTechSearch competition."
 date:   2018-09-16
 categories: posts
 header:
-  teaser: assets/img/posts/xtechsearch.jpg
+  teaser: assets/img/posts/xtechsearch_teaser.png
 excerpt: "Aeronics becomes one of 25 finalists attending the Association of the United States Army (AUSA) Annual Meeting & Exposition in Washington, DC."
 ---
 *September 16th, 2018*

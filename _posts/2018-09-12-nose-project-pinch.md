@@ -4,7 +4,7 @@ title:  "Artificial nose project makes it to final round of the Pitt Innovation 
 date:   2018-09-12
 categories: posts
 header:
-  teaser: assets/img/posts/pinch_logo.jpg
+  teaser: assets/img/posts/pinch_logo_teaser.png
 excerpt: "The design of an artificial nose for disease detection and health monitoring earns Dr. Wilmer
 and PhD student Jenna Gustafson a spot in the top six teams for the 3rd and final round of PInCh 2018."
 ---

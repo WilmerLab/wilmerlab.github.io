@@ -4,7 +4,7 @@ title:  "Talk on designing artificial noses using MOFs earns Outstanding Oral Pr
 date:   2018-02-20
 categories: posts
 header:
-  teaser: assets/img/posts/jenna_dept_day_award.jpg
+  teaser: assets/img/posts/jenna_dept_day_award_teaser.png
 excerpt: "Jenna's presentation on her research for the computational design of an electronic nose
 wins at the Chemical & Petroleum Engineering Department Research Day."
 ---
