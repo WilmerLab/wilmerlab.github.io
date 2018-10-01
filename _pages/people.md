@@ -9,16 +9,12 @@ chris_wilmer:
     alt: "Christopher E. Wilmer"
     title: "Christopher E. Wilmer"
     excerpt: "**Assistant Professor, Department of Chemical & Petroleum Engineering**<br>
-
-
     B.A.Sc. Engineering Science, University of Toronto, 2007<br>
     Ph.D. Chemical Engineering, Northwestern University, 2013<br>
     Postdoctoral Fellow, Chemistry, Harvard University, 2014<br>
     Co-founder and Technical Advisor, [NuMat Technologies](https://www.numat-tech.com/)<br>
-    Co-founder and Technical Adviser, [Aeronics, Inc.](https://www.aeronicsinc.com/)<br>
-
+    Co-founder and Technical Adviser, [Aeronics, Inc.](https://www.aeronicsinc.com/)<br><br>
     **Selected Awards and Honors**<br>
-
     2017 CoMSEF Young Investigator Award<br>
     2017 Scialog Fellow<br>
     2017 Foresight Fellow<br>
@@ -33,7 +29,6 @@ chris_wilmer:
     2011 NSF International Science & Engineering Visualization Challenge Winner<br>
     2011 Dow Sustainability Innovation Student Challenge Award<br>
     2011 Perkins Coie Innovative Minds Award"
-
 current_members:
   - image_path: /assets/img/people/PaulProfilePic.jpg
     alt: "Paul Boone"
@@ -90,7 +85,6 @@ current_members:
 
     **Michelene is designing gas sensors for the detection of lung cancer biomarkers.**
     She is currently working towards a degree in Biology from Carlow University in Pittsburgh, PA."
-
 alumni:
   - image_path: /assets/img/people/GenesisProfilePic.jpg
     alt: "Genesis Ruiz"
