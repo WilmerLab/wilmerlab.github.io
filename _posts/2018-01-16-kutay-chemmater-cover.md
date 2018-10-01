@@ -5,6 +5,8 @@ date:   2018-01-16
 categories: posts
 header:
   teaser: /assets/img/posts/kutay-chemmater-cover-teaser.png
+excerpt: "Kutay's paper on thermal transport properties of interpenetrated Metal-Organic Frameworks
+was accepted as a cover article in Chemistry of Materials."
 ---
 *January 16th, 2018*
 

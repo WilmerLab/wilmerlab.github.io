@@ -5,6 +5,7 @@ date:   2017-10-09
 categories: posts
 header:
   teaser: /assets/img/posts/startup_blitz.png
+excerpt: "Jenna and Kutay were among the nearly 50 students who turned out at the O’Hara Student Center to pitch their ideas."
 ---
 *October 9, 2017*
 
