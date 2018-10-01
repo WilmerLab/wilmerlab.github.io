@@ -4,6 +4,11 @@ title:  "Publications"
 permalink: /publications/
 date:   2018-09-05
 categories: pages
+2018_kaija_jpcl:
+  - image_path: /assets/img/publications/2018_kaija_jpcl.gif
+    alt: "2018_kaija_jpcl"
+    title: "High-Pressure Methane Adsorption in Porous Lennard-Jones Crystals"
+    excerpt: "**35.** [A. R. Kaija and C. E. Wilmer, High-Pressure Methane Adsorption in Porous Lennard-Jones Crystals, *Journal of Physical Chemistry Letters*, 9 (15), 4275-4281 **(2018)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01421)"
 2018_gustafson_sensactuatorsb:
   - image_path: /assets/img/publications/2018_gustafson_sensactuatorsb.png
     alt: "2018_gustafson_sensactuatorsb"
@@ -197,6 +202,8 @@ Publications
 
 2018
 ----
+
+{% include feature_row id="2018_kaija_jpcl" type="left" %}
 
 {% include feature_row id="2018_gustafson_sensactuatorsb" type="left" %}
 
