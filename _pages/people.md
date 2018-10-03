@@ -108,7 +108,7 @@ alumni:
     title: "Patrick Asinger"
     excerpt: "*Undergraduate Researcher*<br>
     **Patrick is investigating the effects of interpenetrating metal organic frameworks on thermal conductivity.**
-    As a fourth-year undergraduate chemical engineering major, Patrick explored computational chemistry techniques to investitgate the thermal conductivity of interpenetrated MOFs. He is now pursuing a PhD in chemical engineering."
+    As a fourth-year undergraduate Chemical Engineering major, Patrick explored computational chemistry techniques to investitgate the thermal conductivity of interpenetrated MOFs. He is now pursuing a PhD in chemical engineering."
   - image_path: /assets/img/people/ArashNouriProfilePic.jpg
     alt: "Arash Nouri"
     title: "Arash Nouri"
