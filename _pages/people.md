@@ -92,16 +92,16 @@ alumni:
     excerpt: "*Undergraduate Researcher*<br>
     **Genesis is studying how the partial charges in MOFs may affect the diffusion of gases.**
     She will have earned her degree in Chemical Engineering at the University of Puerto Rico, Mayaguez Campus, in 2019. She has researched in different areas such as Environmental Chemistry, Pharmaceutical and Bio-Medical Engineering. The latter at Washington State University, where she studied techniques for the isolation and purification of potential biomarkers for early diagnostics in cancerous diseases."
-  - image_path: /assets/img/people/BlakeProfilePic.jpg
-    alt: "Blake Dube"
-    title: "Blake Dube"
-    excerpt: "*Undergraduate Researcher*​ <br>
   - image_path: /assets/img/people/PatrickProfilePic.jpg
     alt: "Patrick Asinger"
     title: "Patrick Asinger"
     excerpt: "*Undergraduate Researcher*<br>
     **Patrick is investigating the effects of interpenetrating metal organic frameworks on thermal conductivity.**
     As a fourth-year undergraduate Chemical Engineering major, Patrick explored computational chemistry techniques to investigate the thermal conductivity of interpenetrated MOFs. He is now pursuing a PhD in chemical engineering."
+  - image_path: /assets/img/people/BlakeProfilePic.jpg
+    alt: "Blake Dube"
+    title: "Blake Dube"
+    excerpt: "*Undergraduate Researcher*​ <br>
     **Blake is mapping the theoretical limits of oxygen storage.** He is a third-year undergraduate student at the University of Pittsburgh, with a major in Chemical Engineering. Blake was awarded the Brackenridge Fellowship to continue his research with the goal of shedding new light on gas storage."
   - image_path: /assets/img/people/ArashNouriProfilePic.jpg
     alt: "Arash Nouri"
