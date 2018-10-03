@@ -96,6 +96,12 @@ alumni:
     alt: "Blake Dube"
     title: "Blake Dube"
     excerpt: "*Undergraduate Researcher*​ <br>
+  - image_path: /assets/img/people/PatrickProfilePic.jpg
+    alt: "Patrick Asinger"
+    title: "Patrick Asinger"
+    excerpt: "*Undergraduate Researcher*<br>
+    **Patrick is investigating the effects of interpenetrating metal organic frameworks on thermal conductivity.**
+    As a fourth-year undergraduate Chemical Engineering major, Patrick explored computational chemistry techniques to investigate the thermal conductivity of interpenetrated MOFs. He is now pursuing a PhD in chemical engineering."
     **Blake is mapping the theoretical limits of oxygen storage.** He is a third-year undergraduate student at the University of Pittsburgh, with a major in Chemical Engineering. Blake was awarded the Brackenridge Fellowship to continue his research with the goal of shedding new light on gas storage."
   - image_path: /assets/img/people/ArashNouriProfilePic.jpg
     alt: "Arash Nouri"
