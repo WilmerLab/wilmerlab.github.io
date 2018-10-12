@@ -4,7 +4,7 @@ title: "Health-E-Nose pitch wins top prize of $100,000 at the Pitt Innovation Ch
 date: 2018-09-26
 categories: posts
 header:
-  teaser: assets/img/posts/Health-E-Nose_Pinch_win.jpg
+  teaser: assets/img/posts/Health-E-Nose_Pinch_win_teaser.png
 excerpt: "Jenna and Chris competed against five other teams with their pitch for a portable electronic
 nose that can 'sniff' out diseases."
 ---
