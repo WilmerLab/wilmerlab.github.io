@@ -13,11 +13,13 @@ chris_wilmer:
     Ph.D. Chemical Engineering, Northwestern University, 2013<br>
     Postdoctoral Fellow, Chemistry, Harvard University, 2014<br>
     Co-founder and Technical Advisor, [NuMat Technologies](https://www.numat-tech.com/)<br>
-    Co-founder and Technical Adviser, [Aeronics, Inc.](https://www.aeronicsinc.com/)<br><br>
+    Co-founder and Technical Adviser, [Aeronics, Inc.](https://www.aeronicsinc.com/)<br>
+    Co-founder and Managing Editor of [Ledger](https://ledgerjournal.org/ojs/index.php/ledger)<br><br>
     **Selected Awards and Honors**<br>
     2017 CoMSEF Young Investigator Award<br>
     2017 Scialog Fellow<br>
     2017 Foresight Fellow<br>
+    2016 NSF CAREER Award Recipient<br>
     2014 Invited speaker to Google's Solve-for-X annual meeting<br>
     2013 AIChE Computational Molecular Science & Engineering Graduate Student Award<br>
     2012 Named to the Forbes Top 30-Under-30 list in Energy Innovation<br>
@@ -26,9 +28,7 @@ chris_wilmer:
     2012 Invitation to Ring the Closing Bell of the NASDAQ Stock Exchange<br>
     2012 Kleiner Perkins Clean Tech Innovation Prize<br>
     2012 Grand Prize, Rice Business Plan Competition<br>
-    2011 NSF International Science & Engineering Visualization Challenge Winner<br>
-    2011 Dow Sustainability Innovation Student Challenge Award<br>
-    2011 Perkins Coie Innovative Minds Award"
+    2011 NSF International Science & Engineering Visualization Challenge Winner"
 current_members:
   - image_path: /assets/img/people/PaulProfilePic.jpg
     alt: "Paul Boone"
