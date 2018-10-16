@@ -12,8 +12,8 @@ categories: pages
 2018_kaija_jpcl:
   - image_path: /assets/img/publications/2018_kaija_jpcl.png
     alt: "2018_kaija_jpcl"
-    title: "High-Pressure Methane Adsorption in Porous Lennard-Jones Crystals"
-    excerpt: "**35.** [A. R. Kaija and C. E. Wilmer, High-Pressure Methane Adsorption in Porous Lennard-Jones Crystals, *Journal of Physical Chemistry Letters*, 9 (15), 4275-4281 **(2018)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01421)"
+    title: "High-pressure methane adsorption in porous Lennard-Jones crystals"
+    excerpt: "**35.** [A. R. Kaija and C. E. Wilmer, High-pressure methane adsorption in porous Lennard-Jones crystals, *Journal of Physical Chemistry Letters*, 9 (15), 4275-4281 **(2018)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01421)"
 2018_gustafson_sensactuatorsb:
   - image_path: /assets/img/publications/2018_gustafson_sensactuatorsb.png
     alt: "2018_gustafson_sensactuatorsb"
@@ -27,7 +27,7 @@ categories: pages
 2017_babaei_acsami:
   - image_path: /assets/img/publications/2017_babaei_acsami.png
     alt: "2016_babaei_acsami"
-    title: "Transient Mass and Thermal Transport during Methane Adsorption into the Metal–Organic Framework HKUST-1"
+    title: "Transient mass and thermal transport during methane adsorption into the metal–organic framework HKUST-1"
     excerpt: "**32.** [H. Babaei, A. J. H. McGaughey, and C. E. Wilmer, Transient mass and thermal transport during methane adsorption into the metal-organic framework HKUST-1, *ACS applied materials & interfaces*, 10, 2400-2406 **(2017)**.](http://pubs.acs.org/doi/abs/10.1021/acsami.7b13605)"
 2017_sezginel_crystengcomm:
   - image_path: /assets/img/publications/2017_sezginel_crystengcomm.png
@@ -42,8 +42,8 @@ categories: pages
 2017_gustafson_jpcc:
   - image_path: /assets/img/publications/2017_gustafson_jpcc.png
     alt: "2017_gustafson_jpcc"
-    title: "Computational Design of Metal–Organic Framework Arrays for Gas Sensing: Influence of Array Size and Composition on Sensor Performance"
-    excerpt: "**29.** [J. A. Gustafson and C. E. Wilmer, Computational Design of Metal–Organic Framework Arrays for Gas Sensing: Influence of Array Size and Composition on Sensor Performance, *The Journal of Physical Chemistry C*, 121, 6033-6038 **(2017)**.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b09740)"
+    title: "Computational design of metal–organic framework arrays for gas sensing: Influence of array size and composition on sensor performance"
+    excerpt: "**29.** [J. A. Gustafson and C. E. Wilmer, Computational design of metal–organic framework arrays for gas sensing: Influence of array size and composition on sensor performance, *The Journal of Physical Chemistry C*, 121, 6033-6038 **(2017)**.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b09740)"
 2016_babaei_chemsci:
   - image_path: /assets/img/publications/2016_babaei_chemsci.jpg
     alt: "2016_babaei_chemsci"
@@ -57,7 +57,7 @@ categories: pages
 2016_babaei_prl:
   - image_path: /assets/img/publications/2016_babaei_prl.jpg
     alt: "2016_babaei_prl"
-    title: "Mechanisms of Heat Transfer in Porous Crystals Containing Adsorbed Gases: Applications to Metal-Organic Frameworks"
+    title: "Mechanisms of heat transfer in porous crystals containing adsorbed gases: Applications to metal-organic frameworks"
     excerpt: "**26.** [H. Babaei and C. E. Wilmer. Mechanisms of heat transfer in porous crystals containing adsorbed gases: Applications to metal-organic frameworks, *Physical Review Letters*, 116, 025902 **(2016)**.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.025902)"
 2014_olga_inorganicchemistry:
   - image_path: /assets/img/publications/2014_olga_inorganicchemistry.jpg
