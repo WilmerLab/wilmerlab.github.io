@@ -46,6 +46,9 @@ current_members:
     He was recently a visiting scholar in Mechanical Engineering at University of Illinois at Urbana-Champaign.
     During his Ph.D. in Mechanical Engineering at Auburn University, he worked on thermal transport in nanostructure-enhanced phase change materials.
     He received his B.S. and M.S. degrees in Mechanical engineering at the Iran University of Science and Technology and the University of Tehran, respectively."
+    url: "http://www.pitt.edu/~hab85/"
+    btn_label: "More"
+    btn_class: "btm btn--primary"
   - image_path: /assets/img/people/AlecProfilePic.jpg
     alt: "Alec Kaija"
     title: "Alec Kaija"
