@@ -4,7 +4,7 @@ title:  "Aeronics advances to Phase IV of xTechSearch competition."
 date:   2018-10-10
 categories: posts
 header:
-  teaser: assets/img/posts/ausa_2018_mark.png
+  teaser: assets/img/posts/ausa_2018_teaser.png
 excerpt: "Aeronics awarded $125,000 in the US Army's xTechSearch Competition."
 ---
 *September 16th, 2018*
