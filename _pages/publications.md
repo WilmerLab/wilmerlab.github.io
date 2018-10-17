@@ -2,13 +2,13 @@
 layout: splash
 title:  "Publications"
 permalink: /publications/
-date:   2018-09-05
+date:   2018-10-17
 categories: pages
 2018_budhathoki_ees:
   - image_path: /assets/img/publications/2018_budhathoki_ees.png
     alt: "2018_budhathoki_ees"
     title: "High-throughput computational prediction of the cost of carbon capture using mixed matrix membranes"
-    excerpt: "**35.** [S. Budhathoki, O. O. Ajayi, J. A. Steckel and C. E. Wilmer, High-throughput computational prediction of the cost of carbon capture using mixed matrix membranes, *Energy and Environmental Science*, **(2018)**.](https://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee02582g#!divAbstract)"
+    excerpt: "**36.** [S. Budhathoki, O. O. Ajayi, J. A. Steckel and C. E. Wilmer, High-throughput computational prediction of the cost of carbon capture using mixed matrix membranes, *Energy and Environmental Science*, **(2018)**.](https://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee02582g#!divAbstract)"
 2018_kaija_jpcl:
   - image_path: /assets/img/publications/2018_kaija_jpcl.png
     alt: "2018_kaija_jpcl"
