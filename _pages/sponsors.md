@@ -9,12 +9,18 @@ sponsors:
   - image_path: /assets/img/sponsors/sponsors_pitt_eng.png
     alt: "sponsors_pit_eng"
     title: "University of Pittsburgh"
-  - image_path: /assets/img/sponsors/sponsors_ACS_PRF.png
+  - image_path: /assets/img/sponsors/sponsors_acs_prf.png
     alt: "sponsors_acs_prf"
     title: "ACS Petroleum Research Fund"
-  - image_path: /assets/img/sponsors/sponsors_NSF.png
+  - image_path: /assets/img/sponsors/sponsors_nsf.png
     alt: "sponsors_nsf"
     title: "National Science Foundation"
+  - image_path: /assets/img/sponsors/sponsors_pitt_ctsi.png
+    alt: "sponsors_pitt_ctsi"
+    title: "Pitt Clinical and Translational Science Institute"
+  - image_path: /assets/img/sponsors/sponsors_netl.png
+    alt: "sponsors_netl"
+    title: "National Energy Technology Laboratory"
 ---
 
 Your name, company, institution or funding agency will be listed here for all to see, along with links to all of the publications and work your contribution made possible.
