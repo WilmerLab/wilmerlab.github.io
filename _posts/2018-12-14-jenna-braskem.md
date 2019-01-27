@@ -4,7 +4,7 @@ title:  "PhD student Jenna Gustafson wins Braskem America, Inc. Graduate Student
 date:   2018-12-14
 categories: posts
 header:
-  teaser: assets/img/posts/jenna_braskem.jpg
+  teaser: assets/img/posts/jenna_braskem.png
 excerpt: "Gustafson takes home one of two awards given to the top graduate students in the Chemical &
 Petroleum Engineering Department at this year's holiday reception."
 ---
