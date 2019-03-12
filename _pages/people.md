@@ -86,8 +86,8 @@ alumni:
     alt: "Keerthi Krishna Gnanavel"
     title: "Keerthi Krishna Gnanavel"
     excerpt: "*Undergraduate Researcher*<br>
-    **Krishna uses MonteCarlo simulations to predict gas adsorption on to different MOF surfaces.**
-    He is a third year undergraduate student at the University of Pittsburgh majoring in Chemical Engineering."
+    **Krishna used Monte Carlo simulations to predict gas adsorption in MOFs.**
+    He received his B.S. degree in Chemical Engineering from University of Pittsburgh."
   - image_path: /assets/img/people/GenesisProfilePic.jpg
     alt: "Genesis Ruiz"
     title: "Genesis Ruiz"
