@@ -34,14 +34,12 @@ current_members:
     alt: "Paul Boone"
     title: "Paul Boone"
     excerpt: "*Lead Software Developer*<br>
-
     **Paul Boone comes to Pitt with over 16 years of experience in private industry transforming ideas into actual software.**
     He is adept at guiding non-technical people to concrete next steps, but his software and technical experience is extensive and spans data warehousing, database design, optimization and management, data center operations, cloud devops and scaling on AWS, frontend and backend web application frameworks and linux for embedded devices.​"
   - image_path: /assets/img/people/HasanProfilePic.jpg
     alt: "Hasan Babaei"
     title: "Hasan Babaei"
     excerpt: "*Post Doctoral Fellow*<br>
-
     **Hasan is modeling thermal transport phenomena in MOFs.**
     He was recently a visiting scholar in Mechanical Engineering at University of Illinois at Urbana-Champaign.
     During his Ph.D. in Mechanical Engineering at Auburn University, he worked on thermal transport in nanostructure-enhanced phase change materials.
@@ -53,14 +51,12 @@ current_members:
     alt: "Alec Kaija"
     title: "Alec Kaija"
     excerpt: "*Graduate Student*<br>
-
     **Alec is investigating structure-property relationships for porous materials.**
     He received a B.Sc. in Chemical Engineering and a B.A. in Spanish with a minor in Nuclear Engineering from the University of Rhode Island in 2014. Currently he is investigating structure-property relationships of porous materials for applications including high-pressure methane storage and carbon capture. He is also a co-founder and Technical Adviser of [Aeronics, Inc](https://www.aeronicsinc.com/)."
   - image_path: /assets/img/people/JennaProfilePic.jpg
     alt: "Jenna Gustafson"
     title: "Jenna Gustafson"
     excerpt: "*Graduate Student*<br>
-
     **Jenna is designing a universal gas sensor (i.e., an *electronic nose*).**
     She received her B.S. in Chemical Engineering from the University at Buffalo in 2014.
     She also spent a summer doing research at Stony Brook University, where she worked on synthesizing conductive polymers for energy storage applications."
@@ -68,7 +64,6 @@ current_members:
     alt: "Kutay B. Sezginel"
     title: "Kutay B. Sezginel"
     excerpt: "*Graduate Student*<br>
-
     **Kutay is interested in molecular architecture and computational materials design.**
     He received his B.S. and M.S. degrees in Chemical and Biological Engineering from Koç University in Istanbul focusing on methane storage in metal-organic frameworks. Currently he is investigating computational design of MOFs and investigating several properties such as drug delivery, adsorption, and thermal transport. He is also working on computational design of artificial molecular machines."
     url: "https://kbsezginel.github.io/"
@@ -78,17 +73,21 @@ current_members:
     alt: "Brian Day"
     title: "Brian Day"
     excerpt: "*Graduate Student*<br>
-
     **Brian in screening materials for electronic conductivity.**
     He received his B.S. degree in Chemical Engineering from Lehigh University in 2016 where he worked on synthesizing nanoporous films. He also worked on designing nanostructured electrodes for lithium metal batteries. Presently, he is investigating how to screen MOFs based on their electronic properties."
   - image_path: /assets/img/people/MicheleneProfilePic.jpg
     alt: "Michelene Saliba"
     title: "Michelene Saliba"
     excerpt: "*Undergraduate Researcher*<br>
-
     **Michelene is designing gas sensors for the detection of lung cancer biomarkers.**
     She is currently working towards a degree in Biology from Carlow University in Pittsburgh, PA."
 alumni:
+  - image_path: /assets/img/people/KrishnaProfilePic.jpg
+    alt: "Keerthi Krishna Gnanavel"
+    title: "Keerthi Krishna Gnanavel"
+    excerpt: "*Undergraduate Researcher*<br>
+    **Krishna uses MonteCarlo simulations to predict gas adsorption on to different MOF surfaces.**
+    He is a third year undergraduate student at the University of Pittsburgh majoring in Chemical Engineering."
   - image_path: /assets/img/people/GenesisProfilePic.jpg
     alt: "Genesis Ruiz"
     title: "Genesis Ruiz"
