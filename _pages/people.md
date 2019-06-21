@@ -45,7 +45,7 @@ current_members:
     During his Ph.D. in Mechanical Engineering at Auburn University, he worked on thermal transport in nanostructure-enhanced phase change materials.
     He received his B.S. and M.S. degrees in Mechanical engineering at the Iran University of Science and Technology and the University of Tehran, respectively."
     url: "http://www.pitt.edu/~hab85/"
-    btn_label: "More"
+    btn_label: "Personal website"
     btn_class: "btm btn--primary"
   - image_path: /assets/img/people/AlecProfilePic.jpg
     alt: "Alec Kaija"
@@ -67,7 +67,7 @@ current_members:
     **Kutay is interested in molecular architecture and computational materials design.**
     He received his B.S. and M.S. degrees in Chemical and Biological Engineering from Koç University in Istanbul focusing on methane storage in metal-organic frameworks. Currently he is investigating computational design of MOFs and investigating several properties such as drug delivery, adsorption, and thermal transport. He is also working on computational design of artificial molecular machines."
     url: "https://kbsezginel.github.io/"
-    btn_label: "More"
+    btn_label: "Personal website"
     btn_class: "btm btn--primary"
   - image_path: /assets/img/people/BrianProfilePic.jpg
     alt: "Brian Day"
@@ -82,6 +82,11 @@ current_members:
     **Michelene is designing gas sensors for the detection of lung cancer biomarkers.**
     She is currently working towards a degree in Biology from Carlow University in Pittsburgh, PA."
 alumni:
+  - image_path: /assets/img/people/SangsukProfilePic.png
+    alt: "Sangsuk Lee"
+    title: "Sangsuk Lee"
+    excerpt: "*Research Intern*<br>
+    **Sangsuk is simulating thermal conductivity of breathing MOFs as a research intern in the Wilmer lab.** He received his B.S. degree and M.S. degree in Civil and Environmental Engineering from Korea University and Carnegie Mellon University, respectively. He ran experiments and data-driven models to investigate membrane permeability and selectivity with domestic and industrial wastewater. He will start a Ph.D. in Environmental Engineering at the University of Colorado-Boulder in Fall 2019, where he will be devoting to the development of advanced materials for water treatment."
   - image_path: /assets/img/people/KrishnaProfilePic.jpg
     alt: "Keerthi Krishna Gnanavel"
     title: "Keerthi Krishna Gnanavel"
