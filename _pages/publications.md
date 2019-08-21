@@ -8,7 +8,12 @@ categories: pages
   - image_path: /assets/img/publications/2019_sturluson_molsim.png
     alt: "2019_sturluson_molsim"
     title: "The role of molecular modelling and simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation"
-    excerpt: "**37.** [A. Sturluson,  M. T. Huynh, A. R. Kaija, C. Laird, S. Yoon, F. Hou, Z. Feng, C. E. Wilmer, Y. J. Colón, Y. G. Chung, D. W. Siderius, and C. M. Simon, The role of molecular modelling and simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation, *Molecular Simulation*, 1-40, **(2019)**.](https://www.tandfonline.com/doi/full/10.1080/08927022.2019.1648809)"
+    excerpt: "**38.** [A. Sturluson,  M. T. Huynh, A. R. Kaija, C. Laird, S. Yoon, F. Hou, Z. Feng, C. E. Wilmer, Y. J. Colón, Y. G. Chung, D. W. Siderius, and C. M. Simon, The role of molecular modelling and simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation, *Molecular Simulation*, 1-40, **(2019)**.](https://www.tandfonline.com/doi/full/10.1080/08927022.2019.1648809)"
+2019_gustafson_acssensors:
+  - image_path: /assets/img/publications/2019_gustafson_acssensors.png
+    alt: "2019_gustafson_acssensors"
+    title: "Intelligent Selection of Metal–Organic Framework Arrays for Methane Sensing via Genetic Algorithms"
+    excerpt: "**37.** [J. A. Gustafson, and C. E. Wilmer, Intelligent selection of metal-organic framework arrays for methane sensing via genetic algorithms, *ACS sensors*, **(2019)**.](https://pubs.acs.org/doi/abs/10.1021/acssensors.9b00268)"
 2018_budhathoki_ees:
   - image_path: /assets/img/publications/2018_budhathoki_ees.png
     alt: "2018_budhathoki_ees"
@@ -216,6 +221,7 @@ Publications
 
 {% include feature_row id="2019_sturluson_molsim" type="left" %}
 
+{% include feature_row id="2019_gustafson_acssensors" type="left" %}
 
 2018
 ----
