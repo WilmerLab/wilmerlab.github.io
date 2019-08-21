@@ -2,8 +2,13 @@
 layout: splash
 title:  "Publications"
 permalink: /publications/
-date:   2018-10-17
+date:   2019-08-21
 categories: pages
+2019_sturluson_molsim:
+  - image_path: /assets/img/publications/2019_sturluson_molsim.png
+    alt: "2019_sturluson_molsim"
+    title: "The role of molecular modelling and simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation"
+    excerpt: "**37.** [A. Sturluson,  M. T. Huynh, A. R. Kaija, C. Laird, S. Yoon, F. Hou, Z. Feng, C. E. Wilmer, Y. J. Colón, Y. G. Chung, D. W. Siderius, and C. M. Simon, The role of molecular modelling and simulation in the discovery and deployment of metal-organic frameworks for gas storage and separation, *Molecular Simulation*, 1-40, **(2019)**.](https://www.tandfonline.com/doi/full/10.1080/08927022.2019.1648809)"
 2018_budhathoki_ees:
   - image_path: /assets/img/publications/2018_budhathoki_ees.png
     alt: "2018_budhathoki_ees"
@@ -192,7 +197,8 @@ Publications
 
 <table style="width:100%">
   <tr>
-    <th><a href="#2018" class="btn btn--info">2018</a></th>
+    <th><a href="#2018" class="btn btn--info">2019</a></th>
+    <th><a href="#2017" class="btn btn--primary">2018</a></th>
     <th><a href="#2017" class="btn btn--primary">2017</a></th>
     <th><a href="#2016" class="btn btn--primary">2016</a></th>
     <th><a href="#2014" class="btn btn--primary">2014</a></th>
@@ -204,6 +210,12 @@ Publications
   </tr>
 </table>
 --------------------------------------------------------------
+
+2019
+----
+
+{% include feature_row id="2019_sturluson_molsim" type="left" %}
+
 
 2018
 ----
