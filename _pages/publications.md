@@ -4,6 +4,12 @@ title:  "Publications"
 permalink: /publications/
 date:   2019-08-21
 categories: pages
+
+2019_boone_lammps_corrected_heat_flux:
+  - image_path: /assets/img/publications/2019_boone_lammps_corrected_heat_flux.png
+    alt: "2019_boone_lammps_corrected_heat_flux.png"
+    title: "Heat flux for many-body interactions: Corrections to LAMMPS"
+    excerpt: "**39.** [P. Boone, H. Babaei and C. E. Wilmer, Heat flux for many-body interactions: corrections to LAMMPS, *Journal of Chemical Theory and Computation*, **(2019)**.](https://doi.org/10.1021/acs.jctc.9b00252)"
 2019_sturluson_molsim:
   - image_path: /assets/img/publications/2019_sturluson_molsim.png
     alt: "2019_sturluson_molsim"
@@ -12,18 +18,18 @@ categories: pages
 2019_gustafson_acssensors:
   - image_path: /assets/img/publications/2019_gustafson_acssensors.png
     alt: "2019_gustafson_acssensors"
-    title: "Intelligent Selection of Metal–Organic Framework Arrays for Methane Sensing via Genetic Algorithms"
+    title: "Intelligent selection of metal–organic framework arrays for methane sensing via genetic algorithms"
     excerpt: "**37.** [J. A. Gustafson, and C. E. Wilmer, Intelligent selection of metal-organic framework arrays for methane sensing via genetic algorithms, *ACS sensors*, **(2019)**.](https://pubs.acs.org/doi/abs/10.1021/acssensors.9b00268)"
 2018_budhathoki_ees:
   - image_path: /assets/img/publications/2018_budhathoki_ees.png
     alt: "2018_budhathoki_ees"
     title: "High-throughput computational prediction of the cost of carbon capture using mixed matrix membranes"
-    excerpt: "**36.** [S. Budhathoki, O. O. Ajayi, J. A. Steckel and C. E. Wilmer, High-throughput computational prediction of the cost of carbon capture using mixed matrix membranes, *Energy and Environmental Science*, **(2018)**.](https://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee02582g#!divAbstract)"
+    excerpt: "**36.** [S. Budhathoki, O. O. Ajayi, J. A. Steckel and C. E. Wilmer, High-throughput computational prediction of the cost of carbon capture using mixed matrix membranes, *Energy and Environmental Science*, 12, 1255-1264 **(2018)**.](https://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee02582g#!divAbstract)"
 2018_kaija_jpcl:
   - image_path: /assets/img/publications/2018_kaija_jpcl.png
     alt: "2018_kaija_jpcl"
     title: "High-pressure methane adsorption in porous Lennard-Jones crystals"
-    excerpt: "**35.** [A. R. Kaija and C. E. Wilmer, High-pressure methane adsorption in porous Lennard-Jones crystals, *Journal of Physical Chemistry Letters*, 9 (15), 4275-4281 **(2018)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01421)"
+    excerpt: "**35.** [A. R. Kaija and C. E. Wilmer, High-pressure methane adsorption in porous Lennard-Jones crystals, *Journal of Physical Chemistry Letters*, 9, 4275-4281 **(2018)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01421)"
 2018_gustafson_sensactuatorsb:
   - image_path: /assets/img/publications/2018_gustafson_sensactuatorsb.png
     alt: "2018_gustafson_sensactuatorsb"
@@ -202,8 +208,8 @@ Publications
 
 <table style="width:100%">
   <tr>
-    <th><a href="#2018" class="btn btn--info">2019</a></th>
-    <th><a href="#2017" class="btn btn--primary">2018</a></th>
+    <th><a href="#2019" class="btn btn--info">2019</a></th>
+    <th><a href="#2018" class="btn btn--primary">2018</a></th>
     <th><a href="#2017" class="btn btn--primary">2017</a></th>
     <th><a href="#2016" class="btn btn--primary">2016</a></th>
     <th><a href="#2014" class="btn btn--primary">2014</a></th>
@@ -218,6 +224,8 @@ Publications
 
 2019
 ----
+
+{% include feature_row id="2019_boone_lammps_corrected_heat_flux" type="left" %}
 
 {% include feature_row id="2019_sturluson_molsim" type="left" %}
 
