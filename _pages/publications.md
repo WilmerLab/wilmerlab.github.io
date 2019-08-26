@@ -208,8 +208,8 @@ Publications
 
 <table style="width:100%">
   <tr>
-    <th><a href="#2018" class="btn btn--info">2019</a></th>
-    <th><a href="#2017" class="btn btn--primary">2018</a></th>
+    <th><a href="#2019" class="btn btn--info">2019</a></th>
+    <th><a href="#2018" class="btn btn--primary">2018</a></th>
     <th><a href="#2017" class="btn btn--primary">2017</a></th>
     <th><a href="#2016" class="btn btn--primary">2016</a></th>
     <th><a href="#2014" class="btn btn--primary">2014</a></th>
