@@ -4,6 +4,12 @@ title:  "Publications"
 permalink: /publications/
 date:   2019-08-21
 categories: pages
+
+2019_boone_lammps_corrected_heat_flux:
+  - image_path: /assets/img/publications/2019_boone_lammps_corrected_heat_flux.png
+    alt: "2019_boone_lammps_corrected_heat_flux.png"
+    title: "Heat flux for many-body interactions: Corrections to LAMMPS"
+    excerpt: "**39.** [P. Boone, H. Babaei and C. E. Wilmer, Heat flux for many-body interactions: corrections to LAMMPS, *Journal of Chemical Theory and Computation*, **(2019)**.](https://doi.org/10.1021/acs.jctc.9b00252)"
 2019_sturluson_molsim:
   - image_path: /assets/img/publications/2019_sturluson_molsim.png
     alt: "2019_sturluson_molsim"
@@ -218,6 +224,8 @@ Publications
 
 2019
 ----
+
+{% include feature_row id="2019_boone_lammps_corrected_heat_flux" type="left" %}
 
 {% include feature_row id="2019_sturluson_molsim" type="left" %}
 
