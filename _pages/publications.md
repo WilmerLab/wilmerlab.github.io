@@ -24,12 +24,12 @@ categories: pages
   - image_path: /assets/img/publications/2018_budhathoki_ees.png
     alt: "2018_budhathoki_ees"
     title: "High-throughput computational prediction of the cost of carbon capture using mixed matrix membranes"
-    excerpt: "**36.** [S. Budhathoki, O. O. Ajayi, J. A. Steckel and C. E. Wilmer, High-throughput computational prediction of the cost of carbon capture using mixed matrix membranes, *Energy and Environmental Science*, **(2018)**.](https://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee02582g#!divAbstract)"
+    excerpt: "**36.** [S. Budhathoki, O. O. Ajayi, J. A. Steckel and C. E. Wilmer, High-throughput computational prediction of the cost of carbon capture using mixed matrix membranes, *Energy and Environmental Science*, 12, 1255-1264 **(2018)**.](https://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee02582g#!divAbstract)"
 2018_kaija_jpcl:
   - image_path: /assets/img/publications/2018_kaija_jpcl.png
     alt: "2018_kaija_jpcl"
     title: "High-pressure methane adsorption in porous Lennard-Jones crystals"
-    excerpt: "**35.** [A. R. Kaija and C. E. Wilmer, High-pressure methane adsorption in porous Lennard-Jones crystals, *Journal of Physical Chemistry Letters*, 9 (15), 4275-4281 **(2018)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01421)"
+    excerpt: "**35.** [A. R. Kaija and C. E. Wilmer, High-pressure methane adsorption in porous Lennard-Jones crystals, *Journal of Physical Chemistry Letters*, 9, 4275-4281 **(2018)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.8b01421)"
 2018_gustafson_sensactuatorsb:
   - image_path: /assets/img/publications/2018_gustafson_sensactuatorsb.png
     alt: "2018_gustafson_sensactuatorsb"
