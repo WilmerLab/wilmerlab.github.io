@@ -85,7 +85,8 @@ alumni:
     alt: "Sangsuk Lee"
     title: "Sangsuk Lee"
     excerpt: "*Research Intern*<br>
-    **Sangsuk simulated thermal conductivity of breathing MOFs as a research intern in the Wilmer lab.** He received his B.S. degree and M.S. degree in Civil and Environmental Engineering from Korea University and Carnegie Mellon University, respectively. He ran experiments and data-driven models to investigate membrane permeability and selectivity with domestic and industrial wastewater. He will start a Ph.D. in Environmental Engineering at the University of Colorado-Boulder in Fall 2019, where he will be devoting to the development of advanced materials for water treatment."
+    **Sangsuk simulated thermal conductivity of breathing MOFs as a research intern in the Wilmer lab.**
+    He received his B.S. degree and M.S. degree in Civil and Environmental Engineering from Korea University and Carnegie Mellon University, respectively. He ran experiments and data-driven models to investigate membrane permeability and selectivity with domestic and industrial wastewater. He will start a Ph.D. in Environmental Engineering at the University of Colorado-Boulder in Fall 2019, where he will be devoting to the development of advanced materials for water treatment."
   - image_path: /assets/img/people/KrishnaProfilePic.jpg
     alt: "Keerthi Krishna Gnanavel"
     title: "Keerthi Krishna Gnanavel"
@@ -108,7 +109,8 @@ alumni:
     alt: "Blake Dube"
     title: "Blake Dube"
     excerpt: "*Undergraduate Researcher*​ <br>
-    **Blake mapped the theoretical limits of oxygen storage.** He joined the lab as a third-year undergraduate student at the University of Pittsburgh, with a major in Chemical Engineering. Blake was awarded the Brackenridge Fellowship to continue his research with the goal of shedding new light on gas storage. He is a co-founder and CEO of [Aeronics, Inc](https://www.aeronicsinc.com/)."
+    **Blake mapped the theoretical limits of oxygen storage.**
+    He joined the lab as a third-year undergraduate student at the University of Pittsburgh, with a major in Chemical Engineering. Blake was awarded the Brackenridge Fellowship to continue his research with the goal of shedding new light on gas storage. He is a co-founder and CEO of [Aeronics, Inc](https://www.aeronicsinc.com/)."
   - image_path: /assets/img/people/ArashNouriProfilePic.jpg
     alt: "Arash Nouri"
     title: "Arash Nouri"
