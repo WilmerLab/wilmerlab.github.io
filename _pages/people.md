@@ -108,7 +108,7 @@ alumni:
     alt: "Blake Dube"
     title: "Blake Dube"
     excerpt: "*Undergraduate Researcher*​ <br>
-    **Blake mapped the theoretical limits of oxygen storage.** He joined the lab as a third-year undergraduate student at the University of Pittsburgh, with a major in Chemical Engineering. Blake was awarded the Brackenridge Fellowship to continue his research with the goal of shedding new light on gas storage. He is a co-founder and CEO of [Aeronics, Inc](https://www.aeronicsinc.com/).""
+    **Blake mapped the theoretical limits of oxygen storage.** He joined the lab as a third-year undergraduate student at the University of Pittsburgh, with a major in Chemical Engineering. Blake was awarded the Brackenridge Fellowship to continue his research with the goal of shedding new light on gas storage. He is a co-founder and CEO of [Aeronics, Inc](https://www.aeronicsinc.com/)."
   - image_path: /assets/img/people/ArashNouriProfilePic.jpg
     alt: "Arash Nouri"
     title: "Arash Nouri"
