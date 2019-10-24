@@ -47,19 +47,6 @@ current_members:
     url: "http://www.pitt.edu/~hab85/"
     btn_label: "Personal website"
     btn_class: "btm btn--primary"
-  - image_path: /assets/img/people/AlecProfilePic.jpg
-    alt: "Alec Kaija"
-    title: "Alec Kaija"
-    excerpt: "*Graduate Student*<br>
-    **Alec is investigating structure-property relationships for porous materials.**
-    He received a B.Sc. in Chemical Engineering and a B.A. in Spanish with a minor in Nuclear Engineering from the University of Rhode Island in 2014. Currently he is investigating structure-property relationships of porous materials for applications including high-pressure methane storage and carbon capture. He is also a co-founder and Technical Adviser of [Aeronics, Inc](https://www.aeronicsinc.com/)."
-  - image_path: /assets/img/people/JennaProfilePic.jpg
-    alt: "Jenna Gustafson"
-    title: "Jenna Gustafson"
-    excerpt: "*Graduate Student*<br>
-    **Jenna is designing a universal gas sensor (i.e., an *electronic nose*).**
-    She received her B.S. in Chemical Engineering from the University at Buffalo in 2014.
-    She also spent a summer doing research at Stony Brook University, where she worked on synthesizing conductive polymers for energy storage applications."
   - image_path: /assets/img/people/KutayProfilePic.jpg
     alt: "Kutay B. Sezginel"
     title: "Kutay B. Sezginel"
@@ -73,20 +60,32 @@ current_members:
     alt: "Brian Day"
     title: "Brian Day"
     excerpt: "*Graduate Student*<br>
-    **Brian in screening materials for electronic conductivity.**
-    He received his B.S. degree in Chemical Engineering from Lehigh University in 2016 where he worked on synthesizing nanoporous films. He also worked on designing nanostructured electrodes for lithium metal batteries. Presently, he is investigating how to screen MOFs based on their electronic properties."
+    **Brian in screening MOFs for electrical conductivity.**
+    He received his B.S. degree in Chemical Engineering from Lehigh University in 2016 where he worked on synthesizing nanoporous films. Previously at Pitt, he worked on developing nanostructured electrodes for lithium-metal batteries. Presently, he is investigating MOFs for electrical conductivity, and continuing to design MOF-based electronic noses."
+alumni:
+  - image_path: /assets/img/people/AlecProfilePic.jpg
+    alt: "Alec Kaija"
+    title: "Alec Kaija"
+    excerpt: "*Graduate Student*<br>
+    **Alec investigated structure-property relationships for porous materials.**
+    He received a B.Sc. in Chemical Engineering and a B.A. in Spanish with a minor in Nuclear Engineering from the University of Rhode Island in 2014. During his PhD he investigated the structure-property relationships of porous materials for applications including high-pressure methane storage and carbon capture. Currently, Alec works at the Rand Corporation in Washington D.C. He is also a co-founder and Technical Adviser of [Aeronics, Inc](https://www.aeronicsinc.com/)."
+  - image_path: /assets/img/people/JennaProfilePic.jpg
+    alt: "Jenna Gustafson"
+    title: "Jenna Gustafson"
+    excerpt: "*Graduate Student*<br>
+    **Jenna developed a method for designing universal gas sensors (i.e., an *electronic noses*).**
+    She received her B.S. in Chemical Engineering from the University at Buffalo in 2014. She also spent a summer doing research at Stony Brook University, where she worked on synthesizing conductive polymers for energy storage applications. During her PhD, Jenna worked on designing a universal gas sensing array (i.e. an electronic nose) of MOFs. Now she works as a data scientist at CivicScience in Pittsburgh, PA."
   - image_path: /assets/img/people/MicheleneProfilePic.jpg
     alt: "Michelene Saliba"
     title: "Michelene Saliba"
     excerpt: "*Undergraduate Researcher*<br>
-    **Michelene is designing gas sensors for the detection of lung cancer biomarkers.**
+    **Michelene designed gas sensors for the detection of lung cancer biomarkers.**
     She is currently working towards a degree in Biology from Carlow University in Pittsburgh, PA."
-alumni:
   - image_path: /assets/img/people/SangsukProfilePic.png
     alt: "Sangsuk Lee"
     title: "Sangsuk Lee"
     excerpt: "*Research Intern*<br>
-    **Sangsuk is simulating thermal conductivity of breathing MOFs as a research intern in the Wilmer lab.** He received his B.S. degree and M.S. degree in Civil and Environmental Engineering from Korea University and Carnegie Mellon University, respectively. He ran experiments and data-driven models to investigate membrane permeability and selectivity with domestic and industrial wastewater. He will start a Ph.D. in Environmental Engineering at the University of Colorado-Boulder in Fall 2019, where he will be devoting to the development of advanced materials for water treatment."
+    **Sangsuk simulated thermal conductivity of breathing MOFs as a research intern in the Wilmer lab.** He received his B.S. degree and M.S. degree in Civil and Environmental Engineering from Korea University and Carnegie Mellon University, respectively. He ran experiments and data-driven models to investigate membrane permeability and selectivity with domestic and industrial wastewater. He will start a Ph.D. in Environmental Engineering at the University of Colorado-Boulder in Fall 2019, where he will be devoting to the development of advanced materials for water treatment."
   - image_path: /assets/img/people/KrishnaProfilePic.jpg
     alt: "Keerthi Krishna Gnanavel"
     title: "Keerthi Krishna Gnanavel"
@@ -97,19 +96,19 @@ alumni:
     alt: "Genesis Ruiz"
     title: "Genesis Ruiz"
     excerpt: "*Undergraduate Researcher*<br>
-    **Genesis is studying how the partial charges in MOFs may affect the diffusion of gases.**
+    **Genesis studied how the partial charges in MOFs may affect the diffusion of gases.**
     She will have earned her degree in Chemical Engineering at the University of Puerto Rico, Mayaguez Campus, in 2019. She has researched in different areas such as Environmental Chemistry, Pharmaceutical and Bio-Medical Engineering. The latter at Washington State University, where she studied techniques for the isolation and purification of potential biomarkers for early diagnostics in cancerous diseases."
   - image_path: /assets/img/people/PatrickProfilePic.jpg
     alt: "Patrick Asinger"
     title: "Patrick Asinger"
     excerpt: "*Undergraduate Researcher*<br>
-    **Patrick is investigating the effects of interpenetrating metal organic frameworks on thermal conductivity.**
+    **Patrick investigated the effects of interpenetrated metal-organic frameworks on thermal conductivity.**
     As a fourth-year undergraduate Chemical Engineering major, Patrick explored computational chemistry techniques to investigate the thermal conductivity of interpenetrated MOFs. He is now pursuing a PhD in chemical engineering."
   - image_path: /assets/img/people/BlakeProfilePic.jpg
     alt: "Blake Dube"
     title: "Blake Dube"
     excerpt: "*Undergraduate Researcher*​ <br>
-    **Blake is mapping the theoretical limits of oxygen storage.** He is a third-year undergraduate student at the University of Pittsburgh, with a major in Chemical Engineering. Blake was awarded the Brackenridge Fellowship to continue his research with the goal of shedding new light on gas storage."
+    **Blake mapped the theoretical limits of oxygen storage.** He joined the lab as a third-year undergraduate student at the University of Pittsburgh, with a major in Chemical Engineering. Blake was awarded the Brackenridge Fellowship to continue his research with the goal of shedding new light on gas storage. He is a co-founder and CEO of [Aeronics, Inc](https://www.aeronicsinc.com/).""
   - image_path: /assets/img/people/ArashNouriProfilePic.jpg
     alt: "Arash Nouri"
     title: "Arash Nouri"
@@ -119,12 +118,12 @@ alumni:
     alt: "Yechuan Zhang"
     title: "Yechuan Zhang"
     excerpt: "*Graduate Student*​ <br>
-    Yechuan is interested in petrochemical industrial applications of MOFs. He received his B.S. degree majoring in Oil and Gas Storage and Transportation Engineering. Now, he is pursuing his M.S. degree in Petroleum Engineering. He believes that there is a significant potential in using MOFs to separate impurities in oil and natural gas."
+    Yechuan investigated petrochemical industrial applications of MOFs. He received his B.S. degree majoring in Oil and Gas Storage and Transportation Engineering. Now, he is pursuing his M.S. degree in Petroleum Engineering. He believes that there is a significant potential in using MOFs to separate impurities in oil and natural gas."
   - image_path: /assets/img/people/ConorProfilePic.jpg
     alt: "Conor Peytom"
     title: "Conor Peytom"
     excerpt: "*Undergraduate Researcher*​ <br>
-    Conor is a third year undergraduate student, seeking his B.S. in Chemical Engineering. In addition to his research, Conor is in the midst of a co-op with a Pittsburgh based process engineering firm, Venture Engineering & Construction."
+    Conor joined the lab as a third year undergraduate student, seeking his B.S. in Chemical Engineering. In addition to his research, Conor completed a co-op with a Pittsburgh based process engineering firm, Venture Engineering & Construction."
   - image_path: /assets/img/people/TianyiProfilePic.jpg
     alt: "Tianyi Feng"
     title: "Tianyi Feng"
