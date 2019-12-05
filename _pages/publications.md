@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2019-08-21
 categories: pages
 
+2019_chao_afm:
+  - image_path: /assets/img/publications/2019_chao_afm.png
+    alt: "2019_chao_afm"
+    title: "Silver Nanofilament Formation Dynamics in a Polymer‐Ionic Liquid Thin Film by Direct Write"
+    excerpt: "**40.** [Z. Chao, K. B. Sezginel, K. Xu, G. M. Crouch, A. E. Gray, C. E. Wilmer, P. W. Bohn, D. B. Go, S. K. Fullerton-Shirey, *Advanced Functional Materials*, **(2019)**.](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201907950)"
 2019_boone_lammps_corrected_heat_flux:
   - image_path: /assets/img/publications/2019_boone_lammps_corrected_heat_flux.png
     alt: "2019_boone_lammps_corrected_heat_flux.png"
@@ -224,6 +229,8 @@ Publications
 
 2019
 ----
+
+{% include feature_row id="2019_chao_afm" type="left" %}
 
 {% include feature_row id="2019_boone_lammps_corrected_heat_flux" type="left" %}
 
