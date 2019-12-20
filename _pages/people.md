@@ -62,12 +62,12 @@ current_members:
     excerpt: "*Graduate Student*<br>
     **Brian in screening MOFs for electrical conductivity.**
     He received his B.S. degree in Chemical Engineering from Lehigh University in 2016 where he worked on synthesizing nanoporous films. Previously at Pitt, he worked on developing nanostructured electrodes for lithium-metal batteries. Presently, he is investigating MOFs for electrical conductivity, and continuing to design MOF-based electronic noses."
-  - image_path: /assets/img/people/MeiirbekProfilePic.png
+  - image_path: /assets/img/people/MeiirbekProfilePic.jpg
     alt: "Meiirbek Islamov"
     title: "Meiirbek Islamov"
     excerpt: "*Graduate Student*<br>
     **Meiirbek is interested in thermal transport phenomena in MOFs.**
-    He received his B.S. and M.S degrees in Chemical Engineering from Nazarbayev University (Astana, Kazakhstan) in 2017 and Columbia University in the City of New York in 2018, respectively. At Columbia, he worked on the development of ion selective Membranes for Redox-flow battery. Previously, he spent a summer doing research at Stanford University, where he worked on Rayleigh-Taylor instability in polymer solutions. Also, he visited a TNO (Delft, Netherlands) to work on CO2 capture."
+    He received his B.S. and M.S degrees in Chemical Engineering from Nazarbayev University (Astana, Kazakhstan) in 2017 and Columbia University in the City of New York in 2018, respectively. At Columbia, he worked on the development of ion selective Membranes for Redox-flow battery. Previously, he spent a summer doing research at Stanford University, where he worked on Rayleigh-Taylor instability in polymer solutions. Also, he visited a TNO (Delft, Netherlands) to work on CO<sub>2</sub> capture."
 alumni:
   - image_path: /assets/img/people/AlecProfilePic.jpg
     alt: "Alec Kaija"
