@@ -9,17 +9,17 @@ categories: pages
 - image_path: /assets/img/publications/2020_day_co2_sensing.png
   alt: "2020_day_co2_sensing"
   title: "Genetic Algorithm Design of MOF-based Gas Sensor Array for CO2-in-Air Sensing"
-  excerpt: "**41.** [Day, B.A.; Wilmer, C.E. Genetic Algorithm Design of MOF-based Gas Sensor Arrays for CO<sub>2</sub>-in-Air Sensing. *Sensors* **2020**, *20*, 924.](https://www.mdpi.com/1424-8220/20/3/924)"
+  excerpt: "**41.** [B. A. Day and C. E. Wilmer, Genetic Algorithm Design of MOF-based Gas Sensor Arrays for CO<sub>2</sub>-in-Air Sensing. *Sensors*, 20, 924, **(2020)**](https://www.mdpi.com/1424-8220/20/3/924)"
 2019_chao_afm:
   - image_path: /assets/img/publications/2019_chao_afm.png
     alt: "2019_chao_afm"
     title: "Silver Nanofilament Formation Dynamics in a Polymer‐Ionic Liquid Thin Film by Direct Write"
-    excerpt: "**40.** [Z. Chao, K. B. Sezginel, K. Xu, G. M. Crouch, A. E. Gray, C. E. Wilmer, P. W. Bohn, D. B. Go, S. K. Fullerton-Shirey, *Advanced Functional Materials*, **(2019)**.](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201907950)"
+    excerpt: "**40.** [Z. Chao, K. B. Sezginel, K. Xu, G. M. Crouch, A. E. Gray, C. E. Wilmer, P. W. Bohn, D. B. Go, and S. K. Fullerton-Shirey, Silver Nanofilament Formation Dynamics in a Polymer‐Ionic Liquid Thin Film by Direct Write, *Advanced Functional Materials*, **(2019)**.](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201907950)"
 2019_boone_lammps_corrected_heat_flux:
   - image_path: /assets/img/publications/2019_boone_lammps_corrected_heat_flux.png
     alt: "2019_boone_lammps_corrected_heat_flux.png"
     title: "Heat flux for many-body interactions: Corrections to LAMMPS"
-    excerpt: "**39.** [P. Boone, H. Babaei and C. E. Wilmer, Heat flux for many-body interactions: corrections to LAMMPS, *Journal of Chemical Theory and Computation*, **(2019)**.](https://doi.org/10.1021/acs.jctc.9b00252)"
+    excerpt: "**39.** [P. Boone, H. Babaei, and C. E. Wilmer, Heat flux for many-body interactions: corrections to LAMMPS, *Journal of Chemical Theory and Computation*, **(2019)**.](https://doi.org/10.1021/acs.jctc.9b00252)"
 2019_sturluson_molsim:
   - image_path: /assets/img/publications/2019_sturluson_molsim.png
     alt: "2019_sturluson_molsim"
