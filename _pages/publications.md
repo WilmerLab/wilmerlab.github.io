@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2019-08-21
 categories: pages
 
+2020_day_co2_sensing:
+- image_path: /assets/img/publications/2020_day_co2_sensing.png
+  alt: "2020_day_co2_sensing"
+  title: "Genetic Algorithm Design of MOF-based Gas Sensor Array for CO2-in-Air Sensing"
+  excerpt: "**41.** [Day, B.A.; Wilmer, C.E. Genetic Algorithm Design of MOF-based Gas Sensor Arrays for CO<sub>2</sub>-in-Air Sensing. *Sensors* **2020**, *20*, 924.](https://www.mdpi.com/1424-8220/20/3/924)"
 2019_chao_afm:
   - image_path: /assets/img/publications/2019_chao_afm.png
     alt: "2019_chao_afm"
@@ -226,6 +231,12 @@ Publications
   </tr>
 </table>
 --------------------------------------------------------------
+
+2020
+----
+
+{% include feature_row id="2020_day_co2_sensing" type="left" %}
+
 
 2019
 ----
