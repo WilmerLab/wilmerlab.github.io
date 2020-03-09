@@ -2,9 +2,14 @@
 layout: splash
 title:  "Publications"
 permalink: /publications/
-date:   2019-08-21
+date:   2020-03-09
 categories: pages
 
+2020_sezginel_msde_rsoc:
+- image_path: /assets/img/publications/2020_sezginel_msde_rsoc.jpg
+  alt: "2020_sezginel_msde_rsoc"
+  title: "Modeling Diffusion of Nanocars on a Cu(110) surface"
+  excerpt: "**42.** [K. B. Sezginel and C. E. Wilmer, Modeling Diffusion of Nanocars on a Cu(110) Surface. *Mol. Syst. Des. Eng.*, Advance Article, **(2020)**.](https://pubs.rsc.org/en/Content/ArticleLanding/2020/ME/C9ME00171A#!divAbstract)"
 2020_day_co2_sensing:
 - image_path: /assets/img/publications/2020_day_co2_sensing.png
   alt: "2020_day_co2_sensing"
@@ -234,6 +239,8 @@ Publications
 
 2020
 ----
+
+{% include feature_row id="2020_sezginel_msde_rsoc" type="left" %}
 
 {% include feature_row id="2020_day_co2_sensing" type="left" %}
 
