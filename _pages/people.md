@@ -47,15 +47,6 @@ current_members:
     url: "http://www.pitt.edu/~hab85/"
     btn_label: "Personal website"
     btn_class: "btm btn--primary"
-  - image_path: /assets/img/people/KutayProfilePic.jpg
-    alt: "Kutay B. Sezginel"
-    title: "Kutay B. Sezginel"
-    excerpt: "*Graduate Student*<br>
-    **Kutay is interested in molecular architecture and computational materials design.**
-    He received his B.S. and M.S. degrees in Chemical and Biological Engineering from Koç University in Istanbul focusing on methane storage in metal-organic frameworks. Currently he is investigating computational design of MOFs and investigating several properties such as drug delivery, adsorption, and thermal transport. He is also working on computational design of artificial molecular machines."
-    url: "https://kbsezginel.github.io/"
-    btn_label: "Personal website"
-    btn_class: "btm btn--primary"
   - image_path: /assets/img/people/BrianProfilePic.jpg
     alt: "Brian Day"
     title: "Brian Day"
@@ -75,6 +66,21 @@ current_members:
 		**Xin is interested in MOFs for gas storage and separations.**
 		Xin will be co-advised by Dr. Karl Johnson, and will work on gas storage and separation using MOFs. Xin's work will also include studying MOFs for gas sensing applications."
 alumni:
+  - image_path: /assets/img/people/JackCookeProfilePic.png
+    alt: "Jack Cooke"
+    title: "Jack Cooke"
+    excerpt: "*Undergraduate Researcher*<br>
+    **Jack developed a Belnder add-on for aligning and distributing objects, called Blign.**
+    Jack developed an installable add-on for Blender, a 3D computer graphics software. His add-on, called Blign, is a tool that allows users to align and distribute objects. He joined the lab as a third-year undergraduate student at the University of Pittsburgh while pursuing a B.S. degree in Chemical Engineering."
+  - image_path: /assets/img/people/KutayProfilePic.jpg
+    alt: "Kutay B. Sezginel"
+    title: "Kutay B. Sezginel"
+    excerpt: "*Graduate Student*<br>
+    **Kutay investigated molecular architecture and computational materials design.**
+    He received his B.S. and M.S. degrees in Chemical and Biological Engineering from Koç University in Istanbul focusing on methane storage in metal-organic frameworks. During his Ph.D., he investigated computational design of MOFs and several of their properties for applications such as drug delivery, adsorption, and thermal transport. He also worked on computational design of artificial molecular machines."
+    url: "https://kbsezginel.github.io/"
+    btn_label: "Personal website"
+    btn_class: "btm btn--primary"
   - image_path: /assets/img/people/AlecProfilePic.jpg
     alt: "Alec Kaija"
     title: "Alec Kaija"
