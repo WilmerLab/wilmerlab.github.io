@@ -75,6 +75,11 @@ current_members:
 		**Xin is interested in MOFs for gas storage and separations.**
 		Xin will be co-advised by Dr. Karl Johnson, and will work on gas storage and separation using MOFs. Xin's work will also include studying MOFs for gas sensing applications."
 alumni:
+  - image_path: /assets/img/people/JackCookeProfilePic.jpg
+    alt: "Jack Cooke"
+    title: "Jack Cooke"
+    excerpt: "*Undergraduate Researcher*<br>
+    **Jack developed an installable add-on for Blender, a 3D computer graphics software. His add-on, called Blign, is a tool that allows users to align and distribute objects. He joined the lab as a third-year undergraduate student at the University of Pittsburgh while pursuing a B.S. degree in Chemical Engineering. "
   - image_path: /assets/img/people/AlecProfilePic.jpg
     alt: "Alec Kaija"
     title: "Alec Kaija"
