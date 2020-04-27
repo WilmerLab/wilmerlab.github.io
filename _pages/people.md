@@ -21,7 +21,7 @@ chris_wilmer:
     2017 Foresight Fellow<br>
     2016 NSF CAREER Award Recipient<br>
     2014 Invited speaker to Google's Solve-for-X annual meeting<br>
-    2013 AIChE Computational Molecular Science & Engineering Graduate Student Award<br>
+    2012 Named to the Forbes Top 30-Under-30 list in Energy Innovation<br>
     [Click here to see more awards](https://www.youtube.com/watch?v=ityRn2IA24A&t=3s)"
 current_members:
   - image_path: /assets/img/people/PaulProfilePic.jpg
