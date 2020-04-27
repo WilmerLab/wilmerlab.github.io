@@ -22,13 +22,7 @@ chris_wilmer:
     2016 NSF CAREER Award Recipient<br>
     2014 Invited speaker to Google's Solve-for-X annual meeting<br>
     2013 AIChE Computational Molecular Science & Engineering Graduate Student Award<br>
-    2012 Named to the Forbes Top 30-Under-30 list in Energy Innovation<br>
-    2012 Distinguished Graduate Researcher Award, Chem. Engineering, Northwestern Univ.<br>
-    2012 ACS Excellence in Graduate Research Award, Energy & Fuels<br>
-    2012 Invitation to Ring the Closing Bell of the NASDAQ Stock Exchange<br>
-    2012 Kleiner Perkins Clean Tech Innovation Prize<br>
-    2012 Grand Prize, Rice Business Plan Competition<br>
-    2011 NSF International Science & Engineering Visualization Challenge Winner"
+    [Click here to see more awards](https://www.youtube.com/watch?v=ityRn2IA24A&t=3s)"
 current_members:
   - image_path: /assets/img/people/PaulProfilePic.jpg
     alt: "Paul Boone"
