@@ -9,12 +9,12 @@ categories: pages
   - image_path: /assets/img/publications/2020_babaei_nature_comm.gif
     alt: "2020_babaei_nature_comm"
     title: "Observation of reduced thermal conductivity in a metal-organic framework due to the presence of adsorbates"
-    excerpt: "**43.** [H. Babaei, M. E. DeCoster, M. Jeong, Z. M. Hassan, T. Islamoglu, H. Baumgart, A. J. H. McGaughey, E. Redel, O. K. Farha, P. E. Hopkins, J. A. Malen, and C. E. Wilmer, Observation of reduced thermal conductivity in a metal-organic framework due to the presence of adsorbates. *Nature Communications*, 11, 4010, **(2020)**.](https://www.nature.com/articles/s41467-020-17822-0)"
+    excerpt: "**44.** [H. Babaei, M. E. DeCoster, M. Jeong, Z. M. Hassan, T. Islamoglu, H. Baumgart, A. J. H. McGaughey, E. Redel, O. K. Farha, P. E. Hopkins, J. A. Malen, and C. E. Wilmer, Observation of reduced thermal conductivity in a metal-organic framework due to the presence of adsorbates. *Nature Communications*, 11, 4010, **(2020)**.](https://www.nature.com/articles/s41467-020-17822-0)"
 2020_sezginel_jpcc:
   - image_path: /assets/img/publications/2020_sezginel_jpcc.gif
     alt: "2020_sezginel_jpcc"
     title: "Effect of flexibility on thermal transport in breathing porous crystals"
-    excerpt: "**44.** [K. B. Sezginel, S. Lee, H. Babaei, and C. E. Wilmer, Effect of flexibility on thermal transport in breathing porous crystals. *Journal of Physical Chemistry C*, 124, 18604–18608, **(2020)**.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c04353)"
+    excerpt: "**43.** [K. B. Sezginel, S. Lee, H. Babaei, and C. E. Wilmer, Effect of flexibility on thermal transport in breathing porous crystals. *Journal of Physical Chemistry C*, 124, 18604–18608, **(2020)**.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c04353)"
 2020_sezginel_msde_rsoc:
   - image_path: /assets/img/publications/2020_sezginel_msde_rsoc.jpg
     alt: "2020_sezginel_msde_rsoc"
