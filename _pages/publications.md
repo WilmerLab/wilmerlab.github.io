@@ -39,7 +39,7 @@ categories: pages
   - image_path: /assets/img/publications/2019_devkota_sawarray.png
     alt: "2019_devkota_sawarray"
     title: "Designing a SAW sensor array with MOF sensing layers for carbon dioxide and methane"
-    excerpt: "**40.** [J. Devkota, P. R. Ohodnicki, J. A. Gustafson, C. E. Wilmer, D. W. Greve, Designing a SAW sensor array with MOF sensing layers for carbon dioxide and methane, *IEEE Xplore*, 19030146 **(2019)**.](https://ieeexplore-ieee-org.pitt.idm.oclc.org/abstract/document/8856088)"
+    excerpt: "**40.** [J. Devkota, P. R. Ohodnicki, J. A. Gustafson, C. E. Wilmer, and D. W. Greve, Designing a SAW sensor array with MOF sensing layers for carbon dioxide and methane, *IEEE Xplore*, 19030146 **(2019)**.](https://ieeexplore-ieee-org.pitt.idm.oclc.org/abstract/document/8856088)"
 2019_boone_lammps_corrected_heat_flux:
   - image_path: /assets/img/publications/2019_boone_lammps_corrected_heat_flux.png
     alt: "2019_boone_lammps_corrected_heat_flux.png"
