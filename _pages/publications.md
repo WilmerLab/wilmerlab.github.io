@@ -9,32 +9,37 @@ categories: pages
   - image_path: /assets/img/publications/2020_babaei_acs.png
     alt: "2020_babaei_acs"
     title: "Enhanced thermal conductivity in a diamine-appended metal–organic framework as a result of cooperative CO<sub>2</sub> adsorption"
-    excerpt: "**45.** [H. Babaei, J. Lee, M. N. Dods, C. E. Wilmer, and J. R. Long, Enhanced thermal conductivity in a diamine-appended metal–organic framework as a result of cooperative CO<sub>2</sub> adsorption. *ACS Appl. Mater. Interfaces*, Just Accepted, **(2020)**](https://pubs.acs.org/doi/abs/10.1021/acsami.0c10233)"
+    excerpt: "**46.** [H. Babaei, J. Lee, M. N. Dods, C. E. Wilmer, and J. R. Long, Enhanced thermal conductivity in a diamine-appended metal–organic framework as a result of cooperative CO<sub>2</sub> adsorption. *ACS Appl. Mater. Interfaces*, Just Accepted, **(2020)**](https://pubs.acs.org/doi/abs/10.1021/acsami.0c10233)"
 2020_babaei_nature_comm:
   - image_path: /assets/img/publications/2020_babaei_nature_comm.gif
     alt: "2020_babaei_nature_comm"
     title: "Observation of reduced thermal conductivity in a metal-organic framework due to the presence of adsorbates"
-    excerpt: "**44.** [H. Babaei, M. E. DeCoster, M. Jeong, Z. M. Hassan, T. Islamoglu, H. Baumgart, A. J. H. McGaughey, E. Redel, O. K. Farha, P. E. Hopkins, J. A. Malen, and C. E. Wilmer, Observation of reduced thermal conductivity in a metal-organic framework due to the presence of adsorbates. *Nature Communications*, 11, 4010, **(2020)**.](https://www.nature.com/articles/s41467-020-17822-0)"
+    excerpt: "**45.** [H. Babaei, M. E. DeCoster, M. Jeong, Z. M. Hassan, T. Islamoglu, H. Baumgart, A. J. H. McGaughey, E. Redel, O. K. Farha, P. E. Hopkins, J. A. Malen, and C. E. Wilmer, Observation of reduced thermal conductivity in a metal-organic framework due to the presence of adsorbates. *Nature Communications*, 11, 4010, **(2020)**.](https://www.nature.com/articles/s41467-020-17822-0)"
 2020_sezginel_jpcc:
   - image_path: /assets/img/publications/2020_sezginel_jpcc.gif
     alt: "2020_sezginel_jpcc"
     title: "Effect of flexibility on thermal transport in breathing porous crystals"
-    excerpt: "**43.** [K. B. Sezginel, S. Lee, H. Babaei, and C. E. Wilmer, Effect of flexibility on thermal transport in breathing porous crystals. *Journal of Physical Chemistry C*, 124, 18604–18608, **(2020)**.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c04353)"
+    excerpt: "**44.** [K. B. Sezginel, S. Lee, H. Babaei, and C. E. Wilmer, Effect of flexibility on thermal transport in breathing porous crystals. *Journal of Physical Chemistry C*, 124, 18604–18608, **(2020)**.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c04353)"
 2020_sezginel_msde_rsoc:
   - image_path: /assets/img/publications/2020_sezginel_msde_rsoc.jpg
     alt: "2020_sezginel_msde_rsoc"
     title: "Modeling diffusion of nanocars on a Cu (110) surface"
-    excerpt: "**42.** [K. B. Sezginel and C. E. Wilmer, Modeling diffusion of nanocars on a Cu (110) surface. *Mol. Syst. Des. Eng.*, Advance Article, **(2020)**.](https://pubs.rsc.org/en/Content/ArticleLanding/2020/ME/C9ME00171A#!divAbstract)"
+    excerpt: "**43.** [K. B. Sezginel and C. E. Wilmer, Modeling diffusion of nanocars on a Cu (110) surface. *Mol. Syst. Des. Eng.*, Advance Article, **(2020)**.](https://pubs.rsc.org/en/Content/ArticleLanding/2020/ME/C9ME00171A#!divAbstract)"
 2020_day_co2_sensing:
   - image_path: /assets/img/publications/2020_day_co2_sensing.png
     alt: "2020_day_co2_sensing"
     title: "Genetic algorithm design of MOF-based gas sensor array for CO<sub>2</sub>-in-air sensing"
-    excerpt: "**41.** [B. A. Day and C. E. Wilmer, Genetic algorithm design of MOF-based gas sensor array for CO<sub>2</sub>-in-air sensing. *Sensors*, 20, 924, **(2020)**.](https://www.mdpi.com/1424-8220/20/3/924)"
+    excerpt: "**42.** [B. A. Day and C. E. Wilmer, Genetic algorithm design of MOF-based gas sensor array for CO<sub>2</sub>-in-air sensing. *Sensors*, 20, 924, **(2020)**.](https://www.mdpi.com/1424-8220/20/3/924)"
 2019_chao_afm:
   - image_path: /assets/img/publications/2019_chao_afm.png
     alt: "2019_chao_afm"
     title: "Silver nanofilament formation dynamics in a polymer‐ionic liquid thin film by direct write"
-    excerpt: "**40.** [Z. Chao, K. B. Sezginel, K. Xu, G. M. Crouch, A. E. Gray, C. E. Wilmer, P. W. Bohn, D. B. Go, and S. K. Fullerton-Shirey, Silver nanofilament formation dynamics in a polymer‐ionic liquid thin film by direct write, *Advanced Functional Materials*, 30, 1907950 **(2019)**.](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201907950)"
+    excerpt: "**41.** [Z. Chao, K. B. Sezginel, K. Xu, G. M. Crouch, A. E. Gray, C. E. Wilmer, P. W. Bohn, D. B. Go, and S. K. Fullerton-Shirey, Silver nanofilament formation dynamics in a polymer‐ionic liquid thin film by direct write, *Advanced Functional Materials*, 30, 1907950 **(2019)**.](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201907950)"
+2019_devkota_sawarray:
+  - image_path: /assets/img/publications/2019_devkota_sawarray.png
+    alt: "2019_devkota_sawarray"
+    title: "Designing a SAW sensor array with MOF sensing layers for carbon dioxide and methane"
+    excerpt: "**40.** [J. Devkota, P. R. Ohodnicki, J. A. Gustafson, C. E. Wilmer, D. W. Greve, Designing a SAW sensor array with MOF sensing layers for carbon dioxide and methane, *IEEE Xplore*, 19030146 **(2019)**.](https://ieeexplore-ieee-org.pitt.idm.oclc.org/abstract/document/8856088)"
 2019_boone_lammps_corrected_heat_flux:
   - image_path: /assets/img/publications/2019_boone_lammps_corrected_heat_flux.png
     alt: "2019_boone_lammps_corrected_heat_flux.png"
@@ -271,6 +276,8 @@ Publications
 ----
 
 {% include feature_row id="2019_chao_afm" type="left" %}
+
+{% include feature_row id="2019_devkota_sawarray" type="left" %}
 
 {% include feature_row id="2019_boone_lammps_corrected_heat_flux" type="left" %}
 
