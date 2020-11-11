@@ -57,14 +57,20 @@ current_members:
     alt: "Xin Wei"
     title: "Xin Wei"
     excerpt: "*Graduate Student*<br>
-		**Xin is interested in MOFs for gas storage and separations.**
-		Xin will be co-advised by Dr. Karl Johnson, and will work on gas storage and separation using MOFs. Xin's work will also include studying MOFs for gas sensing applications."
+    **Xin is interested in MOFs for gas storage and separations.**
+    Xin will be co-advised by Dr. Karl Johnson, and will work on gas storage and separation using MOFs. Xin's work will also include studying MOFs for gas sensing applications."
   - image_path: /assets/img/people/DanielProfilePic.jpg
     alt: "Daniel Salmon"
     title: "Daniel Salmon"
     excerpt: "*Graduate Student*<br>
     **Daniel is interested in the intersection between game theory and distributed systems.**
     He studied mathematics, physics, and economics while an undergraduate at the University of Pittsburgh."
+  - image_path: /assets/img/people/BeccaProfilePic.png
+    alt: "Becca Segel"
+    title: "Becca Segel"
+    excerpt: "*Graduate Student*<br>
+    **Becca Segel is interested in commercialization of flow battery technologies involving earth abundant materials.**
+    She received her B.S. in Chemical Engineering from Case Western Reserve University in 2020. Becca is co-advised by Chris Wilmer and James McKone."
 alumni:
   - image_path: /assets/img/people/JackCookeProfilePic.png
     alt: "Jack Cooke"
