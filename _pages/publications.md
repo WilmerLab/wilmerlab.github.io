@@ -9,7 +9,7 @@ categories: pages
   - image_path: /assets/img/publications/2020_islamov_acs_ami.png
     alt: "2020_islamov_acs_ami"
     title: "Influence of missing linker defects on the thermal conductivity of metal–organic framework HKUST-1"
-    excerpt: "**47.** [M. Islamov, H. Babaei, and C. E. Wilmer, Influence of missing linker defects on the thermal conductivity of metal–organic framework HKUST-1. *ACS applied materials & interfaces*, 12, 56172–56177, **(2020)**](https://pubs.acs.org/doi/10.1021/acsami.0c16127)"
+    excerpt: "**47.** [M. Islamov, H. Babaei, and C. E. Wilmer, Influence of missing linker defects on the thermal conductivity of metal–organic framework HKUST-1. *ACS applied materials & interfaces*, 12, 56172–56177, **(2020)**.](https://pubs.acs.org/doi/10.1021/acsami.0c16127)"
 2020_babaei_acs:
   - image_path: /assets/img/publications/2020_babaei_acs.png
     alt: "2020_babaei_acs"
