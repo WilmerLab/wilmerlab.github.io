@@ -9,7 +9,7 @@ categories: pages
   - image_path: /assets/img/publications/2020_islamov_acs_ami.png
     alt: "2020_islamov_acs_ami"
     title: "Influence of missing linker defects on the thermal conductivity of metal–organic framework HKUST-1"
-    excerpt: "**47.** [M. Islamov, H. Babaei, and C. E. Wilmer, Influence of missing linker defects on the thermal conductivity of metal–organic framework HKUST-1. *ACS applied materials & interfaces*, 12, 56172–56177, **(2020)**.](https://pubs.acs.org/doi/10.1021/acsami.0c16127)"
+    excerpt: "**47.** [M. Islamov, H. Babaei, and C. E. Wilmer, Influence of missing linker defects on the thermal conductivity of metal–organic framework HKUST-1. *ACS Applied Materials & Interfaces*, 12, 56172–56177, **(2020)**.](https://pubs.acs.org/doi/10.1021/acsami.0c16127)"
 2020_babaei_acs:
   - image_path: /assets/img/publications/2020_babaei_acs.png
     alt: "2020_babaei_acs"
@@ -94,7 +94,7 @@ categories: pages
   - image_path: /assets/img/publications/2017_kaija_faraday.png
     alt: "2017_kaija_faraday"
     title: "Efficiently mapping structure–property relationships of gas adsorption in porous materials: application to Xe adsorption"
-    excerpt: "**30.** [A. R. Kaija and C. E. Wilmer. Efficiently mapping structure–property relationships of gas adsorption in porous materials: application to Xe adsorption, *Faraday discussions*, 201, 221-232 **(2017)**.](http://pubs.rsc.org/en/content/articlelanding/fd/2017/c7fd00038c)"
+    excerpt: "**30.** [A. R. Kaija and C. E. Wilmer. Efficiently mapping structure–property relationships of gas adsorption in porous materials: application to Xe adsorption, *Faraday Discussions*, 201, 221-232 **(2017)**.](http://pubs.rsc.org/en/content/articlelanding/fd/2017/c7fd00038c)"
 2017_gustafson_jpcc:
   - image_path: /assets/img/publications/2017_gustafson_jpcc.png
     alt: "2017_gustafson_jpcc"
