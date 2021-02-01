@@ -14,7 +14,7 @@ categories: pages
   - image_path: /assets/img/publications/2020_babaei_acs.png
     alt: "2020_babaei_acs"
     title: "Enhanced thermal conductivity in a diamine-appended metal–organic framework as a result of cooperative CO<sub>2</sub> adsorption"
-    excerpt: "**46.** [H. Babaei, J. Lee, M. N. Dods, C. E. Wilmer, and J. R. Long, Enhanced thermal conductivity in a diamine-appended metal–organic framework as a result of cooperative CO<sub>2</sub> adsorption. *ACS Appl. Mater. Interfaces*, Just Accepted, **(2020)**](https://pubs.acs.org/doi/abs/10.1021/acsami.0c10233)"
+    excerpt: "**46.** [H. Babaei, J. Lee, M. N. Dods, C. E. Wilmer, and J. R. Long, Enhanced thermal conductivity in a diamine-appended metal–organic framework as a result of cooperative CO<sub>2</sub> adsorption. *ACS Appl. Mater. Interfaces*, Just Accepted, **(2020)**.](https://pubs.acs.org/doi/abs/10.1021/acsami.0c10233)"
 2020_babaei_nature_comm:
   - image_path: /assets/img/publications/2020_babaei_nature_comm.gif
     alt: "2020_babaei_nature_comm"
