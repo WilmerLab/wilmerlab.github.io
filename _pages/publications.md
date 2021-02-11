@@ -5,6 +5,16 @@ permalink: /publications/
 date:   2020-09-09
 categories: pages
 
+2021_wei_acs_jpcc:
+  - image_path: /assets/img/publications/2021_UiO.jpeg
+    alt: "2021_UiO"
+    title: "Modeling of Diffusion of Acetone in UiO-66"
+    excerpt: "**49.** [J. J. Wardzala, J. P. Ruffley, I. Goodenough, A. M. Schmidt, P. B. Shukla, X. Wei, A. Bagusetty, M. D. Souza, P. Das, D. J. Thompson, C. J. Karwacki, C. E. Wilmer, E. Borguet, N. L. Rosi, and J. K. Johnson, Modeling of Diffusion of Acetone in UiO-66, *Journal of Physical Chemistry C, 124, 52, 28469-28478*, **(2021)**.](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c07040)"
+2021_wei_acs:
+  - image_path: /assets/img/publications/2021_NMR.jpeg
+    alt: "2021_NMR"
+    title: "In-situ NMR Investigation of Molecular Adsorption and Kinetics in MOF UiO-66"
+    excerpt: "**48.** [Y. An, A. Kleinhammes, P. Doyle, E. Chen, Y. Song, A. J. Morris, B. Gibbons, M. Cai, J. K. Johnson, P. B. Shukla, M. N. Vo, X. Wei, C. E. Wilmer, J. P. Ruffley, L. Huang, T. M. Tovar, J. J. Mahle, C. J. Karwacki, and Y. Wu, In-situ NMR Investigation of Molecular Adsorption and Kinetics in MOF UiO-66, *Journal of Physical Chemistry Letters, 12, 892-899*, **(2021)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c03504)"
 2020_islamov_acs_ami:
   - image_path: /assets/img/publications/2020_islamov_acs_ami.png
     alt: "2020_islamov_acs_ami"
@@ -263,8 +273,16 @@ Publications
 </table>
 --------------------------------------------------------------
 
+2021
+----
+
+{% include feature_row id="2021_wei_acs" type="left" %}
+
+{% include feature_row id="2021_wei_acs_jpcc" type="left" %}
+
 2020
 ----
+
 {% include feature_row id="2020_islamov_acs_ami" type="left" %}
 
 {% include feature_row id="2020_babaei_acs" type="left" %}
