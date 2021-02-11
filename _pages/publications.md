@@ -69,7 +69,7 @@ categories: pages
   - image_path: /assets/img/publications/2019_gustafson_acssensors.png
     alt: "2019_gustafson_acssensors"
     title: "Intelligent selection of metal–organic framework arrays for methane sensing via genetic algorithms"
-    excerpt: "**37.** [J. A. Gustafson and C. E. Wilmer, Intelligent selection of metal-organic framework arrays for methane sensing via genetic algorithms, *ACS sensors*, 4, 1596-1593 **(2019)**.](https://pubs.acs.org/doi/abs/10.1021/acssensors.9b00268)"
+    excerpt: "**37.** [J. A. Gustafson and C. E. Wilmer, Intelligent selection of metal-organic framework arrays for methane sensing via genetic algorithms, *ACS sensors*, 4, 1586-1593 **(2019)**.](https://pubs.acs.org/doi/abs/10.1021/acssensors.9b00268)"
 2018_budhathoki_ees:
   - image_path: /assets/img/publications/2018_budhathoki_ees.png
     alt: "2018_budhathoki_ees"
