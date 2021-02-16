@@ -277,9 +277,9 @@ Publications
 2021
 ----
 
-{% include feature_row id="2021_wei_acs" type="left" %}
-
 {% include feature_row id="2021_wei_acs_jpcc" type="left" %}
+
+{% include feature_row id="2021_wei_acs" type="left" %}
 
 2020
 ----
