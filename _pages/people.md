@@ -41,7 +41,7 @@ current_members:
     url: "http://www.pitt.edu/~hab85/"
     btn_label: "Personal website"
     btn_class: "btm btn--primary"
-  - image_path: /assets/img/people/BrianProfilePic.jpg
+  - image_path: /assets/img/people/BrianProfilePic2.png
     alt: "Brian Day"
     title: "Brian Day"
     excerpt: "*Graduate Student*<br>
@@ -64,7 +64,7 @@ current_members:
     title: "Daniel Salmon"
     excerpt: "*Graduate Student*<br>
     **Daniel is interested in cryptography, natural computing, and applications
-of game theory to computing.**
+    of game theory to computing.**
     He studied mathematics, physics, and economics while an undergraduate at the University of Pittsburgh."
     url: "https://daniel-salmon.com"
     btn_label: "Personal website"
@@ -75,6 +75,24 @@ of game theory to computing.**
     excerpt: "*Graduate Student*<br>
     **Becca Segel is interested in commercialization of flow battery technologies involving earth abundant materials.**
     She received her B.S. in Chemical Engineering from Case Western Reserve University in 2020. Becca is co-advised by Chris Wilmer and James McKone."
+  - image_path: /assets/img/people/NickAhualli.png
+    alt: "Nick Ahualli"
+    title: "Nick Ahualli"
+    excerpt: "*Undergraduate Student*<br>
+    **Nick is interested in in using MOFs to develop electronic noses for disease detection.**
+    Nick is an undergraduate mechanical engineer major on the premed track. He is working on the electronic nose project in the WilmerLab, researching the interactions between biomarkers in breath with MOFs."
+  - image_path: /assets/img/people/SpencerConway.png
+    alt: "Spencer Conway"
+    title: "Spencer Conway"
+    excerpt: "*Undergraduate Student*<br>
+    **Spencer is investigating MOFs for the detection lung cancer biomarkers in breath. **
+     He is a 3rd year chemical engineering student at the University of Pittsburgh."
+  - image_path: /assets/img/people/ChristianMolfetto.png
+    alt: "Christian Molfetto"
+    title: "Christian Molfetto"
+    excerpt: "*Undergraduate Student*<br>
+    **Christian is interested in using MOFs to develop electronic noses.**
+    He is a 4th year chemical engineering student at the University of Pittsburgh."
 alumni:
   - image_path: /assets/img/people/JackCookeProfilePic.png
     alt: "Jack Cooke"
