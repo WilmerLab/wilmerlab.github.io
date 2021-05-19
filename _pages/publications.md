@@ -6,6 +6,10 @@ date:   2020-09-09
 categories: pages
 
 2021_wei_acs_jpcc:
+  - image_path: /assets/img/publications/2021_Ewaste.png
+    alt: "2021_Ewaste"
+    title: "A framework for modeling fraud in E-waste management"
+    excerpt: "**50.** [D. Salmon, C. W. Babbitt, G. A. Babbitt, and C. E. Wilmer, A framework for modeling fraud in E-waste management, *Resources, Conservation and Recycling, 171, 105613*, **(2021)**.](https://doi.org/10.1016/j.resconrec.2021.105613)"
   - image_path: /assets/img/publications/2021_UiO.jpeg
     alt: "2021_UiO"
     title: "Modeling of Diffusion of Acetone in UiO-66"

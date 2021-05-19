@@ -63,8 +63,12 @@ current_members:
     alt: "Daniel Salmon"
     title: "Daniel Salmon"
     excerpt: "*Graduate Student*<br>
-    **Daniel is interested in the intersection between game theory and distributed systems.**
+    **Daniel is interested in cryptography, natural computing, and applications
+of game theory to computing.**
     He studied mathematics, physics, and economics while an undergraduate at the University of Pittsburgh."
+    url: "https://daniel-salmon.com"
+    btn_label: "Personal website"
+    btn_class: "btm btn--primary"
   - image_path: /assets/img/people/BeccaProfilePic.png
     alt: "Becca Segel"
     title: "Becca Segel"
