@@ -47,11 +47,12 @@ sure to pull in any new changes (`$ git pull origin`)
    on your computer. See [Docker](#docker) for an example of how to do this
 using Docker.
 5. Push your changes to GitHub. This does not mean pushing your changes to the
-   lab's website; this will simply update your forked version on GitHub.
+   lab's website. Instead this will simply update your forked version of the
+repository that exists on GitHub.
 6. Submit a pull request (PR) to have your changes merged to the website's
    master branch. To do this, click `Contribute`-->`Open pull request`
 (`Contribute` is right next to `Fetch upstream` and below the `Code` button).
-Opening a PR let's daniel or Brian review your requested changes. If the
+Opening a PR lets daniel or Brian review your requested changes. If the
 changes look good, they can be merged directly to the master branch of the
 WilmerLab website (where they will then be published). Otherwise, further
 tweaks may be requested.
