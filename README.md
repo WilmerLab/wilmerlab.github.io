@@ -6,7 +6,7 @@ is hosted by GitHub pages, using Jekyll to manage the static content.
 # Table of Contents
 
 - [About](#about)
-- [Quickstart](#quickstart)
+  -[How Does It Work](#how-does-it-work)
 - [Contributing](#contributing)
 - [Installation](#installation)
   - [Docker](#docker)
@@ -21,10 +21,22 @@ news (business competition victories, publications, other exciting
 accomplishments), information on current research, coding tutorials, Chris's
 teaching endeavors, etc. Whenever ''news'' happens to one of the lab members,
 they are responsible for adding relevant content, including copy and images.
-How to make these updates is described further in [Quickstart](#quickstart) and
+How to make these updates is described further in
 [Contributing](#contributing).
 
-## Quickstart <a name="quickstart"></a>
+### How Does It Work? <a name="how-does-it-work"></a>
+
+The site is hosted by GitHub pages. GitHub pages is [fully integrated with
+Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
+Jekyll takes markdown files and any images we provide and ''transpiles'' them
+into HTML documents that GitHub pages can serve (these are the files that are
+served when you navigate to https://wilmerlab.github.io). Since Jekyll is
+integrated with GitHub pages, for us this means we don't have to actually worry
+about building the site (i.e., converting the raw markdown into HTML) prior to
+pushing to the repository; instead, whenever new, raw content in the form of
+markdown files and images is pushed to the repository, a new build is triggered
+and the (live) site gets updated with any new files. However, we can still test
+the builds and serve the site locally prior to pushing content.
 
 ## Contributing <a name="contributing"></a>
 
