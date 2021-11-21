@@ -6,7 +6,7 @@ is hosted by GitHub pages, using Jekyll to manage the static content.
 # Table of Contents
 
 - [About](#about)
-  - [How Does It Work](#how-does-it-work)
+  - [How Does It Work?](#how-does-it-work)
 - [Contributing](#contributing)
 - [Installation](#installation)
   - [Docker](#docker)
