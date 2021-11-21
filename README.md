@@ -28,6 +28,34 @@ How to make these updates is described further in [Quickstart](#quickstart) and
 
 ## Contributing <a name="contributing"></a>
 
+Have something to add to the website? Something to tweak? Follow these steps:
+
+1. Create a GitHub account.
+2. Fork this repository. This will give you your own personal copy of the
+   repository to which you can make modifications.
+  - If you have already forked the repository, no need to fork it again. Under
+    your forked copy of the repository, click on ``Fetch upstream`` in the
+GitHub UI (this should appear in the top right, in the box underneath the
+``Code`` button).
+3. Make your changes locally.
+  - If this is your first time forking the repository, you will need to clone
+    it (`$ git clone https://github.com/<your username>/wilmerlab.github.io`).
+  - If you already have a fork that has been fast-forwarded to include any
+    changes that others have pushed since the last time you made changes, be
+sure to pull in any new changes (`$ git pull origin`)
+4. (Optional, but recommended) Test your changes by serving the website locally
+   on your computer. See [Docker](#docker) for an example of how to do this
+using Docker.
+5. Push your changes to GitHub. This does not mean pushing your changes to the
+   lab's website; this will simply update your forked version on GitHub.
+6. Submit a pull request (PR) to have your changes merged to the website's
+   master branch. To do this, click `Contribute`-->`Open pull request`
+(`Contribute` is right next to `Fetch upstream` and below the `Code` button).
+Opening a PR let's daniel or Brian review your requested changes. If the
+changes look good, they can be merged directly to the master branch of the
+WilmerLab website (where they will then be published). Otherwise, further
+tweaks may be requested.
+
 ## Installation <a name="installation"></a>
 
 For most lab members, installing Ruby and Jekyll (a Ruby-based content
@@ -44,12 +72,12 @@ have installation instructions for installing ''bare metal'' on macOS.
 
 ### Docker <a name="docker"></a>
 
-daniel has ensured that the lab's desktop has Docker and GNU make installed
+daniel has ensured that the lab's desktop has Docker and GNU Make installed
 system wide. So that can be an easy place to test your website updates.
-However, by installing Docker on your system, you will not have to worry about
-installing Ruby, Jekyll, and any dependencies on your own compute. Serving the
+However, by installing Docker on your system you will not have to worry about
+installing Ruby, Jekyll, and any dependencies on your own computer. Serving the
 site locally will then be as easy as executing `make serve` (or even just
-`make`); if you do not have [GNU make](https://www.gnu.org/software/make/) you
+`make`); if you do not have [GNU Make](https://www.gnu.org/software/make/) you
 can install it, although it is not a necessary depedency, it just makes running
 the website easier.
 
@@ -63,7 +91,7 @@ directive. The command listed there is to run a Docker container with Ruby and
 Jekyll preconfigured and then to serve the website on your machine's
 `localhost` on port `4000`.
 
-If you do not have GNU make but you do have Docker installed, you can execute
+If you do not have GNU Make but you do have Docker installed, you can execute
 the `serve` directive from the Makefile ''manually''. The Makefile lists a
 _shell_ command:
 ```sh
