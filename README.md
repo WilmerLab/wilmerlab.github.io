@@ -51,10 +51,10 @@ GitHub UI (this should appear in the top right, in the box underneath the
 ``Code`` button).
 3. Make your changes locally.
   - If this is your first time forking the repository, you will need to clone
-    it (`$ git clone https://github.com/<your username>/wilmerlab.github.io`).
+    it (`git clone https://github.com/<your username>/wilmerlab.github.io`).
   - If you already have a fork that has been fast-forwarded to include any
     changes that others have pushed since the last time you made changes, be
-sure to pull in any new changes (`$ git pull origin`)
+sure to pull in any new changes (`git pull origin`)
 4. (Optional, but recommended) Test your changes by serving the website locally
    on your computer. See [Docker](#docker) for an example of how to do this
 using Docker.
