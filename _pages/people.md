@@ -53,12 +53,6 @@ current_members:
     excerpt: "*Graduate Student*<br>
     **Meiirbek is interested in thermal transport phenomena in MOFs.**
     He received his B.S. and M.S degrees in Chemical Engineering from Nazarbayev University (Astana, Kazakhstan) in 2017 and Columbia University in the City of New York in 2018, respectively. At Columbia, he worked on the development of ion selective Membranes for Redox-flow battery. Previously, he spent a summer doing research at Stanford University, where he worked on Rayleigh-Taylor instability in polymer solutions. Also, he visited a TNO (Delft, Netherlands) to work on CO<sub>2</sub> capture."
-  - image_path: /assets/img/people/XinProfilePic.png
-    alt: "Xin Wei"
-    title: "Xin Wei"
-    excerpt: "*Graduate Student*<br>
-    **Xin is interested in MOFs for gas storage and separations.**
-    Xin will be co-advised by Dr. Karl Johnson, and will work on gas storage and separation using MOFs. Xin's work will also include studying MOFs for gas sensing applications."
   - image_path: /assets/img/people/DanielProfilePic.jpg
     alt: "Daniel Salmon"
     title: "Daniel Salmon"
@@ -94,6 +88,12 @@ current_members:
     **Christian is interested in using MOFs to develop electronic noses.**
     He is a 4th year chemical engineering student at the University of Pittsburgh."
 alumni:
+  - image_path: /assets/img/people/XinProfilePic.png
+    alt: "Xin Wei"
+    title: "Xin Wei"
+    excerpt: "*Graduate Student*<br>
+    **Xin is interested in MOFs for gas storage and separations.**
+    Xin was co-advised by Dr. Karl Johnson, and worked on gas storage and separation using MOFs. Xin's work included studying MOFs for gas sensing applications."
   - image_path: /assets/img/people/JackCookeProfilePic.png
     alt: "Jack Cooke"
     title: "Jack Cooke"
