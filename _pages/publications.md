@@ -2,9 +2,14 @@
 layout: splash
 title:  "Publications"
 permalink: /publications/
-date:   2021-06-15
+date:   2022-01-09
 categories: pages
 
+2021_boone_jcp:
+  - image_path: /assets/img/publications/2021_boone_jcp.png
+    alt: "2021_boone_jcp"
+    title: "Toward comprehensive exploration of the physisorption space in porous pseudomaterials using an iterative mutation search algorithm"
+    excerpt: "**52.** [P. Boone and C. E. Wilmer, Toward comprehensive exploration of the physisorption space in porous pseudomaterials using an iterative mutation search algorithm, *J. Chem. Phys.* 155, 234114 **(2021)**.](https://doi.org/10.1063/5.0064378)"
 2021_day_acs:
   - image_path: /assets/img/publications/2021_day_acs.gif
     alt: "2021_day_acs"
@@ -291,6 +296,8 @@ Publications
 
 2021
 ----
+{% include feature_row id="2021_boone_jcp" type="left" %}
+
 {% include feature_row id="2021_day_acs" type="left" %}
 
 {% include feature_row id="2021_day_jacs" type="left" %}
