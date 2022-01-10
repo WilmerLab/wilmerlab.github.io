@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2021-06-15
 categories: pages
 
+2021_day_acs:
+  - image_path: /assets/img/publications/2021_day_acs.gif
+    alt: "2021_day_acs"
+    title: "Computational design of MOF-based electronic noses for dilute gas species detection: Application to kidney disease detection"
+    excerpt: "**52.** [B. A. Day and C. E. Wilmer, Computational Design of MOF-Based Electronic Noses for Dilute Gas Species Detection: Application to Kidney Disease Detection, *ACS Sens.*, 6, 4425–4434 **(2021)**.](https://doi.org/10.1021/acssensors.1c01808)"
 2021_day_jacs:
   - image_path: /assets/img/publications/2021_day_jacs.png
     alt: "2021_day_jacs"
@@ -286,6 +291,7 @@ Publications
 
 2021
 ----
+{% include feature_row id="2021_day_acs" type="left" %}
 
 {% include feature_row id="2021_day_jacs" type="left" %}
 
