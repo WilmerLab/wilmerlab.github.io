@@ -9,17 +9,17 @@ categories: pages
   - image_path: /assets/img/publications/2021_boone_jcp.png
     alt: "2021_boone_jcp"
     title: "Toward comprehensive exploration of the physisorption space in porous pseudomaterials using an iterative mutation search algorithm"
-    excerpt: "**52.** [P. Boone and C. E. Wilmer, Toward comprehensive exploration of the physisorption space in porous pseudomaterials using an iterative mutation search algorithm, *J. Chem. Phys.* 155, 234114 **(2021)**.](https://doi.org/10.1063/5.0064378)"
+    excerpt: "**53.** [P. Boone and C. E. Wilmer, Toward comprehensive exploration of the physisorption space in porous pseudomaterials using an iterative mutation search algorithm, *J. Chem. Phys.* 155, 234114 **(2021)**.](https://doi.org/10.1063/5.0064378)"
 2021_day_acs:
   - image_path: /assets/img/publications/2021_day_acs.gif
     alt: "2021_day_acs"
     title: "Computational design of MOF-based electronic noses for dilute gas species detection: Application to kidney disease detection"
-    excerpt: "**52.** [B. A. Day and C. E. Wilmer, Computational Design of MOF-Based Electronic Noses for Dilute Gas Species Detection: Application to Kidney Disease Detection, *ACS Sens.*, 6, 4425–4434 **(2021)**.](https://doi.org/10.1021/acssensors.1c01808)"
+    excerpt: "**52.** [B. A. Day and C. E. Wilmer, Computational design of MOF-based electronic noses for dilute gas species detection: Application to kidney disease detection, *ACS Sens.*, 6, 4425–4434 **(2021)**.](https://doi.org/10.1021/acssensors.1c01808)"
 2021_day_jacs:
   - image_path: /assets/img/publications/2021_day_jacs.png
     alt: "2021_day_jacs"
     title: "Size discrimination of carbohydrates via conductive carbon nanotube@metal organic framework composites"
-    excerpt: "**51.** [D. L. White, B. A. Day, Z. Zheng, Z. M. Schulte, N. R. Borland, N. L. Rosi, C. E. Wilmer, and A. Star., Size Discrimination of Carbohydrates via Conductive Carbon Nanotube@Metal Organic Framework Composites, *J. Am. Chem. Soc.*, 143, 8022–8033 **(2021)**.](https://doi-org.pitt.idm.oclc.org/10.1021/jacs.1c01673)"
+    excerpt: "**51.** [D. L. White, B. A. Day, Z. Zheng, Z. M. Schulte, N. R. Borland, N. L. Rosi, C. E. Wilmer, and A. Star., Size discrimination of carbohydrates via conductive carbon nanotube@metal organic framework composites, *J. Am. Chem. Soc.*, 143, 8022–8033 **(2021)**.](https://doi-org.pitt.idm.oclc.org/10.1021/jacs.1c01673)"
 2021_salmon_ewaste:
   - image_path: /assets/img/publications/2021_Ewaste.png
     alt: "2021_Ewaste"
@@ -29,12 +29,12 @@ categories: pages
   - image_path: /assets/img/publications/2021_UiO.jpeg
     alt: "2021_UiO"
     title: "Modeling of diffusion of acetone in UiO-66"
-    excerpt: "**49.** [J. J. Wardzala, J. P. Ruffley, I. Goodenough, A. M. Schmidt, P. B. Shukla, X. Wei, A. Bagusetty, M. D. Souza, P. Das, D. J. Thompson, C. J. Karwacki, C. E. Wilmer, E. Borguet, N. L. Rosi, and J. K. Johnson, Modeling of Diffusion of Acetone in UiO-66, *Journal of Physical Chemistry C*, 124, 28469-28478, **(2021)**.](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c07040)"
+    excerpt: "**49.** [J. J. Wardzala, J. P. Ruffley, I. Goodenough, A. M. Schmidt, P. B. Shukla, X. Wei, A. Bagusetty, M. D. Souza, P. Das, D. J. Thompson, C. J. Karwacki, C. E. Wilmer, E. Borguet, N. L. Rosi, and J. K. Johnson, Modeling of diffusion of acetone in UiO-66, *Journal of Physical Chemistry C*, 124, 28469-28478, **(2021)**.](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c07040)"
 2021_wei_acs:
   - image_path: /assets/img/publications/2021_NMR.jpeg
     alt: "2021_NMR"
     title: "In-situ NMR investigation of molecular adsorption and kinetics in MOF UiO-66"
-    excerpt: "**48.** [Y. An, A. Kleinhammes, P. Doyle, E. Chen, Y. Song, A. J. Morris, B. Gibbons, M. Cai, J. K. Johnson, P. B. Shukla, M. N. Vo, X. Wei, C. E. Wilmer, J. P. Ruffley, L. Huang, T. M. Tovar, J. J. Mahle, C. J. Karwacki, and Y. Wu, In-situ NMR Investigation of Molecular Adsorption and Kinetics in MOF UiO-66, *Journal of Physical Chemistry Letters*, 12, 892-899, **(2021)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c03504)"
+    excerpt: "**48.** [Y. An, A. Kleinhammes, P. Doyle, E. Chen, Y. Song, A. J. Morris, B. Gibbons, M. Cai, J. K. Johnson, P. B. Shukla, M. N. Vo, X. Wei, C. E. Wilmer, J. P. Ruffley, L. Huang, T. M. Tovar, J. J. Mahle, C. J. Karwacki, and Y. Wu, In-situ NMR investigation of molecular adsorption and kinetics in MOF UiO-66, *Journal of Physical Chemistry Letters*, 12, 892-899, **(2021)**.](https://pubs.acs.org/doi/10.1021/acs.jpclett.0c03504)"
 2020_islamov_acs_ami:
   - image_path: /assets/img/publications/2020_islamov_acs_ami.png
     alt: "2020_islamov_acs_ami"
