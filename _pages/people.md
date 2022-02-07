@@ -75,6 +75,13 @@ current_members:
     excerpt: "*Undergraduate Student*<br>
     **Nick is interested in in using MOFs to develop electronic noses for disease detection.**
     Nick is an undergraduate mechanical engineer major on the premed track. He is working on the electronic nose project in the WilmerLab, researching the interactions between biomarkers in breath with MOFs."
+  - image_path: /assets/img/people/NatalieSteibelProfilePic.png
+    alt: "Natalie Steibel"
+    title: "Natalie Steibel"
+    excerpt: "*Undergraduate Student*<br>
+    **Natalie is producing a short movie about the causes and consequences of CO2 emission.**
+    The movie will feature carbon capture technology and porous materials. She is a 4th year chemical engineering student at the University of Pittsburgh."
+alumni:
   - image_path: /assets/img/people/SpencerConway.png
     alt: "Spencer Conway"
     title: "Spencer Conway"
@@ -87,13 +94,6 @@ current_members:
     excerpt: "*Undergraduate Student*<br>
     **Christian is interested in using MOFs to develop electronic noses.**
     He is a 4th year chemical engineering student at the University of Pittsburgh."
-  - image_path: /assets/img/people/NatalieSteibelProfilePic.png
-    alt: "Natalie Steibel"
-    title: "Natalie Steibel"
-    excerpt: "*Undergraduate Student*<br>
-    **Natalie is producing a short movie about the causes and consequences of CO2 emission.**
-    The movie will feature carbon capture technology and porous materials. She is a 4th year chemical engineering student at the University of Pittsburgh."
-alumni:
   - image_path: /assets/img/people/XinProfilePic.png
     alt: "Xin Wei"
     title: "Xin Wei"
