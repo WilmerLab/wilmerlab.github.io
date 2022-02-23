@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2022_hasan_hybridization:
+  - image_path: /assets/img/publications/2022_hybridization.jpg
+    alt: "2022_hasan_hybridization"
+    title: "Hybridization from guest–host interactions reduces the thermal conductivity of metal–organic frameworks"
+    excerpt: "**54.** [M. E. DeCoster, H. Babaei, S. S. Jung, Z. M. Hassan, J. T. Gaskins, A. Giri, E. M. Tiernan, J. A. Tomko, H. Baumgart, P. M. Norris, A. J. H. McGaughey, C. E. Wilmer, E. Redel, G. Giri, and P. E. Hopkins, Hybridization from guest–host interactions reduces the thermal conductivity of metal–organic frameworks, *J. Am. Chem. Soc.*, **(2022)**.](https://doi.org/10.1021/jacs.1c12545)"
 2021_boone_jcp:
   - image_path: /assets/img/publications/2021_boone_jcp.png
     alt: "2021_boone_jcp"
@@ -278,6 +283,7 @@ Publications
 
 <table style="width:100%">
   <tr>
+    <th><a href="#2022" class="btn btn--primary">2022</a></th>
     <th><a href="#2021" class="btn btn--primary">2021</a></th>
     <th><a href="#2020" class="btn btn--primary">2020</a></th>
     <th><a href="#2019" class="btn btn--primary">2019</a></th>
@@ -293,6 +299,10 @@ Publications
   </tr>
 </table>
 --------------------------------------------------------------
+
+2022
+----
+{% include feature_row id="2022_hasan_hybridization" type="left" %}
 
 2021
 ----
