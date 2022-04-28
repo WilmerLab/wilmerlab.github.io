@@ -41,7 +41,7 @@ current_members:
     url: "http://www.pitt.edu/~hab85/"
     btn_label: "Personal website"
     btn_class: "btm btn--primary"
-  - image_path: /assets/img/people/BrianProfilePic2.png
+  - image_path: /assets/img/people/BrianProfilePic.png
     alt: "Brian Day"
     title: "Brian Day"
     excerpt: "*Graduate Student*<br>
