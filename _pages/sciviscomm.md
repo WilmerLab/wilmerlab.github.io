@@ -24,6 +24,7 @@ This fast-paced course will train students to produce professional scientific vi
 -   Regular, photorealistic, and nonphotorealistic (NPR) rendering
 -   2D layout and compositing using Inkscape
 -   Python programming for data handling
+-   Test
 
 Course Information
 ------------------
