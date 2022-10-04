@@ -2,7 +2,7 @@
 layout: splash
 title:  "Advanced Scientific Visual Communication"
 permalink: /sciviscomm/
-date:   2018-09-05
+date:   2022-10-04
 categories: pages
 sciviscomm_examples:
   - image_path: /assets/img/teaching/naturecover_400x300.jpg
@@ -14,7 +14,7 @@ sciviscomm_examples:
 ---
 <p> </p>
 
-Advanced Scientific Visual Communication (ChE 3460) Spring 2018
+Advanced Scientific Visual Communication (ChE 3460) Fall 2022
 ===============================================================
 
 This fast-paced course will train students to produce professional scientific visual work, suitable for publications, presentations, and communicating to the public. Advanced topics, such as 3D modeling & animation, handling and visualizing large datasets, interactive displays, and 3D printing will be covered. The course will emphasize the importance of producing high quality artwork in scientific communication. Please bring a laptop and mouse to class (and a keyboard is helpful too).
@@ -24,14 +24,13 @@ This fast-paced course will train students to produce professional scientific vi
 -   Regular, photorealistic, and nonphotorealistic (NPR) rendering
 -   2D layout and compositing using Inkscape
 -   Python programming for data handling
--   Test
 
 Course Information
 ------------------
--   [Syllabus (click here)](/assets/files/2018_AdSciVis_CourseSyllabus.pdf){:target="_blank"}
--   Thursday, 3:30-6:00PM
--   938 Benedum Hall
--   Prof. Wilmer's office hours: Fridays at 2PM
+-   [Syllabus (click here)](/assets/files/2022_AdSciVis_CourseSyllabus.pdf){:target="_blank"}
+-   Mondays/Wednesdays, 3:00-4:15PM
+-   309 Benedum Hall
+-   Prof. Wilmer's office hours: Wednesdays 11am-noon, Fridays 2pm-3pm
 
 ### Software tools you will need (besides Powerpoint, these are all free and open source):
 
@@ -67,16 +66,14 @@ Useful references: ([Surface acoustic wave sensor [Wikipedia]](https://en.wikipe
 
 Assignments
 -----------
--   [Textbook Figure (click here)](/assets/files/2018_AdSciVis_Assignment1.pdf){:target="_blank"}
--   [Journal Figure (click here)](/assets/files/2018_AdSciVis_Assignment2.pdf){:target="_blank"}
-    -   [Proposal 1 data](/assets/files/Assignment2_proposal1_data.xlsx){:target="_blank"}
-    -   [Proposal 2 data](/assets/files/Assignment2_proposal2_data.xlsx){:target="_blank"}
-    -   [Proposal 3 data](/assets/files/Assignment2_proposal3_data.xlsx){:target="_blank"}
--   [Interactive Plotting with Python](https://kbsezginel.github.io/visualization/sciviscomm#4){:target="_blank"}
--   [Cover Art / Movie Project (click here)](/assets/files/2018_AdSciVis_Assignment3.pdf){:target="_blank"}
+-   [Textbook Figure (click here)](/assets/files/2022_Assignment1.pdf){:target="_blank"}
 
 **Figure Redraw**
 
 <a href="/assets/img/teaching/Class4_FigureRedraw.jpg">
   <img border="0" src="/assets/img/teaching/Class4_FigureRedraw.jpg">
 </a>
+
+Extra files
+--------------------------
+-   [Forest (click here)](/assets/files/forest.exr){:target="_blank"}
