@@ -67,6 +67,7 @@ Useful references: ([Surface acoustic wave sensor [Wikipedia]](https://en.wikipe
 Assignments
 -----------
 -   [Textbook Figure (click here)](/assets/files/2022_Assignment1.pdf){:target="_blank"}
+-   [Cover Art (click here)](/assets/files/2022_Assignment2_CoverArt.pdf){:target="_blank"}
 
 **Figure Redraw**
 
@@ -77,3 +78,4 @@ Assignments
 Extra files
 --------------------------
 -   [Forest (click here)](/assets/files/forest.exr){:target="_blank"}
+-   [Caffeine (click here)](/assets/files/caffeine_openBabelTest.pdb){:target="_blank"}
