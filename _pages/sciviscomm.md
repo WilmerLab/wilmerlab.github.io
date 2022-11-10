@@ -79,3 +79,4 @@ Extra files
 --------------------------
 -   [Forest (click here)](/assets/files/forest.exr){:target="_blank"}
 -   [Caffeine (click here)](/assets/files/caffeine_openBabelTest.pdb){:target="_blank"}
+-   [Instructions for Atomic Blender  (click here)](/assets/files/2022_InstructionsForAtomicBlender.pdf){:target="_blank"}
