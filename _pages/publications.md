@@ -5,11 +5,16 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2022_boone_nanoscale:
+  - image_path: /assets/img/publications/2022_boone_nanoscale.png
+    alt: "2022_boone_nanoscale"
+    title: "Designing optimal core–shell MOFs for direct air capture"
+    excerpt: "**55.** [P. Boone, Y. He, A.R. Lieber, J.A. Steckel, N.L. Rosi, K.M. Hornbostel, and C.E. Wilmer, Designing optimal core–shell MOFs for direct air capture, *Nanoscale*, 14, 16085-16096, **(2022)**.](https://pubs.rsc.org/en/content/articlelanding/2022/NR/D2NR03177A)"
 2022_hasan_hybridization:
   - image_path: /assets/img/publications/2022_hybridization.jpg
     alt: "2022_hasan_hybridization"
     title: "Hybridization from guest–host interactions reduces the thermal conductivity of metal–organic frameworks"
-    excerpt: "**54.** [M. E. DeCoster, H. Babaei, S. S. Jung, Z. M. Hassan, J. T. Gaskins, A. Giri, E. M. Tiernan, J. A. Tomko, H. Baumgart, P. M. Norris, A. J. H. McGaughey, C. E. Wilmer, E. Redel, G. Giri, and P. E. Hopkins, Hybridization from guest–host interactions reduces the thermal conductivity of metal–organic frameworks, *J. Am. Chem. Soc.*, **(2022)**.](https://doi.org/10.1021/jacs.1c12545)"
+    excerpt: "**54.** [M. E. DeCoster, H. Babaei, S. S. Jung, Z. M. Hassan, J. T. Gaskins, A. Giri, E. M. Tiernan, J. A. Tomko, H. Baumgart, P. M. Norris, A. J. H. McGaughey, C. E. Wilmer, E. Redel, G. Giri, and P. E. Hopkins, Hybridization from guest–host interactions reduces the thermal conductivity of metal–organic frameworks, *J. Am. Chem. Soc.*, 144, 3603-3613, **(2022)**.](https://doi.org/10.1021/jacs.1c12545)"
 2021_boone_jcp:
   - image_path: /assets/img/publications/2021_boone_jcp.png
     alt: "2021_boone_jcp"
@@ -302,6 +307,8 @@ Publications
 
 2022
 ----
+{% include feature_row id="2022_boone_nanoscale" type="left" %}
+
 {% include feature_row id="2022_hasan_hybridization" type="left" %}
 
 2021
