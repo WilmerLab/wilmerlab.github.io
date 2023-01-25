@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2022_sezginel_controlled_release:
+  - image_path: /assets/img/publications/2022_sezginel_controlled_release.jpg
+    alt: "2022_sezginel_controlled_release"
+    title: "In silico identification and synthesis of a multi-drug loaded MOF for treating tuberculosis"
+    excerpt: "**57.** [A.P. Acharya, K.B. Sezginel, H.P. Gideon, A.C. Greene, H.D. Lawson, S. Inamdar, Y. Tang, A.J. Fraser, K.V. Patel, C. Liu, N.L. Rosi, S.Y. Chan, J.L. Flynn, C.E. Wilmer, and S.R. Little, In silico identification and synthesis of a multi-drug loaded MOF for treating tuberculosis, *Journal of Controlled Release*, 352, 242-255, **(2022)**.](https://www.sciencedirect.com/science/article/pii/S0168365922006940)"
 2022_boone_mofun:
   - image_path: /assets/img/publications/2022_boone_mofun.png
     alt: "2022_boone_mofun"
@@ -312,6 +317,8 @@ Publications
 
 2022
 ----
+{% include feature_row id="2022_sezginel_controlled_release" type="left" %}
+
 {% include feature_row id="2022_boone_mofun" type="left" %}
 
 {% include feature_row id="2022_boone_nanoscale" type="left" %}
