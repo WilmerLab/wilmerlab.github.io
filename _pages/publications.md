@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2023_islamov_naturecompmater:
+  - image_path: /assets/img/publications/2023_islamov_naturecompmater.png
+    alt: "2023_islamov_naturecompmater"
+    title: "High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity"
+    excerpt: "**59.** [M. Islamov, H. Babaei, R. Anderson, K.B. Sezginel, J.R. Long, A.J.H. McGaughey, D.A. Gomez-Gualdron, and C.E. Wilmer, High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity, *npj Computational Materials*, 9, **(2023)**.](https://www.nature.com/articles/s41524-022-00961-x)"
 2022_day_acs_sensor:
   - image_path: /assets/img/publications/2022_day_acs_sensor.jpeg
     alt: "2022_day_acs_sensor"
@@ -319,6 +324,10 @@ Publications
   </tr>
 </table>
 --------------------------------------------------------------
+
+2023
+----
+{% include feature_row id="2023_islamov_naturecompmater" type="left" %}
 
 2022
 ----
