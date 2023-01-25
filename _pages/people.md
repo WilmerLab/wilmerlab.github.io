@@ -8,7 +8,7 @@ chris_wilmer:
   - image_path: /assets/img/people/ChrisProfilePic.jpg
     alt: "Christopher E. Wilmer"
     title: "Christopher E. Wilmer"
-    excerpt: "**Assistant Professor, Department of Chemical & Petroleum Engineering**<br>
+    excerpt: "**Associate Professor, Department of Chemical & Petroleum Engineering**<br>
     B.A.Sc. Engineering Science, University of Toronto, 2007<br>
     Ph.D. Chemical Engineering, Northwestern University, 2013<br>
     Postdoctoral Fellow, Chemistry, Harvard University, 2014<br>
