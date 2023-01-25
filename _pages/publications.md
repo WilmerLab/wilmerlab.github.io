@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2022_day_acs_sensor:
+  - image_path: /assets/img/publications/2022_day_acs_sensor.jpeg
+    alt: "2022_day_acs_sensor"
+    title: "VOC mixture sensing with a MOF film sensor array: Detection and discrimination of xylene isomers and their ternary blends"
+    excerpt: "**58.** [P. Qin, B.A. Day, S. Okur, C. Li, A. Chandresh, C.E. Wilmer, and L. Heinke, VOC mixture sensing with a MOF film sensor array: Detection and discrimination of xylene isomers and their ternary blends, *ACS Sensors*, 7, 1666-1675, **(2022)**.](https://pubs.acs.org/doi/full/10.1021/acssensors.2c00301)"
 2022_sezginel_controlled_release:
   - image_path: /assets/img/publications/2022_sezginel_controlled_release.jpg
     alt: "2022_sezginel_controlled_release"
@@ -317,6 +322,8 @@ Publications
 
 2022
 ----
+{% include feature_row id="2022_day_acs_sensor" type="left" %}
+
 {% include feature_row id="2022_sezginel_controlled_release" type="left" %}
 
 {% include feature_row id="2022_boone_mofun" type="left" %}
