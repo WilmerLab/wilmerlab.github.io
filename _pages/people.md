@@ -24,6 +24,25 @@ chris_wilmer:
     2012 Named to the Forbes Top 30-Under-30 list in Energy Innovation<br>
     [Click here to see more awards](https://www.youtube.com/watch?v=ityRn2IA24A&t=3s)"
 current_members:
+  - image_path: /assets/img/people/MeiirbekProfilePic.jpg
+    alt: "Meiirbek Islamov"
+    title: "Meiirbek Islamov"
+    excerpt: "*Graduate Student*<br>
+    **Meiirbek is interested in thermal transport phenomena in MOFs.**
+    He received his B.S. and M.S degrees in Chemical Engineering from Nazarbayev University (Astana, Kazakhstan) in 2017 and Columbia University in the City of New York in 2018, respectively. At Columbia, he worked on the development of ion selective Membranes for Redox-flow battery. Previously, he spent a summer doing research at Stanford University, where he worked on Rayleigh-Taylor instability in polymer solutions. Also, he visited a TNO (Delft, Netherlands) to work on CO<sub>2</sub> capture."
+  - image_path: /assets/img/people/BeccaProfilePic.png
+    alt: "Becca Segel"
+    title: "Becca Segel"
+    excerpt: "*Graduate Student*<br>
+    **Becca Segel is interested in commercialization of flow battery technologies involving earth abundant materials.**
+    She received her B.S. in Chemical Engineering from Case Western Reserve University in 2020. Becca is co-advised by Chris Wilmer and James McKone."
+  - image_path: /assets/img/people/NickAhualli.png
+    alt: "Nick Ahualli"
+    title: "Nick Ahualli"
+    excerpt: "*Undergraduate Student*<br>
+    **Nick is interested in in using MOFs to develop electronic noses for disease detection.**
+    Nick is an undergraduate mechanical engineer major on the premed track. He is working on the electronic nose project in the WilmerLab, researching the interactions between biomarkers in breath with MOFs."
+alumni:
   - image_path: /assets/img/people/PaulProfilePic.jpg
     alt: "Paul Boone"
     title: "Paul Boone"
@@ -38,21 +57,15 @@ current_members:
     He was recently a visiting scholar in Mechanical Engineering at University of Illinois at Urbana-Champaign.
     During his Ph.D. in Mechanical Engineering at Auburn University, he worked on thermal transport in nanostructure-enhanced phase change materials.
     He received his B.S. and M.S. degrees in Mechanical engineering at the Iran University of Science and Technology and the University of Tehran, respectively."
-    url: "http://www.pitt.edu/~hab85/"
-    btn_label: "Personal website"
-    btn_class: "btm btn--primary"
+    #url: "http://www.pitt.edu/~hab85/"
+    #btn_label: "Personal website"
+    #btn_class: "btm btn--primary"
   - image_path: /assets/img/people/BrianProfilePic.png
     alt: "Brian Day"
     title: "Brian Day"
     excerpt: "*Graduate Student*<br>
     **Brian in screening MOFs for electrical conductivity.**
     He received his B.S. degree in Chemical Engineering from Lehigh University in 2016 where he worked on synthesizing nanoporous films. Previously at Pitt, he worked on developing nanostructured electrodes for lithium-metal batteries. Presently, he is investigating MOFs for electrical conductivity, and continuing to design MOF-based electronic noses."
-  - image_path: /assets/img/people/MeiirbekProfilePic.jpg
-    alt: "Meiirbek Islamov"
-    title: "Meiirbek Islamov"
-    excerpt: "*Graduate Student*<br>
-    **Meiirbek is interested in thermal transport phenomena in MOFs.**
-    He received his B.S. and M.S degrees in Chemical Engineering from Nazarbayev University (Astana, Kazakhstan) in 2017 and Columbia University in the City of New York in 2018, respectively. At Columbia, he worked on the development of ion selective Membranes for Redox-flow battery. Previously, he spent a summer doing research at Stanford University, where he worked on Rayleigh-Taylor instability in polymer solutions. Also, he visited a TNO (Delft, Netherlands) to work on CO<sub>2</sub> capture."
   - image_path: /assets/img/people/DanielProfilePic.jpg
     alt: "Daniel Salmon"
     title: "Daniel Salmon"
@@ -63,25 +76,12 @@ current_members:
     url: "https://daniel-salmon.com"
     btn_label: "Personal website"
     btn_class: "btm btn--primary"
-  - image_path: /assets/img/people/BeccaProfilePic.png
-    alt: "Becca Segel"
-    title: "Becca Segel"
-    excerpt: "*Graduate Student*<br>
-    **Becca Segel is interested in commercialization of flow battery technologies involving earth abundant materials.**
-    She received her B.S. in Chemical Engineering from Case Western Reserve University in 2020. Becca is co-advised by Chris Wilmer and James McKone."
-  - image_path: /assets/img/people/NickAhualli.png
-    alt: "Nick Ahualli"
-    title: "Nick Ahualli"
-    excerpt: "*Undergraduate Student*<br>
-    **Nick is interested in in using MOFs to develop electronic noses for disease detection.**
-    Nick is an undergraduate mechanical engineer major on the premed track. He is working on the electronic nose project in the WilmerLab, researching the interactions between biomarkers in breath with MOFs."
   - image_path: /assets/img/people/NatalieSteibelProfilePic.png
     alt: "Natalie Steibel"
     title: "Natalie Steibel"
     excerpt: "*Undergraduate Student*<br>
     **Natalie is producing a short movie about the causes and consequences of CO2 emission.**
     The movie will feature carbon capture technology and porous materials. She is a 4th year chemical engineering student at the University of Pittsburgh."
-alumni:
   - image_path: /assets/img/people/SpencerConway.png
     alt: "Spencer Conway"
     title: "Spencer Conway"
