@@ -11,7 +11,7 @@ categories: pages
     title: "In silico identification and synthesis of a multi-drug loaded MOF for treating tuberculosis"
     excerpt: "**57.** [A.P. Acharya, K.B. Sezginel, H.P. Gideon, A.C. Greene, H.D. Lawson, S. Inamdar, Y. Tang, A.J. Fraser, K.V. Patel, C. Liu, N.L. Rosi, S.Y. Chan, J.L. Flynn, C.E. Wilmer, and S.R. Little, In silico identification and synthesis of a multi-drug loaded MOF for treating tuberculosis, *Journal of Controlled Release*, 352, 242-255, **(2022)**.](https://www.sciencedirect.com/science/article/pii/S0168365922006940)"
 2022_boone_mofun:
-  - image_path: /assets/img/publications/2022_boone_mofun.png
+  - image_path: /assets/img/publications/2022_boone_mofun.jpeg
     alt: "2022_boone_mofun"
     title: "MOFUN: a Python package for molecular find and replace"
     excerpt: "**56.** [P. Boone, and C.E. Wilmer, MOFUN: a Python package for molecular find and replace, *Digital Discovery*, 1, 679-688, **(2022)**.](https://pubs.rsc.org/en/content/articlelanding/2022/DD/D2DD00044J)"
