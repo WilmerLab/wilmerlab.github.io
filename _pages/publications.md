@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2022_boone_mofun:
+  - image_path: /assets/img/publications/2022_boone_mofun.png
+    alt: "2022_boone_mofun"
+    title: "MOFUN: a Python package for molecular find and replace"
+    excerpt: "**56.** [P. Boone, and C.E. Wilmer, MOFUN: a Python package for molecular find and replace, *Digital Discovery*, 1, 679-688, **(2022)**.](https://pubs.rsc.org/en/content/articlelanding/2022/DD/D2DD00044J)"
 2022_boone_nanoscale:
   - image_path: /assets/img/publications/2022_boone_nanoscale.png
     alt: "2022_boone_nanoscale"
@@ -307,6 +312,8 @@ Publications
 
 2022
 ----
+{% include feature_row id="2022_boone_mofun" type="left" %}
+
 {% include feature_row id="2022_boone_nanoscale" type="left" %}
 
 {% include feature_row id="2022_hasan_hybridization" type="left" %}
