@@ -5,11 +5,36 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2023_islamov_naturecompmater:
+  - image_path: /assets/img/publications/2023_islamov_naturecompmater.png
+    alt: "2023_islamov_naturecompmater"
+    title: "High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity"
+    excerpt: "**59.** [M. Islamov, H. Babaei, R. Anderson, K.B. Sezginel, J.R. Long, A.J.H. McGaughey, D.A. Gomez-Gualdron, and C.E. Wilmer, High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity, *npj Computational Materials*, 9, **(2023)**.](https://www.nature.com/articles/s41524-022-00961-x)"
+2022_day_acs_sensor:
+  - image_path: /assets/img/publications/2022_day_acs_sensor.jpeg
+    alt: "2022_day_acs_sensor"
+    title: "VOC mixture sensing with a MOF film sensor array: Detection and discrimination of xylene isomers and their ternary blends"
+    excerpt: "**58.** [P. Qin, B.A. Day, S. Okur, C. Li, A. Chandresh, C.E. Wilmer, and L. Heinke, VOC mixture sensing with a MOF film sensor array: Detection and discrimination of xylene isomers and their ternary blends, *ACS Sensors*, 7, 1666-1675, **(2022)**.](https://pubs.acs.org/doi/full/10.1021/acssensors.2c00301)"
+2022_sezginel_controlled_release:
+  - image_path: /assets/img/publications/2022_sezginel_controlled_release.jpg
+    alt: "2022_sezginel_controlled_release"
+    title: "In silico identification and synthesis of a multi-drug loaded MOF for treating tuberculosis"
+    excerpt: "**57.** [A.P. Acharya, K.B. Sezginel, H.P. Gideon, A.C. Greene, H.D. Lawson, S. Inamdar, Y. Tang, A.J. Fraser, K.V. Patel, C. Liu, N.L. Rosi, S.Y. Chan, J.L. Flynn, C.E. Wilmer, and S.R. Little, In silico identification and synthesis of a multi-drug loaded MOF for treating tuberculosis, *Journal of Controlled Release*, 352, 242-255, **(2022)**.](https://www.sciencedirect.com/science/article/pii/S0168365922006940)"
+2022_boone_mofun:
+  - image_path: /assets/img/publications/2022_boone_mofun.jpeg
+    alt: "2022_boone_mofun"
+    title: "MOFUN: a Python package for molecular find and replace"
+    excerpt: "**56.** [P. Boone, and C.E. Wilmer, MOFUN: a Python package for molecular find and replace, *Digital Discovery*, 1, 679-688, **(2022)**.](https://pubs.rsc.org/en/content/articlelanding/2022/DD/D2DD00044J)"
+2022_boone_nanoscale:
+  - image_path: /assets/img/publications/2022_boone_nanoscale.png
+    alt: "2022_boone_nanoscale"
+    title: "Designing optimal core–shell MOFs for direct air capture"
+    excerpt: "**55.** [P. Boone, Y. He, A.R. Lieber, J.A. Steckel, N.L. Rosi, K.M. Hornbostel, and C.E. Wilmer, Designing optimal core–shell MOFs for direct air capture, *Nanoscale*, 14, 16085-16096, **(2022)**.](https://pubs.rsc.org/en/content/articlelanding/2022/NR/D2NR03177A)"
 2022_hasan_hybridization:
   - image_path: /assets/img/publications/2022_hybridization.jpg
     alt: "2022_hasan_hybridization"
     title: "Hybridization from guest–host interactions reduces the thermal conductivity of metal–organic frameworks"
-    excerpt: "**54.** [M. E. DeCoster, H. Babaei, S. S. Jung, Z. M. Hassan, J. T. Gaskins, A. Giri, E. M. Tiernan, J. A. Tomko, H. Baumgart, P. M. Norris, A. J. H. McGaughey, C. E. Wilmer, E. Redel, G. Giri, and P. E. Hopkins, Hybridization from guest–host interactions reduces the thermal conductivity of metal–organic frameworks, *J. Am. Chem. Soc.*, **(2022)**.](https://doi.org/10.1021/jacs.1c12545)"
+    excerpt: "**54.** [M. E. DeCoster, H. Babaei, S. S. Jung, Z. M. Hassan, J. T. Gaskins, A. Giri, E. M. Tiernan, J. A. Tomko, H. Baumgart, P. M. Norris, A. J. H. McGaughey, C. E. Wilmer, E. Redel, G. Giri, and P. E. Hopkins, Hybridization from guest–host interactions reduces the thermal conductivity of metal–organic frameworks, *J. Am. Chem. Soc.*, 144, 3603-3613, **(2022)**.](https://doi.org/10.1021/jacs.1c12545)"
 2021_boone_jcp:
   - image_path: /assets/img/publications/2021_boone_jcp.png
     alt: "2021_boone_jcp"
@@ -300,8 +325,20 @@ Publications
 </table>
 --------------------------------------------------------------
 
+2023
+----
+{% include feature_row id="2023_islamov_naturecompmater" type="left" %}
+
 2022
 ----
+{% include feature_row id="2022_day_acs_sensor" type="left" %}
+
+{% include feature_row id="2022_sezginel_controlled_release" type="left" %}
+
+{% include feature_row id="2022_boone_mofun" type="left" %}
+
+{% include feature_row id="2022_boone_nanoscale" type="left" %}
+
 {% include feature_row id="2022_hasan_hybridization" type="left" %}
 
 2021
