@@ -68,6 +68,7 @@ Assignments
 -----------
 -   [Textbook Figure (click here)](/assets/files/2022_Assignment1.pdf){:target="_blank"}
 -   [Cover Art (click here)](/assets/files/2022_Assignment2_CoverArt.pdf){:target="_blank"}
+-   [Movie Project (click here)](/assets/files/2022_Assignment3_MovieProject.pdf){:target="_blank"}
 
 **Figure Redraw**
 
