@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2023_islamov_chemical_science:
+  - image_path: /assets/img/publications/2023_islamov_chemsci.png
+    alt: "2023_islamov_chemical_science"
+    title: "Correlated missing linker defects increase thermal conductivity in metal–organic framework UiO-66"
+    excerpt: "**61.** [M. Islamov, P. Boone, H. Babaei, A. J. H. McGaughey and C. E. Wilmer, Correlated missing linker defects increase thermal conductivity in metal–organic framework UiO-66, *Chemical Science*, 10.1039.D2SC06120A, **(2023)**.](https://pubs.rsc.org/en/content/articlelanding/2023/SC/D2SC06120A)"
 2023_boone_acs_ami:
   - image_path: /assets/img/publications/2023_boone_acs_ami.jpeg
     alt: "2023_boone_acs_ami"
@@ -313,6 +318,7 @@ Publications
 
 <table style="width:100%">
   <tr>
+    <th><a href="#2023" class="btn btn--primary">2023</a></th>
     <th><a href="#2022" class="btn btn--primary">2022</a></th>
     <th><a href="#2021" class="btn btn--primary">2021</a></th>
     <th><a href="#2020" class="btn btn--primary">2020</a></th>
@@ -332,6 +338,7 @@ Publications
 
 2023
 ----
+{% include feature_row id="2023_islamov_chemical_science" type="left" %}
 {% include feature_row id="2023_boone_acs_ami" type="left" %}
 {% include feature_row id="2023_islamov_naturecompmater" type="left" %}
 
