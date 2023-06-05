@@ -5,6 +5,11 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2023_boone_acs_ami:
+  - image_path: /assets/img/publications/2023_boone_acs_ami.jpeg
+    alt: "2023_boone_acs_ami"
+    title: "Implementation of a Core–Shell Design Approach for Constructing MOFs for CO<sub>2</sub> Capture"
+    excerpt: "**60.** [Y. He, P. Boone, A. R. Lieber, Z. Tong, P. Das, K. M. Hornbostel, C. E. Wilmer and N. L. Rosi, Implementation of a Core–Shell Design Approach for Constructing MOFs for CO<sub>2</sub> Capture, *ACS Applied Materials & Interfaces*, 15, 23337–23342, **(2023)**.](https://pubs.acs.org/doi/abs/10.1021/acsami.3c03457)"
 2023_islamov_naturecompmater:
   - image_path: /assets/img/publications/2023_islamov_naturecompmater.png
     alt: "2023_islamov_naturecompmater"
@@ -327,6 +332,7 @@ Publications
 
 2023
 ----
+{% include feature_row id="2023_boone_acs_ami" type="left" %}
 {% include feature_row id="2023_islamov_naturecompmater" type="left" %}
 
 2022
