@@ -36,13 +36,13 @@ current_members:
     excerpt: "*Graduate Student*<br>
     **Becca Segel is interested in commercialization of flow battery technologies involving earth abundant materials.**
     She received her B.S. in Chemical Engineering from Case Western Reserve University in 2020. Becca is co-advised by Chris Wilmer and James McKone."
+alumni:
   - image_path: /assets/img/people/NickAhualli.png
     alt: "Nick Ahualli"
     title: "Nick Ahualli"
     excerpt: "*Undergraduate Student*<br>
-    **Nick is interested in in using MOFs to develop electronic noses for disease detection.**
+    **Nick is interested in using MOFs to develop electronic noses for disease detection.**
     Nick is an undergraduate mechanical engineer major on the premed track. He is working on the electronic nose project in the WilmerLab, researching the interactions between biomarkers in breath with MOFs."
-alumni:
   - image_path: /assets/img/people/PaulProfilePic.jpg
     alt: "Paul Boone"
     title: "Paul Boone"
