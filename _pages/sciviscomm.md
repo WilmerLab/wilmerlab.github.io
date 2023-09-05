@@ -14,7 +14,7 @@ sciviscomm_examples:
 ---
 <p> </p>
 
-Advanced Scientific Visual Communication (ChE 3460) Fall 2022
+Advanced Scientific Visual Communication (ENGR 2460) Fall 2023
 ===============================================================
 
 This fast-paced course will train students to produce professional scientific visual work, suitable for publications, presentations, and communicating to the public. Advanced topics, such as 3D modeling & animation, handling and visualizing large datasets, interactive displays, and 3D printing will be covered. The course will emphasize the importance of producing high quality artwork in scientific communication. Please bring a laptop and mouse to class (and a keyboard is helpful too).
