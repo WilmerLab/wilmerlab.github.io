@@ -7,7 +7,7 @@ categories: pages
 che3460:
   - image_path: /assets/img/teaching/molecularNanostructure.png
     alt: "che3460"
-    title: "Advanced Scientific Visual Communication ChE (3460) Fall 2022"
+    title: "Advanced Scientific Visual Communication (ENGR 2460) Fall 2023"
     excerpt: "This fast-paced course will train students to produce professional scientific visual work, suitable for publications, presentations, and communicating to the public. Advanced topics, such as 3D modeling & animation, handling and visualizing large datasets, interactive displays, and 3D printing will be covered. The course will emphasize the importance of producing high quality artwork in scientific communication."
     url: "/sciviscomm/"
     btn_label: "More"
