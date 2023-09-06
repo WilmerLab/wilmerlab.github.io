@@ -27,17 +27,17 @@ This fast-paced course will train students to produce professional scientific vi
 
 Course Information
 ------------------
--   [Syllabus (click here)](/assets/files/2022_AdSciVis_CourseSyllabus.pdf){:target="_blank"}
+-   [Syllabus (click here)](/assets/files/2023_AdSciVis_CourseSyllabus.pdf){:target="_blank"}
 -   Mondays/Wednesdays, 3:00-4:15PM
 -   309 Benedum Hall
--   Prof. Wilmer's office hours: Wednesdays 11am-noon, Fridays 2pm-3pm
+-   Prof. Wilmer's office hours: Wednesdays 11am-noon, Fridays 2pm-3pm (*Note: These were office hours from 2022 - but if they work for eeveryone I'll keep them the same)
 
 ### Software tools you will need (besides Powerpoint, these are all free and open source):
 
 -   Microsoft Powerpoint
 -   [Inkscape](https://inkscape.org/en/){:target="_blank"}
 -   [Gimp](https://www.gimp.org/){:target="_blank"}
--   [Blender](https://www.blender.org/){:target="_blank"}
+-   [Blender](https://www.blender.org/){:target="_blank"} (*Note: Please use version 3.0 or higher)
 
 ### Supplemental reference material:
 
@@ -64,7 +64,7 @@ An increasing number of anecdotal reports exist of animals (and even an elderly 
 **[National Science Foundation](https://www.nsf.gov/){:target="_blank"} - Requested amount: $3.5 million USD** <br>
 Useful references: ([Surface acoustic wave sensor [Wikipedia]](https://en.wikipedia.org/wiki/Surface_acoustic_wave_sensor){:target="_blank"})
 
-Assignments
+Assignments (*Note: Below are the assignments from the 2022 year, but I am leaving them up for now)
 -----------
 -   [Textbook Figure (click here)](/assets/files/2022_Assignment1.pdf){:target="_blank"}
 -   [Cover Art (click here)](/assets/files/2022_Assignment2_CoverArt.pdf){:target="_blank"}
