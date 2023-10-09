@@ -24,6 +24,12 @@ chris_wilmer:
     2012 Named to the Forbes Top 30-Under-30 list in Energy Innovation<br>
     [Click here to see more awards](https://www.youtube.com/watch?v=ityRn2IA24A&t=3s)"
 current_members:
+  - image_path: /assets/img/people/DominickProfilePic.jpg
+    alt: "Dominick Filonowich"
+    title: "Dominick Filonowich"
+    excerpt: "*Graduate Student*<br>
+    **Dominick is interested in developing tools to ease the generation of more complex chemical structures for quantum chemical and classical calculations.**
+    He received a B.S. in Chemical Engineering with a minor in Chemistry in 2020 from the New Mexico Institute of Mining and Technology. He received a M.S. in Chemical Engineering in 2022 from the University of Pittsburgh working with Dr. John Keith investigating polymer crystalline hydrates via quantum chemical calculations."
   - image_path: /assets/img/people/MeiirbekProfilePic.jpg
     alt: "Meiirbek Islamov"
     title: "Meiirbek Islamov"
