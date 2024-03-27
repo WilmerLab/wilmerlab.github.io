@@ -24,12 +24,12 @@ chris_wilmer:
     2012 Named to the Forbes Top 30-Under-30 list in Energy Innovation<br>
     [Click here to see more awards](https://www.youtube.com/watch?v=ityRn2IA24A&t=3s)"
 current_members:
-  - image_path: /assets/img/people/MeiirbekProfilePic.jpg
-    alt: "Meiirbek Islamov"
-    title: "Meiirbek Islamov"
+  - image_path: /assets/img/people/DominickProfilePic.jpg
+    alt: "Dominick Filonowich"
+    title: "Dominick Filonowich"
     excerpt: "*Graduate Student*<br>
-    **Meiirbek is interested in thermal transport phenomena in MOFs.**
-    He received his B.S. and M.S degrees in Chemical Engineering from Nazarbayev University (Astana, Kazakhstan) in 2017 and Columbia University in the City of New York in 2018, respectively. At Columbia, he worked on the development of ion selective Membranes for Redox-flow battery. Previously, he spent a summer doing research at Stanford University, where he worked on Rayleigh-Taylor instability in polymer solutions. Also, he visited a TNO (Delft, Netherlands) to work on CO<sub>2</sub> capture."
+    **Dominick is interested in developing tools to ease the generation of more complex chemical structures for quantum chemical and classical calculations.**
+    He received a B.S. in Chemical Engineering with a minor in Chemistry in 2020 from the New Mexico Institute of Mining and Technology. He received a M.S. in Chemical Engineering in 2022 from the University of Pittsburgh working with Dr. John Keith investigating polymer crystalline hydrates via quantum chemical calculations."
   - image_path: /assets/img/people/BeccaProfilePic.png
     alt: "Becca Segel"
     title: "Becca Segel"
@@ -43,6 +43,12 @@ current_members:
     **Shreya Thakkar is interested in understanding the hydrogen transfer and activation in metal oxides.**
     She received her Master's in Chemical Engineering in 2022 form University of Massachusetts, Amherst where she worked on developing a technique for characterization of catalysts and studying CO chemisorption on platinum group metals. She received her Bachelor's in Chemical Engineering from Institute of Chemical Technology, Mumbai. She is co-advised by Chris Wilmer and James McKone."
 alumni:
+  - image_path: /assets/img/people/MeiirbekProfilePic.jpg
+    alt: "Meiirbek Islamov"
+    title: "Meiirbek Islamov"
+    excerpt: "*Graduate Student*<br>
+    **Meiirbek is interested in thermal transport phenomena in MOFs.**
+    He received his B.S. and M.S degrees in Chemical Engineering from Nazarbayev University (Astana, Kazakhstan) in 2017 and Columbia University in the City of New York in 2018, respectively. At Columbia, he worked on the development of ion selective Membranes for Redox-flow battery. Previously, he spent a summer doing research at Stanford University, where he worked on Rayleigh-Taylor instability in polymer solutions. Also, he visited a TNO (Delft, Netherlands) to work on CO<sub>2</sub> capture."
   - image_path: /assets/img/people/NickAhualli.png
     alt: "Nick Ahualli"
     title: "Nick Ahualli"
