@@ -24,6 +24,12 @@ chris_wilmer:
     2012 Named to the Forbes Top 30-Under-30 list in Energy Innovation<br>
     [Click here to see more awards](https://www.youtube.com/watch?v=ityRn2IA24A&t=3s)"
 current_members:
+  - image_path: /assets/img/people/YufengProfilePic.jpg
+    alt: "Yufeng Qian"
+    title: "Yufeng Qian"
+    excerpt: "*Graduate Student*<br>
+    **Yufeng has a strong foundation in machine learning and computational simulation. He is passionate about AI and deploying Deep Learning technology into the Chemical Engineering field..**
+    He received his master degree in Chemical Engineering from Carnegie Mellon University. He is currently leading the "Electronic Nose" project and the PFAS Adsorption Project, aiming to contribute to a brighter future."
   - image_path: /assets/img/people/DominickProfilePic.jpg
     alt: "Dominick Filonowich"
     title: "Dominick Filonowich"
