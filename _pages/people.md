@@ -28,8 +28,8 @@ current_members:
     alt: "Yufeng Qian"
     title: "Yufeng Qian"
     excerpt: "*Graduate Student*<br>
-    **Yufeng has a strong foundation in machine learning and computational simulation. He is passionate about AI and deploying Deep Learning technology into the Chemical Engineering field..**
-    He received his master degree in Chemical Engineering from Carnegie Mellon University. He is currently leading the "Electronic Nose" project and the PFAS Adsorption Project, aiming to contribute to a brighter future."
+    **Yufeng has a strong foundation in machine learning and computational simulation. He is passionate about AI and deploying Deep Learning technology into the Chemical Engineering field.**
+    He received his master degree in Chemical Engineering from Carnegie Mellon University. He is currently leading the \"Electronic Nose\" project and the PFAS Adsorption Project, aiming to contribute to a brighter future."
   - image_path: /assets/img/people/DominickProfilePic.jpg
     alt: "Dominick Filonowich"
     title: "Dominick Filonowich"
