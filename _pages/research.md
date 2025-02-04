@@ -4,6 +4,11 @@ title:  "Research"
 permalink: /research/
 date:   2018-09-05
 categories: pages
+electronic_nose:
+  - image_path: /assets/img/research/ENose.png
+    alt: "Electronic Nose"
+    title: "Electronic Nose"
+    excerpt: "An electronic nose (e-nose) is an analytical device designed for detecting and identifying odors or volatile compounds through an array of chemical sensors (MOFs) coupled with machine learning algorithms. By mimicking the human olfactory system, e-noses analyze the unique chemical signatures of gaseous mixtures for qualitative and quantitative assessments. We aim to develop a comprehensive sensor array capable of detecting all gas combinations and determining their composition, creating a true artificial analogue of the human nose. These technologies have broad market potential in fields such as medical diagnostics, food quality control, environmental monitoring, and industrial safety."
 molecular_nanostructure:
   - image_path: /assets/img/research/molecularNanostructure.png
     alt: "Molecular Nanostructures"
@@ -15,12 +20,6 @@ crystal_engineering:
     title: "Crystal Engineering / 3D Polymers"
     excerpt: "The ability to engineer the properties of crystals (rather than discover them through trial-and-error) is an open challenge in materials science.
     Certain classes of materials, such as metal-organic frameworks (MOFs) or covalent-organic frameworks (COFs), show promise for their ability to be rationally designed. MOFs and COFs self-assemble from modular building blocks, just like polymers, but whereas traditional polymers grow as linear chains and result in amorphous materials, MOFs and COFs grow in three dimensions and become highly ordered crystalline solids."
-computational_microscopy:
-  - image_path: /assets/img/research/compMicroscope.png
-    alt: "Computational Microscopy"
-    title: "Computational Microscopy"
-    excerpt: "The *computational microscope* is a metaphor, which refers to the use of computer simulations to help us *see* phenomena at length and time scales that are too small (or too large) for us to see with our naked eyes. Computational microscopes can allow us to see the vibration of atoms in solids, or the complex ways in which proteins fold. They are also similar to *physical* microscopes in that they can take years to build and refine.
-    In our research group, we build new computational microscopes to help see physical phenomena that were not possible to see before."
 ---
 <p> </p>
 
@@ -47,10 +46,15 @@ Prof. Wilmer discusses our latest venture into designing new tools for modeling 
 
 ### High Density Energy Storage Using Self-Assembled Materials
 
-This movie, from Prof. Wilmer's research at Northwestern, captures the spirit of the research we do here at Pitt!
+This movie, from Prof. Wilmer's research at Northwestern, captures the spirit of the research we do here at Pitt!<br>
+<br>
 
-{% include feature_row id="molecular_nanostructure" type="left" %}
+{% include feature_row id="electronic_nose" type="left" %}
 
 {% include feature_row id="crystal_engineering" type="right" %}
 
-{% include feature_row id="computational_microscopy" type="left" %}
+{% include feature_row id="molecular_nanostructure" type="left" %}
+
+
+
+
