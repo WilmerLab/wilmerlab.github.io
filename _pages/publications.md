@@ -5,6 +5,36 @@ permalink: /publications/
 date:   2022-01-09
 categories: pages
 
+2024_chinmay:
+  - image_path: /assets/img/publications/2024chinmay.jpeg
+    alt: "2024_chinmay"
+    title: "The Impact of Missing Linker Defects in UiO-66 on Adsorption and Diffusion of Isopropyl Alcohol"
+    excerpt: "**67.** [Mhatre, C. V., Wardzala, J. J., Oliver, M. C., Islamov, M., Boone, P., Wilmer, C., ... & Johnson, J. K. (2024). The Impact of Missing Linker Defects in UiO-66 on Adsorption and Diffusion of Isopropyl Alcohol. The Journal of Physical Chemistry C, 128(32), 13577-13587., **(2024)**.](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.4c02982)"
+2024_day_acs:
+  - image_path: /assets/img/publications/2024day.jpeg
+    alt: "2024_day_acs"
+    title: "Multipressure Sampling for Improving the Performance of MOF-based Electronic Noses"
+    excerpt: "**66.** [Day, B. A., Ahualli, N. I., & Wilmer, C. E. (2024). Multipressure Sampling for Improving the Performance of MOF-based Electronic Noses. ACS sensors, 9(7), 3531-3539., **(2024)**.](https://pubs.acs.org/doi/full/10.1021/acssensors.4c00199)"
+2024_chris:
+  - image_path: /assets/img/publications/2024chris.jpg
+    alt: "2024_chris"
+    title: "Integrating crystallographic and computational approaches to carbon-capture materials for the mitigation of climate change"
+    excerpt: "**65.** [Cockayne, E., McDannald, A., Wong-Ng, W., Chen, Y. S., Benedict, J., Barragán, F. G., ... & Brown, C. (2024). Integrating crystallographic and computational approaches to carbon-capture materials for the mitigation of climate change. Journal of Materials Chemistry A, 12(38), 25678-25695., **(2024)**.](https://pubs.rsc.org/en/content/articlehtml/2024/ta/d4ta04136d)"
+2023_zeng:
+  - image_path: /assets/img/publications/zeng.jpeg
+    alt: "2023_zeng"
+    title: "Size-Based Norfentanyl Detection with SWCNT@UiO-MOF Composites"
+    excerpt: "**64.** [Zeng, Z., Islamov, M., He, Y., Day, B. A., Rosi, N. L., Wilmer, C. E., & Star, A. (2023). Size-Based Norfentanyl Detection with SWCNT@ UiO-MOF Composites. ACS Applied Materials & Interfaces, 16(1), 1361-1369., **(2023)**.](https://pubs.acs.org/doi/full/10.1021/acsami.3c17503)"
+2023_lieber:
+  - image_path: /assets/img/publications/lieber.jpg
+    alt: "2023_lieber"
+    title: "Parametric simulations of hierarchical core–shell MOF materials for direct air capture"
+    excerpt: "**63.** [Lieber, A. R., Boone, P., He, Y., Steckel, J. A., Rosi, N. L., Wilmer, C. E., & Hornbostel, K. M. (2023). Parametric simulations of hierarchical core–shell MOF materials for direct air capture. Separation and Purification Technology, 322, 124180., **(2023)**.](https://www.sciencedirect.com/science/article/pii/S1383586623010882)"
+2023_islamov_npj:
+  - image_path: /assets/img/publications/npj.jpg
+    alt: "2023_islamov_npj"
+    title: "High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity"
+    excerpt: "**62.** [Islamov, M., Babaei, H., Anderson, R., Sezginel, K. B., Long, J. R., McGaughey, A. J., ... & Wilmer, C. E. (2023). High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity. npj Computational Materials, 9(1), 11., **(2023)**.](https://www.nature.com/articles/s41524-022-00961-x)"
 2023_islamov_chemical_science:
   - image_path: /assets/img/publications/2023_islamov_chemsci.png
     alt: "2023_islamov_chemical_science"
@@ -318,6 +348,7 @@ Publications
 
 <table style="width:100%">
   <tr>
+    <th><a href="#2024" class="btn btn--primary">2024</a></th>
     <th><a href="#2023" class="btn btn--primary">2023</a></th>
     <th><a href="#2022" class="btn btn--primary">2022</a></th>
     <th><a href="#2021" class="btn btn--primary">2021</a></th>
@@ -336,8 +367,17 @@ Publications
 </table>
 --------------------------------------------------------------
 
+2024
+----
+{% include feature_row id="2024_chinmay" type="left" %}
+{% include feature_row id="2024_day_acs" type="left" %}
+{% include feature_row id="2024_chris" type="left" %}
+
 2023
 ----
+{% include feature_row id="2023_zeng" type="left" %}
+{% include feature_row id="2023_lieber" type="left" %}
+{% include feature_row id="2023_islamov_npj" type="left" %}
 {% include feature_row id="2023_islamov_chemical_science" type="left" %}
 {% include feature_row id="2023_boone_acs_ami" type="left" %}
 {% include feature_row id="2023_islamov_naturecompmater" type="left" %}
