@@ -8,22 +8,22 @@ categories: pages
 2024_chinmay:
   - image_path: /assets/img/publications/2024chinmay.jpeg
     alt: "2024_chinmay"
-    title: "The Impact of Missing Linker Defects in UiO-66 on Adsorption and Diffusion of Isopropyl Alcohol"
-    excerpt: "**67.** [Mhatre, C. V., Wardzala, J. J., Oliver, M. C., Islamov, M., Boone, P., Wilmer, C., ... & Johnson, J. K. (2024). The Impact of Missing Linker Defects in UiO-66 on Adsorption and Diffusion of Isopropyl Alcohol. The Journal of Physical Chemistry C, 128(32), 13577-13587., **(2024)**.](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.4c02982)"
+    title: "The impact of missing linker defects in UiO-66 on adsorption and diffusion of isopropyl alcohol"
+    excerpt: "**67.** [Mhatre, C. V., Wardzala, J. J., Oliver, M. C., Islamov, M., Boone, P., Wilmer, C., Huang, L. & Johnson, J. K. (2024). The Impact of Missing Linker Defects in UiO-66 on Adsorption and Diffusion of Isopropyl Alcohol. The Journal of Physical Chemistry C, 128(32), 13577-13587., **(2024)**.](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.4c02982)"
 2024_day_acs:
   - image_path: /assets/img/publications/2024day.jpeg
     alt: "2024_day_acs"
-    title: "Multipressure Sampling for Improving the Performance of MOF-based Electronic Noses"
+    title: "Multipressure sampling for improving the performance of MOF-based electronic noses"
     excerpt: "**66.** [Day, B. A., Ahualli, N. I., & Wilmer, C. E. (2024). Multipressure Sampling for Improving the Performance of MOF-based Electronic Noses. ACS sensors, 9(7), 3531-3539., **(2024)**.](https://pubs.acs.org/doi/full/10.1021/acssensors.4c00199)"
 2024_chris:
   - image_path: /assets/img/publications/2024chris.jpg
     alt: "2024_chris"
     title: "Integrating crystallographic and computational approaches to carbon-capture materials for the mitigation of climate change"
-    excerpt: "**65.** [Cockayne, E., McDannald, A., Wong-Ng, W., Chen, Y. S., Benedict, J., Barragán, F. G., ... & Brown, C. (2024). Integrating crystallographic and computational approaches to carbon-capture materials for the mitigation of climate change. Journal of Materials Chemistry A, 12(38), 25678-25695., **(2024)**.](https://pubs.rsc.org/en/content/articlehtml/2024/ta/d4ta04136d)"
+    excerpt: "**65.** [Cockayne, Eric, et al. (2024). Integrating crystallographic and computational approaches to carbon-capture materials for the mitigation of climate change. Journal of Materials Chemistry A, 12(38), 25678-25695., **(2024)**.](https://pubs.rsc.org/en/content/articlehtml/2024/ta/d4ta04136d)"
 2023_zeng:
   - image_path: /assets/img/publications/zeng.jpeg
     alt: "2023_zeng"
-    title: "Size-Based Norfentanyl Detection with SWCNT@UiO-MOF Composites"
+    title: "Size-Based norfentanyl detection with SWCNT@UiO-MOF composites"
     excerpt: "**64.** [Zeng, Z., Islamov, M., He, Y., Day, B. A., Rosi, N. L., Wilmer, C. E., & Star, A. (2023). Size-Based Norfentanyl Detection with SWCNT@ UiO-MOF Composites. ACS Applied Materials & Interfaces, 16(1), 1361-1369., **(2023)**.](https://pubs.acs.org/doi/full/10.1021/acsami.3c17503)"
 2023_lieber:
   - image_path: /assets/img/publications/lieber.jpg
@@ -34,7 +34,7 @@ categories: pages
   - image_path: /assets/img/publications/npj.jpg
     alt: "2023_islamov_npj"
     title: "High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity"
-    excerpt: "**62.** [Islamov, M., Babaei, H., Anderson, R., Sezginel, K. B., Long, J. R., McGaughey, A. J., ... & Wilmer, C. E. (2023). High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity. npj Computational Materials, 9(1), 11., **(2023)**.](https://www.nature.com/articles/s41524-022-00961-x)"
+    excerpt: "**62.** [Islamov, M., Babaei, H., Anderson, R., Sezginel, K. B., Long, J. R., McGaughey, A. J., D. A. Gomez-Gualdron & Wilmer, C. E. (2023). High-throughput screening of hypothetical metal-organic frameworks for thermal conductivity. npj Computational Materials, 9(1), 11., **(2023)**.](https://www.nature.com/articles/s41524-022-00961-x)"
 2023_islamov_chemical_science:
   - image_path: /assets/img/publications/2023_islamov_chemsci.png
     alt: "2023_islamov_chemical_science"
@@ -43,7 +43,7 @@ categories: pages
 2023_boone_acs_ami:
   - image_path: /assets/img/publications/2023_boone_acs_ami.jpeg
     alt: "2023_boone_acs_ami"
-    title: "Implementation of a Core–Shell Design Approach for Constructing MOFs for CO<sub>2</sub> Capture"
+    title: "Implementation of a core–Shell design approach for constructing MOFs for CO<sub>2</sub> capture"
     excerpt: "**60.** [Y. He, P. Boone, A. R. Lieber, Z. Tong, P. Das, K. M. Hornbostel, C. E. Wilmer and N. L. Rosi, Implementation of a Core–Shell Design Approach for Constructing MOFs for CO<sub>2</sub> Capture, *ACS Applied Materials & Interfaces*, 15, 23337–23342, **(2023)**.](https://pubs.acs.org/doi/abs/10.1021/acsami.3c03457)"
 2023_islamov_naturecompmater:
   - image_path: /assets/img/publications/2023_islamov_naturecompmater.png
