@@ -30,6 +30,13 @@ current_members:
     excerpt: "*Graduate Student*<br>
     **Yufeng has a strong foundation in machine learning and computational simulation. He is passionate about AI and deploying Deep Learning technology into the Chemical Engineering field.**
     He received his master degree in Chemical Engineering from Carnegie Mellon University. He is currently leading the \"Electronic Nose\" project and the PFAS Adsorption Project, aiming to contribute to a brighter future."
+  - image_path: /assets/img/people/ShreyaThakkar.png
+    alt: "Shreya Thakkar"
+    title: "Shreya Thakkar"
+    excerpt: "*Graduate Student*<br>
+    **Shreya Thakkar is interested in understanding the hydrogen transfer and activation in metal oxides.**
+    She received her Master's in Chemical Engineering in 2022 form University of Massachusetts, Amherst where she worked on developing a technique for characterization of catalysts and studying CO chemisorption on platinum group metals. She received her Bachelor's in Chemical Engineering from Institute of Chemical Technology, Mumbai. She is co-advised by Chris Wilmer and James McKone."
+alumni:
   - image_path: /assets/img/people/DominickProfilePic.jpg
     alt: "Dominick Filonowich"
     title: "Dominick Filonowich"
@@ -42,13 +49,6 @@ current_members:
     excerpt: "*Graduate Student*<br>
     **Becca Segel is interested in commercialization of flow battery technologies involving earth abundant materials.**
     She received her B.S. in Chemical Engineering from Case Western Reserve University in 2020. Becca is co-advised by Chris Wilmer and James McKone."
-  - image_path: /assets/img/people/ShreyaThakkar.png
-    alt: "Shreya Thakkar"
-    title: "Shreya Thakkar"
-    excerpt: "*Graduate Student*<br>
-    **Shreya Thakkar is interested in understanding the hydrogen transfer and activation in metal oxides.**
-    She received her Master's in Chemical Engineering in 2022 form University of Massachusetts, Amherst where she worked on developing a technique for characterization of catalysts and studying CO chemisorption on platinum group metals. She received her Bachelor's in Chemical Engineering from Institute of Chemical Technology, Mumbai. She is co-advised by Chris Wilmer and James McKone."
-alumni:
   - image_path: /assets/img/people/MeiirbekProfilePic.jpg
     alt: "Meiirbek Islamov"
     title: "Meiirbek Islamov"
