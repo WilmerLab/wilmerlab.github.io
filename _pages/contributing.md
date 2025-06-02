@@ -51,6 +51,7 @@ year_lastname_journal:
 
 ## 3. See your changes locally (optional)
 Install the theme. [See instructions here](https://mmistakes.github.io/minimal-mistakes/docs/installation/).
+Run command 'bundle exec jekyll serve --livereload' to see the website
 
 ## 4. Push your changes and create a pull request
 When you are done making changes commit and push those changes to your fork of the repository.
