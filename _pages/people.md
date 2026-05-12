@@ -29,13 +29,25 @@ current_members:
     title: "Yufeng Qian"
     excerpt: "*Graduate Student*<br>
     **Yufeng has a strong foundation in machine learning and computational simulation. He is passionate about AI and deploying Deep Learning technology into the Chemical Engineering field.**
-    He received his master degree in Chemical Engineering from Carnegie Mellon University. He is currently leading the \"Electronic Nose\" project and the PFAS Adsorption Project, aiming to contribute to a brighter future."
+    He received his master degree in Chemical Engineering from Carnegie Mellon University. He is currently leading the \"Electronic Nose\" project and the PFAS adsorption project, aiming to contribute to a brighter future."
   - image_path: /assets/img/people/ShreyaThakkar.png
     alt: "Shreya Thakkar"
     title: "Shreya Thakkar"
     excerpt: "*Graduate Student*<br>
     **Shreya Thakkar is interested in understanding the hydrogen transfer and activation in metal oxides.**
     She received her Master's in Chemical Engineering in 2022 form University of Massachusetts, Amherst where she worked on developing a technique for characterization of catalysts and studying CO chemisorption on platinum group metals. She received her Bachelor's in Chemical Engineering from Institute of Chemical Technology, Mumbai. She is co-advised by Chris Wilmer and James McKone."
+  - image_path: /assets/img/people/LakshmiProfilePic.png
+    alt: "Lakshmi Ananthabhotla"
+    title: "Lakshmi Ananthabhotla"
+    excerpt: "*Graduate Student*<br>
+    **Lakshmi is interested in developing machine learning interatomic potentials for reactive and non-reactive systems.**
+    She received her bachelor’s degree from Amrita Vishwa Vidyapeetham, India, in 2021. Prior to joining Pitt, she worked as a Project Associate at the Indian Institute of Technology Madras, where she modeled and simulated packed bed reactors for the dehydration of soap particles. At the University of Pittsburgh, Lakshmi is currently leading a project on modeling polyurethane pyrolysis to better understand the resulting product spectrum. She is co-advised by Chris Wilmer and Karl Johnson."
+  - image_path: /assets/img/people/BereketProfilePic.png
+    alt: "Bereket Argaw"
+    title: "Bereket Argaw"
+    excerpt: "*Graduate Student*<br>
+    **Bereket is interested in designing, screening, and fabricating custom MOFs for encapsulating specific peptides and smaller proteins to enhance drug delivery.**
+    Bereket attended Howard University for a masters and Addis Ababa Science and Technology University for a bachelor's in chemical engineering. She is co-mentored by Steven Little and Chris Wilmer. Outside the lab, she enjoys playing pickleball and going for long walks."
 alumni:
   - image_path: /assets/img/people/DominickProfilePic.jpg
     alt: "Dominick Filonowich"
